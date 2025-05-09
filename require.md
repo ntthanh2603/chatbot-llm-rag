@@ -1,5 +1,8 @@
 ##### Các yêu cầu của dự án
 
+- Xây dựng hệ thống có thể trả lời các câu hỏi. Bạn có thể làm nhiệm vụ trả lời các câu hỏi thực tế(QA). Vì các hệ thống QA hiện tại có thể không đủ kiến thức cần thiết trong lĩnh vực này, bạn sẽ cần bổ xung thêm các dữ liệu có liên quan vào mỗi câu hỏi. Với mỗi câu hỏi đầu vào, hệ thống của bạn sẽ lấy các tài liệu và sử dụng các tài liệu đó để tạo ra câu trả lời.
+- Bạn phải thu thập dữ liệu của riêng mình và phát triển một mô hình theo lựa chọn của bạn trên dữ liệu này. Bạn sẽ chạy hệ thống đã xây dựng của mình trên dữ liệu này để gửi kết quả. Chúng tôi cũng yêu cầu bạn làm theo một số phương pháp hay nhất trong thử nghiệm và mô tả kêts quả trong báo cáo của bạn.
+
 ###### Định dạng dữ liệu
 
 - Tập questions.txt một tệp văn bản chứa 1 câu hỏi trên 1 dòng.
