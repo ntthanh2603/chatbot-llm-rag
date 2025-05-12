@@ -1,0 +1,135 @@
+
+2025-05-12 13:49:05,149 - INFO - Starting VNU website scraper for multiple pages
+2025-05-12 13:49:05,153 - INFO - Scraping page 1/33: https://vnu.edu.vn/home/?C1916
+2025-05-12 13:49:05,153 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1916
+2025-05-12 13:49:06,558 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:06,681 - INFO - Data for https://vnu.edu.vn/home/?C1916 has been saved.
+2025-05-12 13:49:08,682 - INFO - Scraping page 2/33: https://vnu.edu.vn/home/?C1917
+2025-05-12 13:49:08,684 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1917
+2025-05-12 13:49:10,072 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:10,284 - INFO - Data for https://vnu.edu.vn/home/?C1917 has been saved.
+2025-05-12 13:49:12,286 - INFO - Scraping page 3/33: https://vnu.edu.vn/home/?C1918
+2025-05-12 13:49:12,288 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1918
+2025-05-12 13:49:13,645 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:13,782 - INFO - Data for https://vnu.edu.vn/home/?C1918 has been saved.
+2025-05-12 13:49:15,784 - INFO - Scraping page 4/33: https://vnu.edu.vn/home/?C1919
+2025-05-12 13:49:15,786 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1919
+2025-05-12 13:49:17,344 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:17,593 - INFO - Data for https://vnu.edu.vn/home/?C1919 has been saved.
+2025-05-12 13:49:19,594 - INFO - Scraping page 5/33: https://vnu.edu.vn/home/?C2451
+2025-05-12 13:49:19,595 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C2451
+2025-05-12 13:49:21,018 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:21,141 - INFO - Data for https://vnu.edu.vn/home/?C2451 has been saved.
+2025-05-12 13:49:23,142 - INFO - Scraping page 6/33: https://vnu.edu.vn/home/?C1700
+2025-05-12 13:49:23,144 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1700
+2025-05-12 13:49:24,063 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:24,173 - INFO - Data for https://vnu.edu.vn/home/?C1700 has been saved.
+2025-05-12 13:49:26,175 - INFO - Scraping page 7/33: https://vnu.edu.vn/home/?C1701
+2025-05-12 13:49:26,176 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1701
+2025-05-12 13:49:27,879 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:28,022 - INFO - Data for https://vnu.edu.vn/home/?C1701 has been saved.
+2025-05-12 13:49:30,024 - INFO - Scraping page 8/33: https://vnu.edu.vn/home/?C1702
+2025-05-12 13:49:30,024 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1702
+2025-05-12 13:49:31,411 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:31,591 - INFO - Data for https://vnu.edu.vn/home/?C1702 has been saved.
+2025-05-12 13:49:33,592 - INFO - Scraping page 9/33: https://vnu.edu.vn/home/?C1705
+2025-05-12 13:49:33,593 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1705
+2025-05-12 13:49:34,881 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:34,965 - INFO - Data for https://vnu.edu.vn/home/?C1705 has been saved.
+2025-05-12 13:49:36,966 - INFO - Scraping page 10/33: https://www.vnu.edu.vn/home/?C1706
+2025-05-12 13:49:36,968 - INFO - Attempting to connect to https://www.vnu.edu.vn/home/?C1706
+2025-05-12 13:49:38,287 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:38,384 - INFO - Data for https://www.vnu.edu.vn/home/?C1706 has been saved.
+2025-05-12 13:49:40,385 - INFO - Scraping page 11/33: https://vnu.edu.vn/home/?C1703
+2025-05-12 13:49:40,387 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1703
+2025-05-12 13:49:41,789 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:42,049 - INFO - Data for https://vnu.edu.vn/home/?C1703 has been saved.
+2025-05-12 13:49:44,050 - INFO - Scraping page 12/33: https://vnu.edu.vn/home/?C1704
+2025-05-12 13:49:44,051 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1704
+2025-05-12 13:49:45,388 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:45,721 - INFO - Data for https://vnu.edu.vn/home/?C1704 has been saved.
+2025-05-12 13:49:47,723 - INFO - Scraping page 13/33: https://vnu.edu.vn/home/?C1707
+2025-05-12 13:49:47,724 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1707
+2025-05-12 13:49:48,916 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:49,011 - INFO - Data for https://vnu.edu.vn/home/?C1707 has been saved.
+2025-05-12 13:49:51,013 - INFO - Scraping page 14/33: https://vnu.edu.vn/home/?C1708
+2025-05-12 13:49:51,014 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1708
+2025-05-12 13:49:52,269 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:52,347 - INFO - Data for https://vnu.edu.vn/home/?C1708 has been saved.
+2025-05-12 13:49:53,526 - INFO - Scraping page 15/33: https://vnu.edu.vn/home/?C1709
+2025-05-12 13:49:53,585 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1709
+2025-05-12 13:49:54,730 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:54,817 - INFO - Data for https://vnu.edu.vn/home/?C1709 has been saved.
+2025-05-12 13:49:56,820 - INFO - Scraping page 16/33: https://vnu.edu.vn/home/?C1710
+2025-05-12 13:49:56,821 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1710
+2025-05-12 13:49:58,056 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:49:58,136 - INFO - Data for https://vnu.edu.vn/home/?C1710 has been saved.
+2025-05-12 13:50:00,137 - INFO - Scraping page 17/33: https://vnu.edu.vn/home/?C1711
+2025-05-12 13:50:00,138 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1711
+2025-05-12 13:50:01,366 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:01,466 - INFO - Data for https://vnu.edu.vn/home/?C1711 has been saved.
+2025-05-12 13:50:03,467 - INFO - Scraping page 18/33: https://vnu.edu.vn/home/?C2758
+2025-05-12 13:50:03,470 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C2758
+2025-05-12 13:50:04,707 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:04,959 - INFO - Data for https://vnu.edu.vn/home/?C2758 has been saved.
+2025-05-12 13:50:06,960 - INFO - Scraping page 19/33: https://vnu.edu.vn/home/?C2015
+2025-05-12 13:50:06,961 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C2015
+2025-05-12 13:50:08,265 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:08,426 - INFO - Data for https://vnu.edu.vn/home/?C2015 has been saved.
+2025-05-12 13:50:10,427 - INFO - Scraping page 20/33: https://vnu.edu.vn/home/?C2731
+2025-05-12 13:50:10,429 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C2731
+2025-05-12 13:50:11,761 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:11,968 - INFO - Data for https://vnu.edu.vn/home/?C2731 has been saved.
+2025-05-12 13:50:13,969 - INFO - Scraping page 21/33: https://vnu.edu.vn/home/?C2038
+2025-05-12 13:50:13,971 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C2038
+2025-05-12 13:50:15,281 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:15,379 - INFO - Data for https://vnu.edu.vn/home/?C2038 has been saved.
+2025-05-12 13:50:17,380 - INFO - Scraping page 22/33: https://vnu.edu.vn/home/?C2039
+2025-05-12 13:50:17,400 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C2039
+2025-05-12 13:50:18,763 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:18,987 - INFO - Data for https://vnu.edu.vn/home/?C2039 has been saved.
+2025-05-12 13:50:20,988 - INFO - Scraping page 23/33: https://vnu.edu.vn/home/?C2040
+2025-05-12 13:50:20,989 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C2040
+2025-05-12 13:50:21,922 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:21,698 - INFO - Data for https://vnu.edu.vn/home/?C2040 has been saved.
+2025-05-12 13:50:23,699 - INFO - Scraping page 24/33: https://vnu.edu.vn/home/?C2575
+2025-05-12 13:50:23,726 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C2575
+2025-05-12 13:50:25,177 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:25,476 - INFO - Data for https://vnu.edu.vn/home/?C2575 has been saved.
+2025-05-12 13:50:27,477 - INFO - Scraping page 25/33: https://vnu.edu.vn/home/?C1963
+2025-05-12 13:50:27,479 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1963
+2025-05-12 13:50:28,979 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:29,062 - INFO - Data for https://vnu.edu.vn/home/?C1963 has been saved.
+2025-05-12 13:50:31,064 - INFO - Scraping page 26/33: https://vnu.edu.vn/home/?C2019
+2025-05-12 13:50:31,064 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C2019
+2025-05-12 13:50:32,489 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:32,671 - INFO - Data for https://vnu.edu.vn/home/?C2019 has been saved.
+2025-05-12 13:50:34,673 - INFO - Scraping page 27/33: https://vnu.edu.vn/home/?C1885
+2025-05-12 13:50:34,673 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1885
+2025-05-12 13:50:36,031 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:36,384 - INFO - Data for https://vnu.edu.vn/home/?C1885 has been saved.
+2025-05-12 13:50:38,386 - INFO - Scraping page 28/33: https://vnu.edu.vn/home/?C2455
+2025-05-12 13:50:38,387 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C2455
+2025-05-12 13:50:39,762 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:40,029 - INFO - Data for https://vnu.edu.vn/home/?C2455 has been saved.
+2025-05-12 13:50:42,032 - INFO - Scraping page 29/33: https://vnu.edu.vn/home/?C2456
+2025-05-12 13:50:42,034 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C2456
+2025-05-12 13:50:43,530 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:43,799 - INFO - Data for https://vnu.edu.vn/home/?C2456 has been saved.
+2025-05-12 13:50:45,800 - INFO - Scraping page 30/33: https://vnu.edu.vn/home/?C2452
+2025-05-12 13:50:45,802 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C2452
+2025-05-12 13:50:47,171 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:47,294 - INFO - Data for https://vnu.edu.vn/home/?C2452 has been saved.
+2025-05-12 13:50:49,296 - INFO - Scraping page 31/33: https://vnu.edu.vn/home/?C2020
+2025-05-12 13:50:49,299 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C2020
+2025-05-12 13:50:50,847 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:51,252 - INFO - Data for https://vnu.edu.vn/home/?C2020 has been saved.
+2025-05-12 13:50:52,434 - INFO - Scraping page 32/33: https://vnu.edu.vn/home/?C1965
+2025-05-12 13:50:52,435 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C1965
+2025-05-12 13:50:53,817 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:54,155 - INFO - Data for https://vnu.edu.vn/home/?C1965 has been saved.
+2025-05-12 13:50:56,156 - INFO - Scraping page 33/33: https://vnu.edu.vn/home/?C2042
+2025-05-12 13:50:56,158 - INFO - Attempting to connect to https://vnu.edu.vn/home/?C2042
+2025-05-12 13:50:57,565 - INFO - Successfully retrieved the website content (Status Code: 200)
+2025-05-12 13:50:57,754 - INFO - Data for https://vnu.edu.vn/home/?C2042 has been saved.
+2025-05-12 13:50:59,758 - INFO - Web scraping for all pages completed successfully

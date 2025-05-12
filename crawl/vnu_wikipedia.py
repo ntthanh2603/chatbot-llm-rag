@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 url = "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8dc_Qu%E1%BB%91c_gia_H%C3%A0_N%E1%BB%99i"
-output_filename = "vnu_wikipedia.txt"
+output_filename = "data_vnu_wikipedia.txt"
 
 try:
     response = requests.get(url)
