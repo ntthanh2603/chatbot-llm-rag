@@ -2,6 +2,9 @@ import os
 import torch
 from peft import LoraConfig, get_peft_model, TaskType, prepare_model_for_kbit_training, PeftModel, PeftConfig
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+
+from rag import rag_retrieve_and_concat
+
 from huggingface_hub import login
 from dotenv import load_dotenv
 
@@ -49,7 +52,8 @@ model = AutoModelForCausalLM.from_pretrained(
 
 # inference function
 def generate_text(prompt, max_length=512):
-    inputs = tokenizer(prompt, return_tensors="pt").to("cuda")
+    rag_prompt = rag_retrieve_and_concat(prompt)
+    inputs = tokenizer(rag_prompt, return_tensors="pt").to("cuda")
     output = model.generate(**inputs, max_length=max_length)
     return tokenizer.decode(output[0], skip_special_tokens=True)
 
