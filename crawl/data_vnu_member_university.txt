@@ -8,7 +8,6 @@ vào đây
 ...
 Trang nhất
 Giới thiệu
-Tổng quan
 Lịch sử phát triển
 Sứ mệnh - Tầm nhìn
 Triết lí giáo dục
@@ -47,7 +46,6 @@ Thông báo
 Lịch công tác
 Theo dòng sự kiện
 Tuyển dụng
-Đào tạo
 Đào tạo Đại học
 Chương trình đào tạo chuẩn
 Ngành Báo chí
@@ -116,7 +114,6 @@ Giải thưởng khác
 Sản phẩm khoa học trong nước và quốc tế
 Các nhóm nghiên cứu mạnh
 Lý lịch khoa học
-Sinh viên
 Học bổng, trao đổi sinh viên
 Hướng nghiệp, việc làm, thực tập
 Nhà ở sinh viên
@@ -124,17 +121,11 @@ Cựu sinh viên
 Cổng hành chính một cửa
 Cổng thông tin việc làm
 Job fair
-Hợp tác - Phát triển
 Dự án quốc tế
 Giáo sư thỉnh giảng
 Đối tác
 Hợp tác doanh nghiệp
-Đảm bảo chất lượng
 Trang chủ
-Giới thiệu
-Tổng quan
-Tổng quan
-2024-09-24T14:44:54+07:00
 2024-09-24T14:44:54+07:00
 https://ussh.vnu.edu.vn/vi/gioi-thieu/tong-quan/tong-quan-19671.html
 /themes/ussh_v2/images/no_image.gif
@@ -167,43 +158,16 @@ Triết lí giáo dục của Trường Đại học Khoa học Xã hội và Nh
 (30/09/2022)
 Kỷ niệm 110 năm Ngày sinh đồng chí Nguyễn Văn Cừ (09/07/1912 – 09/07/2022)
 (08/07/2022)
-Lịch sử phát triển
 (21/12/2020)
 Báo cáo "3 công khai" năm học 2019-2020
 (24/12/2019)
 Báo cáo "3 công khai" năm học 2018-2019
 (26/04/2019)
 Báo cáo "3 công khai" năm học 2017-2018
-(26/04/2019)
-Hội Cựu chiến binh
 (11/12/2018)
 Một số hình ảnh
 (04/12/2018)
 Các CLB/Đội/Nhóm
-(04/12/2018)
-Giới thiệu
-Tổng quan
-Lịch sử phát triển
-Sứ mệnh - Tầm nhìn
-Triết lí giáo dục
-Cơ cấu tổ chức
-Đảng ủy
-Ban Giám hiệu
-Hội đồng Trường
-Hội đồng Khoa học - Đào tạo
-Các đơn vị đào tạo
-Các phòng đơn vị hành chính
-Các đơn vị nghiên cứu
-Các đơn vị dịch vụ đào tạo
-Tạp chí KHXH&NV
-Bảo tàng nhân học
-Trường THPT Chuyên
-Công đoàn
-Đoàn Thanh niên, Hội Sinh viên
-Hội Cựu chiến binh
-Hội Cựu giáo chức
-Ba công khai
-Bài hát truyền thống
 NHỮNG CON SỐ NỔI BẬT
 THÀNH LẬP NĂM
 1945
@@ -223,7 +187,6 @@ HỢP TÁC
 trường Đại học, Trung tâm nghiên cứu khoa học và tổ chức Giáo dục của 30 quốc gia
 ~200
 cán bộ, sinh viên học tập, nghiên cứu, trao đổi quốc tế
-https://ussh.vnu.edu.vn/uploads/ussh/logo.png
 N/A
 TRƯỜNG ĐẠI HỌC KHOA HỌC XÃ HỘI VÀ NHÂN VĂN
 ,
@@ -240,129 +203,6 @@ NukeViet
 VINADES.,JSC
 Ngôn ngữ
 Bản đồ chỉ dẫn
-Giới thiệu
-Tổng quan
-Lịch sử phát triển
-Sứ mệnh - Tầm nhìn
-Triết lí giáo dục
-Cơ cấu tổ chức
-Đảng ủy
-Ban Giám hiệu
-Hội đồng Trường
-Hội đồng Khoa học - Đào tạo
-Các đơn vị đào tạo
-Các phòng đơn vị hành chính
-Các đơn vị nghiên cứu
-Các đơn vị dịch vụ đào tạo
-Tạp chí KHXH&NV
-Bảo tàng nhân học
-Trường THPT Chuyên
-Công đoàn
-Đoàn Thanh niên, Hội Sinh viên
-Hội Cựu chiến binh
-Hội Cựu giáo chức
-Ba công khai
-Bài hát truyền thống
-Tin tức
-Tin hoạt động
-Đào tạo
-Khoa học
-Đảm bảo chất lượng
-Hợp tác - Phát triển
-Tổ chức - Cán bộ
-Công tác Đảng
-Sinh viên
-Nhân vật - Sự kiện
-Chân dung nhà giáo - nhà khoa học
-Chuyên môn - Công tác
-USSH trên truyền thông
-Thông báo
-Lịch công tác
-Theo dòng sự kiện
-Tuyển dụng
-Đào tạo
-Đào tạo Đại học
-Chương trình đào tạo chuẩn
-Ngành Báo chí
-Ngành Chính trị học
-Ngành Công tác xã hội
-Ngành Đông Nam Á học
-Ngành Đông phương học
-Ngành Hàn Quốc học
-Ngành Hán Nôm
-Ngành Khoa học Quản lý
-Ngành Lịch sử
-Ngành Lưu trữ học
-Ngành Ngôn ngữ học
-Ngành Nhân học
-Ngành Nhật Bản học
-Ngành Quan hệ Công chúng
-Ngành Quản lý thông tin
-Ngành Quản trị khách sạn
-Ngành QTDV Du lịch và Lữ hành
-Ngành Quốc tế học
-Ngành Triết học
-Ngành Tâm lý học
-Ngành Quản trị văn phòng
-Ngành Thông tin-thư viện
-Ngành Tôn giáo học
-Ngành Văn học
-Ngành Văn hoá học
-Ngành Việt Nam học
-Ngành Xã hội học
-Chương trình đào tạo chất lượng cao (ĐHQGHN)
-Ngành Tâm lý học CLC
-Chương trình đào tạo chất lượng cao theo thông tư 23
-Báo chí
-Quản lý thông tin
-Quốc tế học
-Khoa học quản lý
-Đào tạo Thạc sĩ
-Đào tạo Tiến sĩ
-Đào tạo THPT chuyên
-Các chương trình đào tạo
-Đào tạo ngành 2
-Đào tạo ngắn hạn
-Đào tạo vừa làm vừa học
-Thi chứng chỉ Tiếng Việt
-Tra cứu văn bằng
-Chứng chỉ
-Bằng đại học
-Bằng thạc sĩ
-Bằng tiến sĩ
-Tra cứu điểm đánh giá năng lực Tiếng Việt
-Tuyển sinh
-Nghiên cứu
-Tin tức khoa học
-Giải thưởng khoa học
-Giải thưởng Hồ Chí Minh
-Giải thưởng Nhà nước
-Giải thưởng ĐHQGHN
-Giải thưởng khác
-Đề tài, dự án
-Đề tài cấp Bộ
-Đề tài Quỹ Nafosted
-Đề tài Bộ, ngành, địa phương
-Đề tài cấp Nhà nước
-Đề tài cấp ĐHQGHN
-Đề tài cấp trường
-Sản phẩm khoa học trong nước và quốc tế
-Các nhóm nghiên cứu mạnh
-Lý lịch khoa học
-Sinh viên
-Học bổng, trao đổi sinh viên
-Hướng nghiệp, việc làm, thực tập
-Nhà ở sinh viên
-Cựu sinh viên
-Cổng hành chính một cửa
-Cổng thông tin việc làm
-Job fair
-Hợp tác - Phát triển
-Dự án quốc tế
-Giáo sư thỉnh giảng
-Đối tác
-Hợp tác doanh nghiệp
-Đảm bảo chất lượng
 [LANG_MOBILE]
 Bạn đã không sử dụng Site,
 Bấm vào đây để duy trì trạng thái đăng nhập
@@ -371,150 +211,10 @@ Bấm vào đây để duy trì trạng thái đăng nhập
 giây
 ×
 Giới thiệu bài viết cho bạn bè
-
 --- Dữ liệu từ: https://ussh.vnu.edu.vn/vi/gioi-thieu/lich-su-hinh-thanh-va-phat-trien/lich-su-phat-trien-19675.html ---
-Lịch sử phát triển
-Trình duyệt của bạn đã tắt chức năng hỗ trợ JavaScript.
-Website chỉ làm việc khi bạn bật nó trở lại.
-Để tham khảo cách bật JavaScript, hãy click chuột
-vào đây
-!
-...
-Trang nhất
-Giới thiệu
-Tổng quan
-Lịch sử phát triển
-Sứ mệnh - Tầm nhìn
-Triết lí giáo dục
-Cơ cấu tổ chức
-Đảng ủy
-Ban Giám hiệu
-Hội đồng Trường
-Hội đồng Khoa học - Đào tạo
-Các đơn vị đào tạo
-Các phòng đơn vị hành chính
-Các đơn vị nghiên cứu
-Các đơn vị dịch vụ đào tạo
-Tạp chí KHXH&NV
-Bảo tàng nhân học
-Trường THPT Chuyên
-Công đoàn
-Đoàn Thanh niên, Hội Sinh viên
-Hội Cựu chiến binh
-Hội Cựu giáo chức
-Ba công khai
-Bài hát truyền thống
-Tin tức
-Tin hoạt động
-Đào tạo
-Khoa học
-Đảm bảo chất lượng
-Hợp tác - Phát triển
-Tổ chức - Cán bộ
-Công tác Đảng
-Sinh viên
-Nhân vật - Sự kiện
-Chân dung nhà giáo - nhà khoa học
-Chuyên môn - Công tác
-USSH trên truyền thông
-Thông báo
-Lịch công tác
-Theo dòng sự kiện
-Tuyển dụng
-Đào tạo
-Đào tạo Đại học
-Chương trình đào tạo chuẩn
-Ngành Báo chí
-Ngành Chính trị học
-Ngành Công tác xã hội
-Ngành Đông Nam Á học
-Ngành Đông phương học
-Ngành Hàn Quốc học
-Ngành Hán Nôm
-Ngành Khoa học Quản lý
-Ngành Lịch sử
-Ngành Lưu trữ học
-Ngành Ngôn ngữ học
-Ngành Nhân học
-Ngành Nhật Bản học
-Ngành Quan hệ Công chúng
-Ngành Quản lý thông tin
-Ngành Quản trị khách sạn
-Ngành QTDV Du lịch và Lữ hành
-Ngành Quốc tế học
-Ngành Triết học
-Ngành Tâm lý học
-Ngành Quản trị văn phòng
-Ngành Thông tin-thư viện
-Ngành Tôn giáo học
-Ngành Văn học
-Ngành Văn hoá học
-Ngành Việt Nam học
-Ngành Xã hội học
-Chương trình đào tạo chất lượng cao (ĐHQGHN)
-Ngành Tâm lý học CLC
-Chương trình đào tạo chất lượng cao theo thông tư 23
-Báo chí
-Quản lý thông tin
-Quốc tế học
-Khoa học quản lý
-Đào tạo Thạc sĩ
-Đào tạo Tiến sĩ
-Đào tạo THPT chuyên
-Các chương trình đào tạo
-Đào tạo ngành 2
-Đào tạo ngắn hạn
-Đào tạo vừa làm vừa học
-Thi chứng chỉ Tiếng Việt
-Tra cứu văn bằng
-Chứng chỉ
-Bằng đại học
-Bằng thạc sĩ
-Bằng tiến sĩ
-Tra cứu điểm đánh giá năng lực Tiếng Việt
-Tuyển sinh
-Nghiên cứu
-Tin tức khoa học
-Giải thưởng khoa học
-Giải thưởng Hồ Chí Minh
-Giải thưởng Nhà nước
-Giải thưởng ĐHQGHN
-Giải thưởng khác
-Đề tài, dự án
-Đề tài cấp Bộ
-Đề tài Quỹ Nafosted
-Đề tài Bộ, ngành, địa phương
-Đề tài cấp Nhà nước
-Đề tài cấp ĐHQGHN
-Đề tài cấp trường
-Sản phẩm khoa học trong nước và quốc tế
-Các nhóm nghiên cứu mạnh
-Lý lịch khoa học
-Sinh viên
-Học bổng, trao đổi sinh viên
-Hướng nghiệp, việc làm, thực tập
-Nhà ở sinh viên
-Cựu sinh viên
-Cổng hành chính một cửa
-Cổng thông tin việc làm
-Job fair
-Hợp tác - Phát triển
-Dự án quốc tế
-Giáo sư thỉnh giảng
-Đối tác
-Hợp tác doanh nghiệp
-Đảm bảo chất lượng
-Trang chủ
-Giới thiệu
-Tổng quan
 Lịch sử hình thành và phát triển
-Lịch sử phát triển
-2024-04-23T22:30:27+07:00
 2024-04-23T22:30:27+07:00
 https://ussh.vnu.edu.vn/vi/gioi-thieu/lich-su-hinh-thanh-va-phat-trien/lich-su-phat-trien-19675.html
-/themes/ussh_v2/images/no_image.gif
-Trường Đại học Khoa học Xã hội và Nhân văn - ĐHQGHN
-https://ussh.vnu.edu.vn/uploads/ussh/logo.png
 Thứ hai - 21/12/2020 09:55
 Ngày 10/10/1945, Chủ tịch Hồ Chí Minh ký Sắc lệnh số 45 thành lập Ban Đại học Văn khoa - 1 trong 5 ban thuộc Đại học Quốc gia Việt Nam và cũng là tiền thân của Trường Đại học Khoa học Xã hội và Nhân văn. Ngày 5/6/1956, Chính phủ Việt Nam ra Quyết định số 2183 thành lập Trường Đại học Tổng hợp Hà Nội trên cơ sở các trường tiền thân (Đại học Khoa học, Đại học Văn khoa, Đại học Khoa học cơ bản, Dự bị Đại học Liên khu IV), trở thành trường đại học khoa học cơ bản đầu tiên (khoa học tự nhiên - khoa học xã hội và nhân văn) tại miền Bắc Việt Nam ngay sau khi hòa bình được lập lại. Tháng 9/1995, Trường Đại học Khoa học Xã hội và Nhân văn chính thức được thành lập, trở thành đơn vị độc lập nằm trong Đại học Quốc gia Hà Nội. Trải qua 75 năm phát triển, mặc dù gặp rất nhiều khó khăn nhưng bằng sự đoàn kết, tinh thần dấn thân, Nhà trường đã ngày càng phát triển lớn mạnh, khẳng định được vị thế và đóng góp to lớn cho nền khoa học và giáo dục Việt Nam; hướng đến trở thành đại học nghiên cứu tiên tiến của khu vực và thế giới.
 Ngày 10/10/1945
@@ -569,9 +269,7 @@ Chương trình 4. Tiếp tục cải tạo, nâng cấp, xây dựng mới và 
 Chương trình 5: Chấn chỉnh, củng cố kỷ cương giảng dạy, học tập, làm việc và xây dựng môi trường Nhân văn
 Ngày 20/2/2002
 Hiệu trưởng Trường ĐHKHXH&NV ra Quyết định số 235/QĐ-XHNV thành lập Trung tâm Nghiên cứu Giới và Phát triển, trực thuộc Trường.
-Ngày 20/2/2002
 Hiệu trưởng Trường ĐHKHXH&NV ra Quyết định số 237/QĐ-XHNV thành lập Trung tâm Nghiên cứu Dân số và Công tác xã hội, trực thuộc Trường.
-Ngày 20/2/2002
 Hiệu trưởng Trường ĐHKHXH&NV ra Quyết định số 239/QĐ-XHNV thành lập Trung tâm Nghiên cứu Trung Quốc, trực thuộc Trường.
 Sáu chương trình giai đoạn 2003-2010
 Chương trình 1. Tiếp tục đổi mới công tác giáo dục chính trị tư tưởng, đạo đức trong Nhà trường
@@ -588,7 +286,6 @@ Ngày 04/8/2004
 Giám đóc ĐHQGHN ra Quyết định số 474/TCCB, thành lập Khoa Thông tin-Thư viện.
 Ngày 28/4/2006
 Hiệu trưởng Trường ĐHKHXH&NV ra Quyết định số 235/QĐ-XHNV-TC thành lập Trung tâm Nghiên cứu và Tư vấn phát triển kinh tế-xã hội các dân tộc thiểu số, trực thuộc Trường.
-Ngày 28/4/2006
 Hiệu trưởng Trường ĐHKHXH&NV ra Quyết định số 971/QĐ-XHNV-TC sáp nhập Trung tâm Ngoại ngữ và Chương trình Du học thành Trung tâm Ngoại ngữ và xúc tiến trao đổi giáo dục quốc tế, trực thuộc Trường (nay là Trung tâm Ngoại ngữ và Hợp tác Đào tạo).
 Ngày 11/8/2006
 Giám đốc ĐHQGHN ra Quyết định số 782/TCCB, thành lập Khoa Khoa học Quản lý.
@@ -608,11 +305,8 @@ Hiệu trưởng Trường ĐHKHXH&NV ra Quyết định số 1816/QĐ-XHNV-TC t
 Tập thể cán bộ, giảng viên Khoa Khoa học Chính trị
 Ngày 11/10/2012
 Hiệu trưởng Trường ĐHKHXH&NV ra Quyết định số 2197/QĐ-XHNV-TC thành lập Trung tâm Nghiên cứu và Ứng dụng Văn hóa Nghệ thuật trực thuộc Trường.
-Ngày 11/10/2012
 Hiệu trưởng Trường ĐHKHXH&NV ra Quyết định số 2198/QĐ-XHNV-TC thành lập Trung tâm Ngôn ngữ và Văn hóa Việt Nam.
-Ngày 11/10/2012
 Hiệu trưởng Trường ĐHKHXH&NV ra Quyết định số 2196/QĐ-XHNV-Tc thành lập Trung tâm Nghiên cứu Giới, Dân số, Môi trường và các vấn đề xã hội.
-Ngày 11/10/2012
 Hiệu trưởng Trường ĐHKHXH&NV ra Quyết định số 2199/QĐ-XHNV-TC thành lập Trung tâm Nghiên cứu Châu Á-Thái Bình Dương và các vấn đề quốc tế.
 Bốn chương trình giai đoạn 2011-2015
 Chương trình 1. Xây dựng, phát triển đội ngũ cán bộ đạt chuẩn, nhanh chóng hội nhập khu vực và quốc tế.
@@ -629,7 +323,6 @@ Hiệu trưởng Trường ĐHKHXH&NV ra Quyết định số 2054/QĐ-XHNV-TC t
 Hội nghị cộng tác viên của Tạp chí Khoa học Xã hội và Nhân văn
 Ngày 26/7/2016
 Hiệu trưởng Trường ĐHKHXH&NV ra Quyết định số 2352/QĐ-XHNV-TC thành lập Bộ môn Tôn giáo học; Quyết định số 2360/QĐ-XHNV-TC thành lập Trung tâm Biển và Hải đảo.
-Ngày 26/7/2016
 Hiệu trưởng Trường ĐHKHXH&NV ra Quyết định số 2356/QĐ-XHNV-TC thành lập Bộ môn Chính sách công thuộc Khoa Khoa học Quản lý; Quyết định số 2358/QĐ-XHNV-TC thành lập Trung tâm Nghiên cứu ứng dụng và Phát triển Công tác Xã hội (thuộc Khoa Xã hội học).
 Ngày 18/7/2018
 Hiệu trưởng Trường ĐHKHXH&NV ra Quyết định số 2008/QĐ-XHNV-TC thành lập Trung tâm Nghiên cứu và phát huy tài nguyên văn hoá.
@@ -638,342 +331,12 @@ UBND Thành phố Hà Nội ra quyết định số số 5673/QĐ-UBND thành l�
 Học sinh trường THPT Chuyên KHXH&NV trong lễ khai giảng năm học mới 2020
 Tổng số điểm của bài viết là: 0 trong 0 đánh giá
 Click để đánh giá bài viết
-Giới thiệu
-Tổng quan
-Lịch sử phát triển
-Sứ mệnh - Tầm nhìn
-Triết lí giáo dục
-Cơ cấu tổ chức
-Đảng ủy
-Ban Giám hiệu
-Hội đồng Trường
-Hội đồng Khoa học - Đào tạo
-Các đơn vị đào tạo
-Các phòng đơn vị hành chính
-Các đơn vị nghiên cứu
-Các đơn vị dịch vụ đào tạo
-Tạp chí KHXH&NV
-Bảo tàng nhân học
-Trường THPT Chuyên
-Công đoàn
-Đoàn Thanh niên, Hội Sinh viên
-Hội Cựu chiến binh
-Hội Cựu giáo chức
-Ba công khai
-Bài hát truyền thống
-NHỮNG CON SỐ NỔI BẬT
-THÀNH LẬP NĂM
-1945
-ĐÀO TẠO
-~11.000
-sinh viên, học viên cao học và nghiên cứu sinh
-95
-chương trình đào tạo
-28
-chương trình cử nhân/kĩ sư,
-36
-chương trình thạc sĩ,
-31
-chương trình tiến sĩ
-HỢP TÁC
-> 200
-trường Đại học, Trung tâm nghiên cứu khoa học và tổ chức Giáo dục của 30 quốc gia
-~200
-cán bộ, sinh viên học tập, nghiên cứu, trao đổi quốc tế
-https://ussh.vnu.edu.vn/uploads/ussh/logo.png
-N/A
-TRƯỜNG ĐẠI HỌC KHOA HỌC XÃ HỘI VÀ NHÂN VĂN
-,
-ĐHQGHN
-Địa chỉ:
-336 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội
-Email:
-contact@ussh.edu.vn
--
-Bản quyền 2024 Trường Đại học Khoa học Xã hội và Nhân văn
- . Powered by
-NukeViet
-, designed by
-VINADES.,JSC
-Ngôn ngữ
-Bản đồ chỉ dẫn
-Giới thiệu
-Tổng quan
-Lịch sử phát triển
-Sứ mệnh - Tầm nhìn
-Triết lí giáo dục
-Cơ cấu tổ chức
-Đảng ủy
-Ban Giám hiệu
-Hội đồng Trường
-Hội đồng Khoa học - Đào tạo
-Các đơn vị đào tạo
-Các phòng đơn vị hành chính
-Các đơn vị nghiên cứu
-Các đơn vị dịch vụ đào tạo
-Tạp chí KHXH&NV
-Bảo tàng nhân học
-Trường THPT Chuyên
-Công đoàn
-Đoàn Thanh niên, Hội Sinh viên
-Hội Cựu chiến binh
-Hội Cựu giáo chức
-Ba công khai
-Bài hát truyền thống
-Tin tức
-Tin hoạt động
-Đào tạo
-Khoa học
-Đảm bảo chất lượng
-Hợp tác - Phát triển
-Tổ chức - Cán bộ
-Công tác Đảng
-Sinh viên
-Nhân vật - Sự kiện
-Chân dung nhà giáo - nhà khoa học
-Chuyên môn - Công tác
-USSH trên truyền thông
-Thông báo
-Lịch công tác
-Theo dòng sự kiện
-Tuyển dụng
-Đào tạo
-Đào tạo Đại học
-Chương trình đào tạo chuẩn
-Ngành Báo chí
-Ngành Chính trị học
-Ngành Công tác xã hội
-Ngành Đông Nam Á học
-Ngành Đông phương học
-Ngành Hàn Quốc học
-Ngành Hán Nôm
-Ngành Khoa học Quản lý
-Ngành Lịch sử
-Ngành Lưu trữ học
-Ngành Ngôn ngữ học
-Ngành Nhân học
-Ngành Nhật Bản học
-Ngành Quan hệ Công chúng
-Ngành Quản lý thông tin
-Ngành Quản trị khách sạn
-Ngành QTDV Du lịch và Lữ hành
-Ngành Quốc tế học
-Ngành Triết học
-Ngành Tâm lý học
-Ngành Quản trị văn phòng
-Ngành Thông tin-thư viện
-Ngành Tôn giáo học
-Ngành Văn học
-Ngành Văn hoá học
-Ngành Việt Nam học
-Ngành Xã hội học
-Chương trình đào tạo chất lượng cao (ĐHQGHN)
-Ngành Tâm lý học CLC
-Chương trình đào tạo chất lượng cao theo thông tư 23
-Báo chí
-Quản lý thông tin
-Quốc tế học
-Khoa học quản lý
-Đào tạo Thạc sĩ
-Đào tạo Tiến sĩ
-Đào tạo THPT chuyên
-Các chương trình đào tạo
-Đào tạo ngành 2
-Đào tạo ngắn hạn
-Đào tạo vừa làm vừa học
-Thi chứng chỉ Tiếng Việt
-Tra cứu văn bằng
-Chứng chỉ
-Bằng đại học
-Bằng thạc sĩ
-Bằng tiến sĩ
-Tra cứu điểm đánh giá năng lực Tiếng Việt
-Tuyển sinh
-Nghiên cứu
-Tin tức khoa học
-Giải thưởng khoa học
-Giải thưởng Hồ Chí Minh
-Giải thưởng Nhà nước
-Giải thưởng ĐHQGHN
-Giải thưởng khác
-Đề tài, dự án
-Đề tài cấp Bộ
-Đề tài Quỹ Nafosted
-Đề tài Bộ, ngành, địa phương
-Đề tài cấp Nhà nước
-Đề tài cấp ĐHQGHN
-Đề tài cấp trường
-Sản phẩm khoa học trong nước và quốc tế
-Các nhóm nghiên cứu mạnh
-Lý lịch khoa học
-Sinh viên
-Học bổng, trao đổi sinh viên
-Hướng nghiệp, việc làm, thực tập
-Nhà ở sinh viên
-Cựu sinh viên
-Cổng hành chính một cửa
-Cổng thông tin việc làm
-Job fair
-Hợp tác - Phát triển
-Dự án quốc tế
-Giáo sư thỉnh giảng
-Đối tác
-Hợp tác doanh nghiệp
-Đảm bảo chất lượng
-[LANG_MOBILE]
-Bạn đã không sử dụng Site,
-Bấm vào đây để duy trì trạng thái đăng nhập
-. Thời gian chờ:
-60
-giây
-×
-Giới thiệu bài viết cho bạn bè
-
 --- Dữ liệu từ: https://ussh.vnu.edu.vn/vi/gioi-thieu/su-menh-va-muc-tieu-phat-trien/su-menh-va-muc-tieu-phat-trien-truong-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-19694.html ---
-Sứ mệnh và mục tiêu phát triển trường Đại học Khoa học Xã hội và Nhân văn
-Trình duyệt của bạn đã tắt chức năng hỗ trợ JavaScript.
-Website chỉ làm việc khi bạn bật nó trở lại.
-Để tham khảo cách bật JavaScript, hãy click chuột
-vào đây
-!
-...
-Trang nhất
-Giới thiệu
-Tổng quan
-Lịch sử phát triển
-Sứ mệnh - Tầm nhìn
-Triết lí giáo dục
-Cơ cấu tổ chức
-Đảng ủy
-Ban Giám hiệu
-Hội đồng Trường
-Hội đồng Khoa học - Đào tạo
-Các đơn vị đào tạo
-Các phòng đơn vị hành chính
-Các đơn vị nghiên cứu
-Các đơn vị dịch vụ đào tạo
-Tạp chí KHXH&NV
-Bảo tàng nhân học
-Trường THPT Chuyên
-Công đoàn
-Đoàn Thanh niên, Hội Sinh viên
-Hội Cựu chiến binh
-Hội Cựu giáo chức
-Ba công khai
-Bài hát truyền thống
-Tin tức
-Tin hoạt động
-Đào tạo
-Khoa học
-Đảm bảo chất lượng
-Hợp tác - Phát triển
-Tổ chức - Cán bộ
-Công tác Đảng
-Sinh viên
-Nhân vật - Sự kiện
-Chân dung nhà giáo - nhà khoa học
-Chuyên môn - Công tác
-USSH trên truyền thông
-Thông báo
-Lịch công tác
-Theo dòng sự kiện
-Tuyển dụng
-Đào tạo
-Đào tạo Đại học
-Chương trình đào tạo chuẩn
-Ngành Báo chí
-Ngành Chính trị học
-Ngành Công tác xã hội
-Ngành Đông Nam Á học
-Ngành Đông phương học
-Ngành Hàn Quốc học
-Ngành Hán Nôm
-Ngành Khoa học Quản lý
-Ngành Lịch sử
-Ngành Lưu trữ học
-Ngành Ngôn ngữ học
-Ngành Nhân học
-Ngành Nhật Bản học
-Ngành Quan hệ Công chúng
-Ngành Quản lý thông tin
-Ngành Quản trị khách sạn
-Ngành QTDV Du lịch và Lữ hành
-Ngành Quốc tế học
-Ngành Triết học
-Ngành Tâm lý học
-Ngành Quản trị văn phòng
-Ngành Thông tin-thư viện
-Ngành Tôn giáo học
-Ngành Văn học
-Ngành Văn hoá học
-Ngành Việt Nam học
-Ngành Xã hội học
-Chương trình đào tạo chất lượng cao (ĐHQGHN)
-Ngành Tâm lý học CLC
-Chương trình đào tạo chất lượng cao theo thông tư 23
-Báo chí
-Quản lý thông tin
-Quốc tế học
-Khoa học quản lý
-Đào tạo Thạc sĩ
-Đào tạo Tiến sĩ
-Đào tạo THPT chuyên
-Các chương trình đào tạo
-Đào tạo ngành 2
-Đào tạo ngắn hạn
-Đào tạo vừa làm vừa học
-Thi chứng chỉ Tiếng Việt
-Tra cứu văn bằng
-Chứng chỉ
-Bằng đại học
-Bằng thạc sĩ
-Bằng tiến sĩ
-Tra cứu điểm đánh giá năng lực Tiếng Việt
-Tuyển sinh
-Nghiên cứu
-Tin tức khoa học
-Giải thưởng khoa học
-Giải thưởng Hồ Chí Minh
-Giải thưởng Nhà nước
-Giải thưởng ĐHQGHN
-Giải thưởng khác
-Đề tài, dự án
-Đề tài cấp Bộ
-Đề tài Quỹ Nafosted
-Đề tài Bộ, ngành, địa phương
-Đề tài cấp Nhà nước
-Đề tài cấp ĐHQGHN
-Đề tài cấp trường
-Sản phẩm khoa học trong nước và quốc tế
-Các nhóm nghiên cứu mạnh
-Lý lịch khoa học
-Sinh viên
-Học bổng, trao đổi sinh viên
-Hướng nghiệp, việc làm, thực tập
-Nhà ở sinh viên
-Cựu sinh viên
-Cổng hành chính một cửa
-Cổng thông tin việc làm
-Job fair
-Hợp tác - Phát triển
-Dự án quốc tế
-Giáo sư thỉnh giảng
-Đối tác
-Hợp tác doanh nghiệp
-Đảm bảo chất lượng
-Trang chủ
-Giới thiệu
-Tổng quan
 Sứ mệnh và mục tiêu phát triển
-Sứ mệnh và mục tiêu phát triển trường Đại học Khoa học Xã hội và Nhân văn
 Quỳnh Vũ Hạnh
 , USSH Media
 2024-04-23T22:27:18+07:00
-2024-04-23T22:27:18+07:00
 https://ussh.vnu.edu.vn/vi/gioi-thieu/su-menh-va-muc-tieu-phat-trien/su-menh-va-muc-tieu-phat-trien-truong-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-19694.html
-/themes/ussh_v2/images/no_image.gif
-Trường Đại học Khoa học Xã hội và Nhân văn - ĐHQGHN
-https://ussh.vnu.edu.vn/uploads/ussh/logo.png
 Thứ hai - 22/04/2024 15:25
 Sứ mệnh và mục tiêu phát triển Trường Đại học Khoa học Xã hội và Nhân văn
 I. Sứ mệnh và tầm nhìn
@@ -1016,350 +379,14 @@ Phát triển các nguồn lực, thực hiện văn hóa chất lượng
 - Tăng cường văn hóa chất lượng từ tiến độ đến hiệu quả trong tất cả các lĩnh vực hoạt động của Nhà trường, chuyên nghiệp hóa các hoạt động quản lý, đào tạo, nghiên cứu; xây dựng tinh thần cộng đồng, cùng gánh vác, chia sẻ trách nhiệm trong việc giải quyết các công việc chung vì sự phát triển của Nhà trường. Đặt chất lượng phù hợp với chiến lược và mục tiêu lên hàng đầu; tiến tới thực hiện kiểm định chất lượng nhà trường theo tiêu chuẩn Mạng lưới các trường đại học Đông Nam Á (AUN-QA), đồng thời, 100% các chương trình đào tạo cử nhân và 30% chương trình đào tạo thạc sĩ được kiểm định chất lượng và đánh giá chất lượng theo các bộ tiêu chuẩn trong nước và quốc tế.
 1]
 Nghị quyết số 29 của Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 8, khóa XI về Đổi mới căn bản, toàn diện giáo dục và đào tạo, đáp ứng yêu cầu công nghiệp hóa, hiện đại hóa trong điều kiện kinh tế thị trường định hướng xã hội chủ nghĩa và hội nhập quốc tế.
-[2]
 Cương lĩnh năm 2011 của Đảng coi việc phát triển nhanh nguồn nhân lực, nhất là nguồn nhân lực chất lượng cao là một trong ba giải pháp mang tính đột phá của Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội.
-[3]
 Đảng Cộng sản Việt Nam, Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội, trong: Văn kiện Đại học đại biểu toàn quốc lần thứ XI, Sđd, tr. 76.
 Tác giả:
-Quỳnh Vũ Hạnh
-, USSH Media
-Tổng số điểm của bài viết là: 0 trong 0 đánh giá
-Click để đánh giá bài viết
-Giới thiệu
-Tổng quan
-Lịch sử phát triển
-Sứ mệnh - Tầm nhìn
-Triết lí giáo dục
-Cơ cấu tổ chức
-Đảng ủy
-Ban Giám hiệu
-Hội đồng Trường
-Hội đồng Khoa học - Đào tạo
-Các đơn vị đào tạo
-Các phòng đơn vị hành chính
-Các đơn vị nghiên cứu
-Các đơn vị dịch vụ đào tạo
-Tạp chí KHXH&NV
-Bảo tàng nhân học
-Trường THPT Chuyên
-Công đoàn
-Đoàn Thanh niên, Hội Sinh viên
-Hội Cựu chiến binh
-Hội Cựu giáo chức
-Ba công khai
-Bài hát truyền thống
-NHỮNG CON SỐ NỔI BẬT
-THÀNH LẬP NĂM
-1945
-ĐÀO TẠO
-~11.000
-sinh viên, học viên cao học và nghiên cứu sinh
-95
-chương trình đào tạo
-28
-chương trình cử nhân/kĩ sư,
-36
-chương trình thạc sĩ,
-31
-chương trình tiến sĩ
-HỢP TÁC
-> 200
-trường Đại học, Trung tâm nghiên cứu khoa học và tổ chức Giáo dục của 30 quốc gia
-~200
-cán bộ, sinh viên học tập, nghiên cứu, trao đổi quốc tế
-https://ussh.vnu.edu.vn/uploads/ussh/logo.png
-N/A
-TRƯỜNG ĐẠI HỌC KHOA HỌC XÃ HỘI VÀ NHÂN VĂN
-,
-ĐHQGHN
-Địa chỉ:
-336 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội
-Email:
-contact@ussh.edu.vn
--
-Bản quyền 2024 Trường Đại học Khoa học Xã hội và Nhân văn
- . Powered by
-NukeViet
-, designed by
-VINADES.,JSC
-Ngôn ngữ
-Bản đồ chỉ dẫn
-Giới thiệu
-Tổng quan
-Lịch sử phát triển
-Sứ mệnh - Tầm nhìn
-Triết lí giáo dục
-Cơ cấu tổ chức
-Đảng ủy
-Ban Giám hiệu
-Hội đồng Trường
-Hội đồng Khoa học - Đào tạo
-Các đơn vị đào tạo
-Các phòng đơn vị hành chính
-Các đơn vị nghiên cứu
-Các đơn vị dịch vụ đào tạo
-Tạp chí KHXH&NV
-Bảo tàng nhân học
-Trường THPT Chuyên
-Công đoàn
-Đoàn Thanh niên, Hội Sinh viên
-Hội Cựu chiến binh
-Hội Cựu giáo chức
-Ba công khai
-Bài hát truyền thống
-Tin tức
-Tin hoạt động
-Đào tạo
-Khoa học
-Đảm bảo chất lượng
-Hợp tác - Phát triển
-Tổ chức - Cán bộ
-Công tác Đảng
-Sinh viên
-Nhân vật - Sự kiện
-Chân dung nhà giáo - nhà khoa học
-Chuyên môn - Công tác
-USSH trên truyền thông
-Thông báo
-Lịch công tác
-Theo dòng sự kiện
-Tuyển dụng
-Đào tạo
-Đào tạo Đại học
-Chương trình đào tạo chuẩn
-Ngành Báo chí
-Ngành Chính trị học
-Ngành Công tác xã hội
-Ngành Đông Nam Á học
-Ngành Đông phương học
-Ngành Hàn Quốc học
-Ngành Hán Nôm
-Ngành Khoa học Quản lý
-Ngành Lịch sử
-Ngành Lưu trữ học
-Ngành Ngôn ngữ học
-Ngành Nhân học
-Ngành Nhật Bản học
-Ngành Quan hệ Công chúng
-Ngành Quản lý thông tin
-Ngành Quản trị khách sạn
-Ngành QTDV Du lịch và Lữ hành
-Ngành Quốc tế học
-Ngành Triết học
-Ngành Tâm lý học
-Ngành Quản trị văn phòng
-Ngành Thông tin-thư viện
-Ngành Tôn giáo học
-Ngành Văn học
-Ngành Văn hoá học
-Ngành Việt Nam học
-Ngành Xã hội học
-Chương trình đào tạo chất lượng cao (ĐHQGHN)
-Ngành Tâm lý học CLC
-Chương trình đào tạo chất lượng cao theo thông tư 23
-Báo chí
-Quản lý thông tin
-Quốc tế học
-Khoa học quản lý
-Đào tạo Thạc sĩ
-Đào tạo Tiến sĩ
-Đào tạo THPT chuyên
-Các chương trình đào tạo
-Đào tạo ngành 2
-Đào tạo ngắn hạn
-Đào tạo vừa làm vừa học
-Thi chứng chỉ Tiếng Việt
-Tra cứu văn bằng
-Chứng chỉ
-Bằng đại học
-Bằng thạc sĩ
-Bằng tiến sĩ
-Tra cứu điểm đánh giá năng lực Tiếng Việt
-Tuyển sinh
-Nghiên cứu
-Tin tức khoa học
-Giải thưởng khoa học
-Giải thưởng Hồ Chí Minh
-Giải thưởng Nhà nước
-Giải thưởng ĐHQGHN
-Giải thưởng khác
-Đề tài, dự án
-Đề tài cấp Bộ
-Đề tài Quỹ Nafosted
-Đề tài Bộ, ngành, địa phương
-Đề tài cấp Nhà nước
-Đề tài cấp ĐHQGHN
-Đề tài cấp trường
-Sản phẩm khoa học trong nước và quốc tế
-Các nhóm nghiên cứu mạnh
-Lý lịch khoa học
-Sinh viên
-Học bổng, trao đổi sinh viên
-Hướng nghiệp, việc làm, thực tập
-Nhà ở sinh viên
-Cựu sinh viên
-Cổng hành chính một cửa
-Cổng thông tin việc làm
-Job fair
-Hợp tác - Phát triển
-Dự án quốc tế
-Giáo sư thỉnh giảng
-Đối tác
-Hợp tác doanh nghiệp
-Đảm bảo chất lượng
-[LANG_MOBILE]
-Bạn đã không sử dụng Site,
-Bấm vào đây để duy trì trạng thái đăng nhập
-. Thời gian chờ:
-60
-giây
-×
-Giới thiệu bài viết cho bạn bè
-
 --- Dữ liệu từ: https://ussh.vnu.edu.vn/vi/gioi-thieu/triet-li-giao-duc/triet-li-giao-duc-cua-truong-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-19687.html ---
-Triết lí giáo dục của Trường Đại học Khoa học Xã hội và Nhân văn
-Trình duyệt của bạn đã tắt chức năng hỗ trợ JavaScript.
-Website chỉ làm việc khi bạn bật nó trở lại.
-Để tham khảo cách bật JavaScript, hãy click chuột
-vào đây
-!
-...
-Trang nhất
-Giới thiệu
-Tổng quan
-Lịch sử phát triển
-Sứ mệnh - Tầm nhìn
-Triết lí giáo dục
-Cơ cấu tổ chức
-Đảng ủy
-Ban Giám hiệu
-Hội đồng Trường
-Hội đồng Khoa học - Đào tạo
-Các đơn vị đào tạo
-Các phòng đơn vị hành chính
-Các đơn vị nghiên cứu
-Các đơn vị dịch vụ đào tạo
-Tạp chí KHXH&NV
-Bảo tàng nhân học
-Trường THPT Chuyên
-Công đoàn
-Đoàn Thanh niên, Hội Sinh viên
-Hội Cựu chiến binh
-Hội Cựu giáo chức
-Ba công khai
-Bài hát truyền thống
-Tin tức
-Tin hoạt động
-Đào tạo
-Khoa học
-Đảm bảo chất lượng
-Hợp tác - Phát triển
-Tổ chức - Cán bộ
-Công tác Đảng
-Sinh viên
-Nhân vật - Sự kiện
-Chân dung nhà giáo - nhà khoa học
-Chuyên môn - Công tác
-USSH trên truyền thông
-Thông báo
-Lịch công tác
-Theo dòng sự kiện
-Tuyển dụng
-Đào tạo
-Đào tạo Đại học
-Chương trình đào tạo chuẩn
-Ngành Báo chí
-Ngành Chính trị học
-Ngành Công tác xã hội
-Ngành Đông Nam Á học
-Ngành Đông phương học
-Ngành Hàn Quốc học
-Ngành Hán Nôm
-Ngành Khoa học Quản lý
-Ngành Lịch sử
-Ngành Lưu trữ học
-Ngành Ngôn ngữ học
-Ngành Nhân học
-Ngành Nhật Bản học
-Ngành Quan hệ Công chúng
-Ngành Quản lý thông tin
-Ngành Quản trị khách sạn
-Ngành QTDV Du lịch và Lữ hành
-Ngành Quốc tế học
-Ngành Triết học
-Ngành Tâm lý học
-Ngành Quản trị văn phòng
-Ngành Thông tin-thư viện
-Ngành Tôn giáo học
-Ngành Văn học
-Ngành Văn hoá học
-Ngành Việt Nam học
-Ngành Xã hội học
-Chương trình đào tạo chất lượng cao (ĐHQGHN)
-Ngành Tâm lý học CLC
-Chương trình đào tạo chất lượng cao theo thông tư 23
-Báo chí
-Quản lý thông tin
-Quốc tế học
-Khoa học quản lý
-Đào tạo Thạc sĩ
-Đào tạo Tiến sĩ
-Đào tạo THPT chuyên
-Các chương trình đào tạo
-Đào tạo ngành 2
-Đào tạo ngắn hạn
-Đào tạo vừa làm vừa học
-Thi chứng chỉ Tiếng Việt
-Tra cứu văn bằng
-Chứng chỉ
-Bằng đại học
-Bằng thạc sĩ
-Bằng tiến sĩ
-Tra cứu điểm đánh giá năng lực Tiếng Việt
-Tuyển sinh
-Nghiên cứu
-Tin tức khoa học
-Giải thưởng khoa học
-Giải thưởng Hồ Chí Minh
-Giải thưởng Nhà nước
-Giải thưởng ĐHQGHN
-Giải thưởng khác
-Đề tài, dự án
-Đề tài cấp Bộ
-Đề tài Quỹ Nafosted
-Đề tài Bộ, ngành, địa phương
-Đề tài cấp Nhà nước
-Đề tài cấp ĐHQGHN
-Đề tài cấp trường
-Sản phẩm khoa học trong nước và quốc tế
-Các nhóm nghiên cứu mạnh
-Lý lịch khoa học
-Sinh viên
-Học bổng, trao đổi sinh viên
-Hướng nghiệp, việc làm, thực tập
-Nhà ở sinh viên
-Cựu sinh viên
-Cổng hành chính một cửa
-Cổng thông tin việc làm
-Job fair
-Hợp tác - Phát triển
-Dự án quốc tế
-Giáo sư thỉnh giảng
-Đối tác
-Hợp tác doanh nghiệp
-Đảm bảo chất lượng
-Trang chủ
-Giới thiệu
-Tổng quan
 Triết lí giáo dục
-Triết lí giáo dục của Trường Đại học Khoa học Xã hội và Nhân văn
 Hạnh Quỳnh
 2024-04-23T22:32:20+07:00
-2024-04-23T22:32:20+07:00
 https://ussh.vnu.edu.vn/vi/gioi-thieu/triet-li-giao-duc/triet-li-giao-duc-cua-truong-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-19687.html
-/themes/ussh_v2/images/no_image.gif
-Trường Đại học Khoa học Xã hội và Nhân văn - ĐHQGHN
-https://ussh.vnu.edu.vn/uploads/ussh/logo.png
 Thứ sáu - 30/09/2022 10:50
 Theo chiến lược phát triển Trường đến năm 2020 và tầm nhìn 2030 và theo định hướng phát triển trường Đại học Khoa học Xã hội và Nhân văn trở thành một trường Đại học nghiên cứu. Việc xác lập "Triết lí giáo dục" và chuyển tải triết lí giáo dục đó vào trong từng hoạt động của Nhà trường là rất cần thiết. Đồng thời từ năm 2017, theo yêu cầu của Bộ tiêu chuẩn đánh giá các chương trình đào tạo theo tiêu chuẩn của Mạng lưới các trường đại học Đông Nam Á (AUN-QA), nhà trường cần nêu rõ "Triết lí giáo dục" và phổ biến đến tất cả các bên liên quan.
 Triết lí giáo dục của Trường Đại học Khoa học Xã hội và Nhân văn là:
@@ -1369,208 +396,11 @@ Toàn văn văn bản về việc xác định "Triết lí giáo dục" của n
 File đính kèm
 Tập tin :
 4.1.1triet-ly-gd.pdf
-Tác giả:
-Hạnh Quỳnh
 Tổng số điểm của bài viết là: 1 trong 1 đánh giá
-Triết lí giáo dục của Trường Đại học Khoa học Xã hội và Nhân văn
 Xếp hạng:
-1
--
 1
 phiếu bầu
 5
-Click để đánh giá bài viết
-Giới thiệu
-Tổng quan
-Lịch sử phát triển
-Sứ mệnh - Tầm nhìn
-Triết lí giáo dục
-Cơ cấu tổ chức
-Đảng ủy
-Ban Giám hiệu
-Hội đồng Trường
-Hội đồng Khoa học - Đào tạo
-Các đơn vị đào tạo
-Các phòng đơn vị hành chính
-Các đơn vị nghiên cứu
-Các đơn vị dịch vụ đào tạo
-Tạp chí KHXH&NV
-Bảo tàng nhân học
-Trường THPT Chuyên
-Công đoàn
-Đoàn Thanh niên, Hội Sinh viên
-Hội Cựu chiến binh
-Hội Cựu giáo chức
-Ba công khai
-Bài hát truyền thống
-NHỮNG CON SỐ NỔI BẬT
-THÀNH LẬP NĂM
-1945
-ĐÀO TẠO
-~11.000
-sinh viên, học viên cao học và nghiên cứu sinh
-95
-chương trình đào tạo
-28
-chương trình cử nhân/kĩ sư,
-36
-chương trình thạc sĩ,
-31
-chương trình tiến sĩ
-HỢP TÁC
-> 200
-trường Đại học, Trung tâm nghiên cứu khoa học và tổ chức Giáo dục của 30 quốc gia
-~200
-cán bộ, sinh viên học tập, nghiên cứu, trao đổi quốc tế
-https://ussh.vnu.edu.vn/uploads/ussh/logo.png
-N/A
-TRƯỜNG ĐẠI HỌC KHOA HỌC XÃ HỘI VÀ NHÂN VĂN
-,
-ĐHQGHN
-Địa chỉ:
-336 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội
-Email:
-contact@ussh.edu.vn
--
-Bản quyền 2024 Trường Đại học Khoa học Xã hội và Nhân văn
- . Powered by
-NukeViet
-, designed by
-VINADES.,JSC
-Ngôn ngữ
-Bản đồ chỉ dẫn
-Giới thiệu
-Tổng quan
-Lịch sử phát triển
-Sứ mệnh - Tầm nhìn
-Triết lí giáo dục
-Cơ cấu tổ chức
-Đảng ủy
-Ban Giám hiệu
-Hội đồng Trường
-Hội đồng Khoa học - Đào tạo
-Các đơn vị đào tạo
-Các phòng đơn vị hành chính
-Các đơn vị nghiên cứu
-Các đơn vị dịch vụ đào tạo
-Tạp chí KHXH&NV
-Bảo tàng nhân học
-Trường THPT Chuyên
-Công đoàn
-Đoàn Thanh niên, Hội Sinh viên
-Hội Cựu chiến binh
-Hội Cựu giáo chức
-Ba công khai
-Bài hát truyền thống
-Tin tức
-Tin hoạt động
-Đào tạo
-Khoa học
-Đảm bảo chất lượng
-Hợp tác - Phát triển
-Tổ chức - Cán bộ
-Công tác Đảng
-Sinh viên
-Nhân vật - Sự kiện
-Chân dung nhà giáo - nhà khoa học
-Chuyên môn - Công tác
-USSH trên truyền thông
-Thông báo
-Lịch công tác
-Theo dòng sự kiện
-Tuyển dụng
-Đào tạo
-Đào tạo Đại học
-Chương trình đào tạo chuẩn
-Ngành Báo chí
-Ngành Chính trị học
-Ngành Công tác xã hội
-Ngành Đông Nam Á học
-Ngành Đông phương học
-Ngành Hàn Quốc học
-Ngành Hán Nôm
-Ngành Khoa học Quản lý
-Ngành Lịch sử
-Ngành Lưu trữ học
-Ngành Ngôn ngữ học
-Ngành Nhân học
-Ngành Nhật Bản học
-Ngành Quan hệ Công chúng
-Ngành Quản lý thông tin
-Ngành Quản trị khách sạn
-Ngành QTDV Du lịch và Lữ hành
-Ngành Quốc tế học
-Ngành Triết học
-Ngành Tâm lý học
-Ngành Quản trị văn phòng
-Ngành Thông tin-thư viện
-Ngành Tôn giáo học
-Ngành Văn học
-Ngành Văn hoá học
-Ngành Việt Nam học
-Ngành Xã hội học
-Chương trình đào tạo chất lượng cao (ĐHQGHN)
-Ngành Tâm lý học CLC
-Chương trình đào tạo chất lượng cao theo thông tư 23
-Báo chí
-Quản lý thông tin
-Quốc tế học
-Khoa học quản lý
-Đào tạo Thạc sĩ
-Đào tạo Tiến sĩ
-Đào tạo THPT chuyên
-Các chương trình đào tạo
-Đào tạo ngành 2
-Đào tạo ngắn hạn
-Đào tạo vừa làm vừa học
-Thi chứng chỉ Tiếng Việt
-Tra cứu văn bằng
-Chứng chỉ
-Bằng đại học
-Bằng thạc sĩ
-Bằng tiến sĩ
-Tra cứu điểm đánh giá năng lực Tiếng Việt
-Tuyển sinh
-Nghiên cứu
-Tin tức khoa học
-Giải thưởng khoa học
-Giải thưởng Hồ Chí Minh
-Giải thưởng Nhà nước
-Giải thưởng ĐHQGHN
-Giải thưởng khác
-Đề tài, dự án
-Đề tài cấp Bộ
-Đề tài Quỹ Nafosted
-Đề tài Bộ, ngành, địa phương
-Đề tài cấp Nhà nước
-Đề tài cấp ĐHQGHN
-Đề tài cấp trường
-Sản phẩm khoa học trong nước và quốc tế
-Các nhóm nghiên cứu mạnh
-Lý lịch khoa học
-Sinh viên
-Học bổng, trao đổi sinh viên
-Hướng nghiệp, việc làm, thực tập
-Nhà ở sinh viên
-Cựu sinh viên
-Cổng hành chính một cửa
-Cổng thông tin việc làm
-Job fair
-Hợp tác - Phát triển
-Dự án quốc tế
-Giáo sư thỉnh giảng
-Đối tác
-Hợp tác doanh nghiệp
-Đảm bảo chất lượng
-[LANG_MOBILE]
-Bạn đã không sử dụng Site,
-Bấm vào đây để duy trì trạng thái đăng nhập
-. Thời gian chờ:
-60
-giây
-×
-Giới thiệu bài viết cho bạn bè
-
 --- Dữ liệu từ: https://ulis.vnu.edu.vn/gioi-thieu/ ---
 Giới thiệu – Trường Đại học Ngoại ngữ – Đại học Quốc gia Hà Nội
 Hệ thống tác nghiệp
@@ -1606,7 +436,6 @@ Thông tin khác về ĐBCL
 Tổ chức đoàn thể
 Đảng bộ Trường đại học Ngoại ngữ
 Hội đồng trường
-Công đoàn
 Giới thiệu tổ chức Công đoàn
 Tổng liên đoàn lao động Việt Nam
 Công đoàn giáo dục Việt Nam
@@ -1618,7 +447,6 @@ Chuyên trang Công đoàn
 Văn bản
 Đoàn thanh niên
 Hội sinh viên
-Cựu sinh viên
 Website đơn vị
 VSTEP – Trung tâm Khảo thí
 Facebook ULIS
@@ -1643,7 +471,6 @@ Bộ môn Tâm lý Giáo dục
 Trung tâm Tư vấn Tâm lý học đường
 Học liệu số
 Chuyên trang
-Chuyên trang Công đoàn
 Tuyển sinh Đại học năm 2024
 ULIS SUCCESS COURSE
 UNC – ULIS NATIONAL CONFERENCE
@@ -1656,11 +483,9 @@ Lịch tuần
 Lịch chính thức
 Đăng ký lịch tuần
 University of Languages and International Studies – Vietnam National University,Hanoi
-University of Languages and International Studies – Vietnam National University,Hanoi
 GIỚI THIỆU
 Giới thiệu chung
 Chiến lược phát triển
-Cơ cấu tổ chức
 ĐHNN hơn 65 năm xây dựng
 Ý nghĩa logo ULIS
 Liên hệ
@@ -1668,7 +493,6 @@ Hồ sơ nhà khoa học
 TIN TỨC
 Tin tức sự kiện
 Sự kiện sắp diễn ra
-Thông báo
 Phổ biến pháp luật
 TUYỂN SINH
 Đại học chính quy
@@ -1677,7 +501,6 @@ Liên kết quốc tế
 Đào tạo và Bồi dưỡng Ngoại ngữ
 THCS Ngoại ngữ
 THPT Chuyên ngoại ngữ
-ĐÀO TẠO
 Đại học Chính quy
 Đào tạo Sau Đại học
 Đào tạo Liên kết Quốc tế
@@ -1692,29 +515,22 @@ Bảo hiểm
 Học bổng
 Hỗ trợ sinh viên
 Thủ tục hành chính
-Cựu sinh viên
 Đoàn thanh niên – Hội sinh viên
 Khoa học công nghệ
-Thông báo
 Hệ thống đề tài
 Hội nghị – Hội thảo
 Văn bản hướng dẫn
 Tạp chí nghiên cứu nước ngoài
 OCS – Hệ thống quản lý hội thảo mở
 Hợp tác phát triển
-Giới thiệu chung
 Hoạt động hợp tác
-Hội nghị – Hội thảo
 Khóa dự bị đại học
 Chuyên gia nước ngoài
 Sinh viên quốc tế
 Quy định – Hướng dẫn
 Tra cứu CSDL
 Đảng bộ
-Hội đồng trường
 »
-Giới thiệu
-Giới thiệu
 Sứ mệnh:
 “Trường Đại học Ngoại ngữ – ĐHQGHN đóng góp vào sự phát triển và hội nhập, xây dựng và bảo vệ đất nước thông qua việc đào tạo nguồn nhân lực chất lượng cao, nghiên cứu khoa học, thực hiện đổi mới sáng tạo, chuyển giao tri thức, cung cấp các sản phẩm và dịch vụ đáp ứng nhu cầu xã hội theo chuẩn quốc tế về các lĩnh vực giáo dục ngoại ngữ, ngôn ngữ học, quốc tế học và một số ngành khoa học xã hội và nhân văn có liên quan.”
 Lịch sử hình thành và phát triển:
@@ -1746,151 +562,8 @@ Tel: (+84)243.754.7269
 Fax: (+84)243.754.8057
 Email: dhnn@vnu.edu.vn
 © 2016 Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội.
-
 --- Dữ liệu từ: https://ulis.vnu.edu.vn/chien-luoc-phat-trien-ulis/ ---
 Chiến lược phát triển – Trường Đại học Ngoại ngữ – Đại học Quốc gia Hà Nội
-Hệ thống tác nghiệp
-Cổng thông tin sinh viên
-Cổng thông tin cán bộ
-Cổng thông tin tuyển sinh
-Hệ thống thông tin đơn vị
-Thư viện điện tử
-Hệ thống quản lý văn bản & điều hành
-Hành chính một cửa (Sinh viên)
-Hành chính một cửa – ULIS Fasttrack
-Tra cứu thi đua khen thưởng
-Hệ thống QL KHCN
-Phần mềm Quản lý Hội thảo
-Tài nguyên số
-VNU Email
-Quản lý – Điều hành
-Bản tin nội bộ
-Sự kiện và thành tựu nổi bật
-Infographic văn bản QLĐH
-Quy định tài chính
-Hướng dẫn thu học phí, lệ phí
-Hướng dẫn thanh toán
-Theo dõi tài sản
-Quy định về văn thư lưu trữ
-Kết luận của Ban giám hiệu
-ĐẢM BẢO CHẤT LƯỢNG
-3 công khai
-Giới thiệu Trung tâm ĐBCL
-Khảo sát ý kiến
-Chương trình đào tạo đã kiểm định
-Thông tin khác về ĐBCL
-Tổ chức đoàn thể
-Đảng bộ Trường đại học Ngoại ngữ
-Hội đồng trường
-Công đoàn
-Giới thiệu tổ chức Công đoàn
-Tổng liên đoàn lao động Việt Nam
-Công đoàn giáo dục Việt Nam
-Công đoàn Đại học Quốc gia Hà Nội
-Công đoàn trường Đại học Ngoại ngữ – ĐHQGHN
-Công đoàn các đơn vị trực thuộc
-Tin hoạt động Công đoàn
-Chuyên trang Công đoàn
-Văn bản
-Đoàn thanh niên
-Hội sinh viên
-Cựu sinh viên
-Website đơn vị
-VSTEP – Trung tâm Khảo thí
-Facebook ULIS
-Phòng Đào tạo
-Khoa Sau đại học
-Học sinh – Sinh viên ULIS
-Trường THCS Ngoại ngữ
-Trường THPT Chuyên Ngoại ngữ
-Đào tạo trực tuyến
-Khoa Đào tạo & Bồi dưỡng Ngoại ngữ
-Khoa Sư phạm Tiếng Anh
-Khoa Tiếng Anh
-Khoa NN&VH các nước nói Tiếng Anh
-Khoa NN&VH Pháp
-Khoa NN&VH Nga
-Trung tâm Đổi mới Sáng tạo
-Trung tâm Công nghệ thông tin – Truyền thông & Học liệu
-Bộ môn NN&VH Việt Nam
-Bộ môn NN&VH Đông Nam Á
-Bộ môn NN&VH Ả Rập
-Bộ môn Tâm lý Giáo dục
-Trung tâm Tư vấn Tâm lý học đường
-Học liệu số
-Chuyên trang
-Chuyên trang Công đoàn
-Tuyển sinh Đại học năm 2024
-ULIS SUCCESS COURSE
-UNC – ULIS NATIONAL CONFERENCE
-Đề án Ba Vì
-Chương trình Tây Bắc
-Diễn đàn khoa học Sci-chat
-COP – Cộng đồng chuyên môn
-ULIS Videos
-Lịch tuần
-Lịch chính thức
-Đăng ký lịch tuần
-University of Languages and International Studies – Vietnam National University,Hanoi
-University of Languages and International Studies – Vietnam National University,Hanoi
-GIỚI THIỆU
-Giới thiệu chung
-Chiến lược phát triển
-Cơ cấu tổ chức
-ĐHNN hơn 65 năm xây dựng
-Ý nghĩa logo ULIS
-Liên hệ
-Hồ sơ nhà khoa học
-TIN TỨC
-Tin tức sự kiện
-Sự kiện sắp diễn ra
-Thông báo
-Phổ biến pháp luật
-TUYỂN SINH
-Đại học chính quy
-Sau đại học
-Liên kết quốc tế
-Đào tạo và Bồi dưỡng Ngoại ngữ
-THCS Ngoại ngữ
-THPT Chuyên ngoại ngữ
-ĐÀO TẠO
-Đại học Chính quy
-Đào tạo Sau Đại học
-Đào tạo Liên kết Quốc tế
-Đào tạo Vừa làm vừa học
-Đào tạo & bồi dưỡng Ngoại ngữ
-Đào tạo THCS Ngoại ngữ
-Đào tạo THPT Chuyên ngữ
-NGƯỜI HỌC
-Văn bản HSSV
-Học phí
-Bảo hiểm
-Học bổng
-Hỗ trợ sinh viên
-Thủ tục hành chính
-Cựu sinh viên
-Đoàn thanh niên – Hội sinh viên
-Khoa học công nghệ
-Thông báo
-Hệ thống đề tài
-Hội nghị – Hội thảo
-Văn bản hướng dẫn
-Tạp chí nghiên cứu nước ngoài
-OCS – Hệ thống quản lý hội thảo mở
-Hợp tác phát triển
-Giới thiệu chung
-Hoạt động hợp tác
-Hội nghị – Hội thảo
-Khóa dự bị đại học
-Chuyên gia nước ngoài
-Sinh viên quốc tế
-Quy định – Hướng dẫn
-Tra cứu CSDL
-Đảng bộ
-Hội đồng trường
-»
-Chiến lược phát triển
-Chiến lược phát triển
 CHIẾN LƯỢC PHÁT TRIỂN
 TRƯỜNG ĐẠI HỌC NGOẠI NGỮ, ĐẠI HỌC QUỐC GIA HÀ NỘI
 ĐẾN NĂM 2030, TẦM NHÌN 2045
@@ -2021,47 +694,24 @@ Các đơn vị trong Trường xây dựng, triển khai kế hoạch, nhiệm 
 Hằng năm, Trường tổ chức đánh giá việc thực hiện Chiến lược phát triển Trường Đại học Ngoại ngữ, ĐHQGHN đến năm 2030, tầm nhìn 2045 nhằm tháo gỡ khó khăn và xây dựng kế hoạch hành động phù hợp để thực hiện hiệu quả Chiến lược này.
 ***
 Văn bản có dấu.
-Subscribe
-Họ & tên
-Email
-Bạn hãy tích chọn tại đây để xác nhận theo dõi
-Địa chỉ: Đường Phạm Văn Đồng – Quận Cầu Giấy – Hà Nội
-Tel: (+84)243.754.7269
-Fax: (+84)243.754.8057
-Email: dhnn@vnu.edu.vn
-© 2016 Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội.
-
 --- Dữ liệu từ: https://uet.vnu.edu.vn/lich-su/ ---
 Trường Đại học Công nghệ, ĐHQGHN: Chặng đường hơn 20 năm phát triển và khẳng định vị thế - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
-ĐHQGHN
-Email
 E-Office
 Chuyên san CNTT & TT
 Ứng dụng Công nghệ thông tin
-Học liệu số
 Menu
 English
-Giới thiệu
-Lịch sử phát triển
-Chiến lược phát triển
-Cơ cấu tổ chức
 Nhà giáo Nhân dân, Nhà giáo Ưu tú
 Đội ngũ cán bộ
 Ấn phẩm
-Bài hát truyền thống
 Địa chỉ
-Đào tạo
 Đào tạo đại học
 Đào tạo sau đại học
-Sinh viên
-Thông báo
 Học phí, học bổng
 Chế độ chính sách
 Thông tin tuyển dụng
-Thủ tục hành chính
 Quy chế, qui định
 Gương mặt sinh viên
-Cựu sinh viên
 Thống kê, khảo sát việc làm
 Job Fair
 Giao lưu, trao đổi sinh viên
@@ -2069,19 +719,15 @@ Khoa học – Công nghệ
 Bản tin KHCN & HTPT
 Công bố khoa học
 Đề tài, nhiệm vụ KHCN
-Hợp tác phát triển
 Sản phẩm KHCN
 Sản phẩm chuyển giao
 Sở hữu trí tuệ
 Sinh viên NCKH
 Danh mục các phòng thí nghiệm
 Các quy định
-Tuyển sinh
 Đại học
 Sau Đại học
-Đào tạo ngắn hạn
 Công khai các điều kiện tuyển sinh
-Tuyển dụng
 Khoa – Viện
 Khoa Công nghệ thông tin
 Khoa Điện tử viễn thông
@@ -2093,9 +739,6 @@ Viện Công nghệ Hàng không Vũ trụ
 Viện Trí tuệ nhân tạo
 Olympic
 Olympic THPT VNU 2024-2025
-Trang chủ
-\
-Giới thiệu
 \
 Trường Đại học Công nghệ, ĐHQGHN: Chặng đường hơn 20 năm phát triển và khẳng định vị thế
 Trường Đại học Công nghệ (ĐHCN) được thành lập ngày 25/5/2004 trên cơ sở phát triển Khoa Công nghệ &Trung tâm Hợp tác Đào tạo và Bồi dưỡng Cơ học thuộc Đại học Quốc gia Hà Nội (ĐHQGHN). Trải qua hơn 20 năm xây dựng và phát triển, Trường Đại học Công nghệ đã có những bước tiến chắc chắn, khẳng định vị thế hàng đầu của một cơ sở giáo dục đại học chất lượng cao, đào tạo nhân tài trong lĩnh vực công nghệ, kỹ thuật trong hệ thống giáo dục đại học Việt Nam và tiếp cận chuẩn mực quốc tế.
@@ -2137,7 +780,6 @@ Từ năm 2004 đến nay, Trường ĐHCN ngày càng phát triển và giữ v
 Sáng tạo – Tiên phong – Chất lượng cao
 ” và giá trị cốt lõi: “
 Đổi mới sáng tạo, Hợp tác, Chất lượng cao, Nhân văn”
-.
 Qua từng năm tháng, Trường ĐHCN dần củng cố và phát triển để tăng quy mô, chất lượng đào tạo, nghiên cứu khoa học và công nghệ, hợp tác quốc tế, phát triển đội ngũ cán bộ,… xây dựng cơ sở vật chất Nhà trường khang trang, hiện đại hơn.
 Ngày 18/10/1999 được chọn là ngày truyền thống của Trường Đại học Công nghệ, ĐHQGHN.
 BAN GIÁM HIỆU QUA CÁC THỜI KỲ
@@ -2150,19 +792,14 @@ GS.TS Nguyễn Hữu Đức
 PGS.TS Hà Quang Thụy
 PGS. TS Trần Quang Vinh
 Năm 2005-2009
-GS.TS Nguyễn Hữu Đức
 PGS.TS Nguyễn Ngọc Bình
 GS. TSKH Nguyễn Đình Đức (từ tháng 11/2008)
-PGS.TS Hà Quang Thụy
-PGS. TS Trần Quang Vinh
 Năm 2009-2014
-PGS.TS Nguyễn Ngọc Bình
 GS.TSKH Nguyễn Đình Đức (đến tháng 10/2012)
 PGS.TS Nguyễn Việt Hà
 TS Nguyễn Anh Thái (từ tháng 4/2013)
 GS.TS Nguyễn Thanh Thủy (từ tháng 6/2011)
 Năm 2014-2023
-PGS.TS Nguyễn Việt Hà
 PGS.TS Phạm Bảo Sơn (đến tháng 5/2019)
 TS Nguyễn Anh Thái
 GS.TS Nguyễn Thanh Thủy (đến tháng 6/ 2016)
@@ -2190,7 +827,6 @@ Trường ĐHCN cũng là địa chỉ tin cậy được Bộ GD&ĐT giao thự
 Đội EggCentroy tới từ Trường ĐH Công nghệ nhận huy chương Đồng tại vòng Chung kết toàn cầu Cuộc thi lập trình sinh viên quốc tế ACM/ICPC 2020
 Nhà trường đã khẳng định vai trò của trường đại học top đầu lĩnh vực công nghệ thông tin khi đưa sân chơi quốc tế đến Việt Nam, trở thành đơn vị đăng cai chung kết kỳ thi Lập trình sinh viên quốc tế ICPC Châu Á – Thái Bình Dương năm 2024.
 Tr
-ư
 ờng Đại học Công nghệ tổ chức Chung k
 ết k
 ỳ thi L
@@ -2226,7 +862,6 @@ Những ngày đầu thành lập còn gặp nhiều khó khăn, hạn chế, nh
 Cuối năm 2024, lễ khởi công xây dựng công trình Trường ĐH Công nghệ (giai đoạn 1) thuộc dự án “Phát triển các đại học quốc gia Việt Nam – Tiểu dự án Đại học Quốc gia Hà Nội” đã diễn ra tại Hòa Lạc. Công trình Trường ĐHCN được xây dựng tại khu đất quy mô 5,87 ha, tổng diện tích xây dựng khoảng 10.695m
 2
 tổng diện tích sàn khoảng hơn 35.000m
-2
 với 5 khối nhà cao từ 2 đến 5 tầng, mật độ xây dựng 23,3%.
 Lễ khởi công xây dựng công trình Trường Đại học Công nghệ tại Hòa Lạc
 Vị thế, thương hiệu Trường ĐH Công nghệ trên trường quốc tế
@@ -2238,9 +873,7 @@ Bên cạnh đó, lĩnh vực Vật lý và thiên văn học (Physics & Astrono
 2025
 Nhóm lĩnh vực Kỹ thuật và Công nghệ (Engineering and Technology)
 451-500
-451-500
 Khoa học máy tính và hệ thống thông tin (Computer Science & Information Systems)
-501-550
 501-550
 501-600
 Cơ kỹ thuật, Hàng không và chế tạo (Engineering Mechanical, Aeronautical & Manufacture)
@@ -2248,12 +881,8 @@ Cơ kỹ thuật, Hàng không và chế tạo (Engineering Mechanical, Aeronaut
 501-530
 401-450
 Kỹ thuật điện và điện tử (Engineering – Electrical & Electronics)
-501-520
-451-500
-401-450
 Vật lý và thiên văn học
 (Physics & Astronomy)
-551-600
 551-600
 601-675
 Từ năm 2021 đến nay, các lĩnh vực do Trường ĐH Công nghệ quản lý được THE WUR by Subject xếp hạng trên thế giới. Năm 2024, các lĩnh vực được xếp hạng Khoa học máy tính (Computer Sciences) – xếp hạng 801-1000 thế giới; Kỹ thuật (Engineering) – xếp hạng 801-1000; Khoa học tự nhiên (Physical Sciences) – xếp hạng 801-1000.
@@ -2267,7 +896,6 @@ GS.TS Lê Quân, Giám
 động h
 ạng Nhì c
 ủa Ch
-ủ t
 ịch n
 ước cho Tr
 ường
@@ -2279,9 +907,6 @@ Hy vọng những thành tựu mà Trường ĐHCN đã gặt hái được tron
 Bởi admin
 |
 31/08/2017
-|
-Giới thiệu
-|
 69104 Views
 admin
 Trước
@@ -2289,25 +914,11 @@ Kỷ yếu 15 năm xây dựng và trưởng thành
 Sau
 Trường Đại học Công nghệ mến yêu
 Bài viết liên quan
-Trường Đại học Công nghệ mến yêu
-Kỷ yếu 15 năm xây dựng và trưởng thành
-GIỚI THIỆU
-Giới thiệu
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Trường Đại học Công nghệ mến yêu
-Địa chỉ
 THƯ VIỆN ẢNH
 Video
 Hợp Tác – Phát Triển
-Giới thiệu
 Tin tức
 Các đối tác
-Đảm bảo chất lượng
-Ba công khai
 Kiểm định chất lượng
 Trung tâm đảm bảo chất lượng
 Trung tâm
@@ -2317,7 +928,6 @@ TT Công nghệ tích hợp liên ngành GSHT
 PTN Trọng điểm Công nghệ Micro và Nano
 PTN Trọng điểm Hệ thống tích hợp thông minh
 Đoàn Thể
-Công đoàn
 Đoàn Thanh niên
 Hội Sinh viên
 ĐẦU TRANG
@@ -2325,129 +935,8 @@ Hội Sinh viên
 Địa chỉ: E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội
 Facebook: https://www.facebook.com/UET.VNUH
 Điện thoại: 024.37547.461; Fax: 024.37547.460; Email: uet@vnu.edu.vn
-Giới thiệu
-Lịch sử phát triển
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Bài hát truyền thống
-Địa chỉ
-Đào tạo
-Đào tạo đại học
-Đào tạo sau đại học
-Sinh viên
-Thông báo
-Học phí, học bổng
-Chế độ chính sách
-Thông tin tuyển dụng
-Thủ tục hành chính
-Quy chế, qui định
-Gương mặt sinh viên
-Cựu sinh viên
-Thống kê, khảo sát việc làm
-Job Fair
-Giao lưu, trao đổi sinh viên
-Khoa học – Công nghệ
-Bản tin KHCN & HTPT
-Công bố khoa học
-Đề tài, nhiệm vụ KHCN
-Hợp tác phát triển
-Sản phẩm KHCN
-Sản phẩm chuyển giao
-Sở hữu trí tuệ
-Sinh viên NCKH
-Danh mục các phòng thí nghiệm
-Các quy định
-Tuyển sinh
-Đại học
-Sau Đại học
-Đào tạo ngắn hạn
-Công khai các điều kiện tuyển sinh
-Tuyển dụng
-Khoa – Viện
-Khoa Công nghệ thông tin
-Khoa Điện tử viễn thông
-Khoa Vật lý kỹ thuật & Công nghệ Nano
-Khoa Cơ học kỹ thuật & Tự động hóa
-Khoa Công nghệ Nông nghiệp
-Khoa Công nghệ Xây dựng – Giao thông
-Viện Công nghệ Hàng không Vũ trụ
-Viện Trí tuệ nhân tạo
-Olympic
-Olympic THPT VNU 2024-2025
-ĐHQGHN
-Email
-E-Office
-Chuyên san CNTT & TT
-Ứng dụng Công nghệ thông tin
-Học liệu số
-
 --- Dữ liệu từ: https://uet.vnu.edu.vn/chien-luoc-phat-trien/ ---
 Chiến lược phát triển - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
-ĐHQGHN
-Email
-E-Office
-Chuyên san CNTT & TT
-Ứng dụng Công nghệ thông tin
-Học liệu số
-Menu
-English
-Giới thiệu
-Lịch sử phát triển
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Bài hát truyền thống
-Địa chỉ
-Đào tạo
-Đào tạo đại học
-Đào tạo sau đại học
-Sinh viên
-Thông báo
-Học phí, học bổng
-Chế độ chính sách
-Thông tin tuyển dụng
-Thủ tục hành chính
-Quy chế, qui định
-Gương mặt sinh viên
-Cựu sinh viên
-Thống kê, khảo sát việc làm
-Job Fair
-Giao lưu, trao đổi sinh viên
-Khoa học – Công nghệ
-Bản tin KHCN & HTPT
-Công bố khoa học
-Đề tài, nhiệm vụ KHCN
-Hợp tác phát triển
-Sản phẩm KHCN
-Sản phẩm chuyển giao
-Sở hữu trí tuệ
-Sinh viên NCKH
-Danh mục các phòng thí nghiệm
-Các quy định
-Tuyển sinh
-Đại học
-Sau Đại học
-Đào tạo ngắn hạn
-Công khai các điều kiện tuyển sinh
-Tuyển dụng
-Khoa – Viện
-Khoa Công nghệ thông tin
-Khoa Điện tử viễn thông
-Khoa Vật lý kỹ thuật & Công nghệ Nano
-Khoa Cơ học kỹ thuật & Tự động hóa
-Khoa Công nghệ Nông nghiệp
-Khoa Công nghệ Xây dựng – Giao thông
-Viện Công nghệ Hàng không Vũ trụ
-Viện Trí tuệ nhân tạo
-Olympic
-Olympic THPT VNU 2024-2025
-Trang chủ
-\
 CHIẾN LƯỢC PHÁT TRIỂN TRƯỜNG ĐẠI HỌC CÔNG NGHỆ ĐẾN NĂM 2030, TẦM NHÌN 2045
 1. BỐI CẢNH
 1.1 Quốc tế
@@ -2474,12 +963,10 @@ Hợp tác: Hợp tác Trường – Viện – Doanh nghiệp, giá trị của
 Chất lượng cao: Chất lượng cao và bồi dưỡng nhân tài là sứ mạng của đại học định hướng nghiên cứu và đổi mới sáng tạo. Trường Đại học Công nghệ không chỉ cung cấp cho xã hội nguồn nhân lực có năng lực sáng tạo, tri thức và tài sản trí tuệ mà còn cả thế hệ khởi nghiệp mới.
 Nhân văn: Nhân văn là truyền thống, giá trị và sức mạnh của Nhà trường; góp phần kết nối và gia tăng các nguồn lực hữu hình và vô hình.
 – Khẩu hiệu hành động tiếng Việt: “
-Sáng tạo – Tiên phong – Chất lượng cao
 ”.
 – Khẩu hiệu hành động tiếng Anh: “
 Innovative
 Thinking for the Future
-”.
 3. QUAN ĐIỂM PHÁT TRIỂN
 – Phát triển phù hợp với chủ trương, chính sách, chiến lược phát triển kinh tế – xã hội, giáo dục, khoa học và công nghệ của đất nước, chiến lược phát triển chung của Đại học Quốc gia Hà Nội.
 – Là một trung tâm quan trọng trong đào tạo nguồn nhân lực chất lượng cao, bồi dưỡng nhân tài trên các lĩnh vực khoa học công nghệ tiên tiến của cả nước và khu vực, gắn với phát triển bền vững, thực hiện trách nhiệm xã hội, trách nhiệm quốc gia, và phù hợp với xu thế tự chủ đại học.
@@ -2538,177 +1025,14 @@ ngày
 10
 /04
 /
-2024
 của Hội đồng trường Trường Đại học Công nghệ, ĐHQGHN
-Giới thiệu
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Trường Đại học Công nghệ mến yêu
-Địa chỉ
-THƯ VIỆN ẢNH
-Video
-Hợp Tác – Phát Triển
-Giới thiệu
-Tin tức
-Các đối tác
-Đảm bảo chất lượng
-Ba công khai
-Kiểm định chất lượng
-Trung tâm đảm bảo chất lượng
-Trung tâm
-Trung tâm Đại học số
-TT Nghiên cứu Điện tử Viễn thông
-TT Công nghệ tích hợp liên ngành GSHT
-PTN Trọng điểm Công nghệ Micro và Nano
-PTN Trọng điểm Hệ thống tích hợp thông minh
-Đoàn Thể
-Công đoàn
-Đoàn Thanh niên
-Hội Sinh viên
-ĐẦU TRANG
-© 2017 Trường Đại học Công nghệ, Đại học Quốc Gia Hà Nội
-Địa chỉ: E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội
-Facebook: https://www.facebook.com/UET.VNUH
-Điện thoại: 024.37547.461; Fax: 024.37547.460; Email: uet@vnu.edu.vn
-Giới thiệu
-Lịch sử phát triển
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Bài hát truyền thống
-Địa chỉ
-Đào tạo
-Đào tạo đại học
-Đào tạo sau đại học
-Sinh viên
-Thông báo
-Học phí, học bổng
-Chế độ chính sách
-Thông tin tuyển dụng
-Thủ tục hành chính
-Quy chế, qui định
-Gương mặt sinh viên
-Cựu sinh viên
-Thống kê, khảo sát việc làm
-Job Fair
-Giao lưu, trao đổi sinh viên
-Khoa học – Công nghệ
-Bản tin KHCN & HTPT
-Công bố khoa học
-Đề tài, nhiệm vụ KHCN
-Hợp tác phát triển
-Sản phẩm KHCN
-Sản phẩm chuyển giao
-Sở hữu trí tuệ
-Sinh viên NCKH
-Danh mục các phòng thí nghiệm
-Các quy định
-Tuyển sinh
-Đại học
-Sau Đại học
-Đào tạo ngắn hạn
-Công khai các điều kiện tuyển sinh
-Tuyển dụng
-Khoa – Viện
-Khoa Công nghệ thông tin
-Khoa Điện tử viễn thông
-Khoa Vật lý kỹ thuật & Công nghệ Nano
-Khoa Cơ học kỹ thuật & Tự động hóa
-Khoa Công nghệ Nông nghiệp
-Khoa Công nghệ Xây dựng – Giao thông
-Viện Công nghệ Hàng không Vũ trụ
-Viện Trí tuệ nhân tạo
-Olympic
-Olympic THPT VNU 2024-2025
-ĐHQGHN
-Email
-E-Office
-Chuyên san CNTT & TT
-Ứng dụng Công nghệ thông tin
-Học liệu số
-
 --- Dữ liệu từ: https://uet.vnu.edu.vn/co-cau-to-chuc/ ---
 Cơ cấu tổ chức - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
-ĐHQGHN
-Email
-E-Office
-Chuyên san CNTT & TT
-Ứng dụng Công nghệ thông tin
-Học liệu số
-Menu
-English
-Giới thiệu
-Lịch sử phát triển
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Bài hát truyền thống
-Địa chỉ
-Đào tạo
-Đào tạo đại học
-Đào tạo sau đại học
-Sinh viên
-Thông báo
-Học phí, học bổng
-Chế độ chính sách
-Thông tin tuyển dụng
-Thủ tục hành chính
-Quy chế, qui định
-Gương mặt sinh viên
-Cựu sinh viên
-Thống kê, khảo sát việc làm
-Job Fair
-Giao lưu, trao đổi sinh viên
-Khoa học – Công nghệ
-Bản tin KHCN & HTPT
-Công bố khoa học
-Đề tài, nhiệm vụ KHCN
-Hợp tác phát triển
-Sản phẩm KHCN
-Sản phẩm chuyển giao
-Sở hữu trí tuệ
-Sinh viên NCKH
-Danh mục các phòng thí nghiệm
-Các quy định
-Tuyển sinh
-Đại học
-Sau Đại học
-Đào tạo ngắn hạn
-Công khai các điều kiện tuyển sinh
-Tuyển dụng
-Khoa – Viện
-Khoa Công nghệ thông tin
-Khoa Điện tử viễn thông
-Khoa Vật lý kỹ thuật & Công nghệ Nano
-Khoa Cơ học kỹ thuật & Tự động hóa
-Khoa Công nghệ Nông nghiệp
-Khoa Công nghệ Xây dựng – Giao thông
-Viện Công nghệ Hàng không Vũ trụ
-Viện Trí tuệ nhân tạo
-Olympic
-Olympic THPT VNU 2024-2025
-Trang chủ
-\
-Cơ cấu tổ chức
-Đảng ủy
-Hội đồng Trường
-Ban Giám hiệu
 Hội đồng Khoa học và Đào tạo
 Các đơn vị đào tạo trực thuộc
-Khoa Công nghệ thông tin
-Khoa Điện tử viễn thông
 Khoa Vật lý kỹ thuật & Công Nghệ Nano
 Khoa Cơ học kỹ thuật & Tự động hoá
 Khoa Công nghệ nông nghiệp
-Khoa Công nghệ Xây dựng – Giao thông
-Viện Công nghệ Hàng không Vũ trụ
 Viện Trí tuệ Nhân tạo
 Đơn vị chức năng
 Phòng Đào tạo
@@ -2717,1091 +1041,348 @@ Phòng Hành chính Quản trị và Tổ chức Cán bộ
 Phòng Khoa học Công nghệ và Hợp tác Phát triển
 Phòng Kế hoạch Tài chính
 Trung tâm Đại học số
-Giới thiệu
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Trường Đại học Công nghệ mến yêu
-Địa chỉ
-THƯ VIỆN ẢNH
-Video
-Hợp Tác – Phát Triển
-Giới thiệu
-Tin tức
-Các đối tác
-Đảm bảo chất lượng
-Ba công khai
-Kiểm định chất lượng
-Trung tâm đảm bảo chất lượng
-Trung tâm
-Trung tâm Đại học số
-TT Nghiên cứu Điện tử Viễn thông
-TT Công nghệ tích hợp liên ngành GSHT
-PTN Trọng điểm Công nghệ Micro và Nano
-PTN Trọng điểm Hệ thống tích hợp thông minh
-Đoàn Thể
-Công đoàn
-Đoàn Thanh niên
-Hội Sinh viên
-ĐẦU TRANG
-© 2017 Trường Đại học Công nghệ, Đại học Quốc Gia Hà Nội
-Địa chỉ: E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội
-Facebook: https://www.facebook.com/UET.VNUH
-Điện thoại: 024.37547.461; Fax: 024.37547.460; Email: uet@vnu.edu.vn
-Giới thiệu
-Lịch sử phát triển
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Bài hát truyền thống
-Địa chỉ
-Đào tạo
-Đào tạo đại học
-Đào tạo sau đại học
-Sinh viên
-Thông báo
-Học phí, học bổng
-Chế độ chính sách
-Thông tin tuyển dụng
-Thủ tục hành chính
-Quy chế, qui định
-Gương mặt sinh viên
-Cựu sinh viên
-Thống kê, khảo sát việc làm
-Job Fair
-Giao lưu, trao đổi sinh viên
-Khoa học – Công nghệ
-Bản tin KHCN & HTPT
-Công bố khoa học
-Đề tài, nhiệm vụ KHCN
-Hợp tác phát triển
-Sản phẩm KHCN
-Sản phẩm chuyển giao
-Sở hữu trí tuệ
-Sinh viên NCKH
-Danh mục các phòng thí nghiệm
-Các quy định
-Tuyển sinh
-Đại học
-Sau Đại học
-Đào tạo ngắn hạn
-Công khai các điều kiện tuyển sinh
-Tuyển dụng
-Khoa – Viện
-Khoa Công nghệ thông tin
-Khoa Điện tử viễn thông
-Khoa Vật lý kỹ thuật & Công nghệ Nano
-Khoa Cơ học kỹ thuật & Tự động hóa
-Khoa Công nghệ Nông nghiệp
-Khoa Công nghệ Xây dựng – Giao thông
-Viện Công nghệ Hàng không Vũ trụ
-Viện Trí tuệ nhân tạo
-Olympic
-Olympic THPT VNU 2024-2025
-ĐHQGHN
-Email
-E-Office
-Chuyên san CNTT & TT
-Ứng dụng Công nghệ thông tin
-Học liệu số
-
 --- Dữ liệu từ: https://uet.vnu.edu.vn/nha-giao-nhan-dan-nha-giao-uu-tu/ ---
 Nhà giáo Nhân dân, Nhà giáo Ưu tú - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
-ĐHQGHN
-Email
-E-Office
-Chuyên san CNTT & TT
-Ứng dụng Công nghệ thông tin
-Học liệu số
-Menu
-English
-Giới thiệu
-Lịch sử phát triển
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Bài hát truyền thống
-Địa chỉ
-Đào tạo
-Đào tạo đại học
-Đào tạo sau đại học
-Sinh viên
-Thông báo
-Học phí, học bổng
-Chế độ chính sách
-Thông tin tuyển dụng
-Thủ tục hành chính
-Quy chế, qui định
-Gương mặt sinh viên
-Cựu sinh viên
-Thống kê, khảo sát việc làm
-Job Fair
-Giao lưu, trao đổi sinh viên
-Khoa học – Công nghệ
-Bản tin KHCN & HTPT
-Công bố khoa học
-Đề tài, nhiệm vụ KHCN
-Hợp tác phát triển
-Sản phẩm KHCN
-Sản phẩm chuyển giao
-Sở hữu trí tuệ
-Sinh viên NCKH
-Danh mục các phòng thí nghiệm
-Các quy định
-Tuyển sinh
-Đại học
-Sau Đại học
-Đào tạo ngắn hạn
-Công khai các điều kiện tuyển sinh
-Tuyển dụng
-Khoa – Viện
-Khoa Công nghệ thông tin
-Khoa Điện tử viễn thông
-Khoa Vật lý kỹ thuật & Công nghệ Nano
-Khoa Cơ học kỹ thuật & Tự động hóa
-Khoa Công nghệ Nông nghiệp
-Khoa Công nghệ Xây dựng – Giao thông
-Viện Công nghệ Hàng không Vũ trụ
-Viện Trí tuệ nhân tạo
-Olympic
-Olympic THPT VNU 2024-2025
-Trang chủ
-\
 I. Danh sách Nhà giáo Nhân dân
 Stt
 Họ và tên
 Đơn vị
-1
 PGS.TS. Hồ Sĩ Đàm
-Khoa Công nghệ thông tin
-2
 GS.TS. Nguyễn Hữu Đức
 Phòng thí nghiệm trọng điểm Công nghệ Micro và Nano
 II. Danh sách Nhà giáo ưu tú
-Stt
-Họ và tên
-Đơn vị
-1
 GS.TSKH. Phan Anh
-Khoa Điện tử viễn thông
-2
 GS.TS. Bạch Gia Dương
-Khoa Điện tử viễn thông
 3
 GS.TS. Nguyễn Năng Định
 Khoa Vật lý kỹ thuật và công nghệ nano
 4
 PGS.TS. Nguyễn Viết Kính
-Khoa Điện tử viễn thông
-5
 PGS.TS. Lê Minh Khanh
-Khoa Công nghệ thông tin
 6
 PGS.TS. Nguyễn Quốc Toản
-Khoa Công nghệ thông tin
 7
 PGS.TS. Hà Quang Thụy
-Khoa Công nghệ thông tin
 8
 GS.TS. Nguyễn Thanh Thủy
-Khoa Công nghệ thông tin
 9
 PGS.TS. Trần Quang Vinh
-Khoa Điện tử viễn thông
-Giới thiệu
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Trường Đại học Công nghệ mến yêu
-Địa chỉ
-THƯ VIỆN ẢNH
-Video
-Hợp Tác – Phát Triển
-Giới thiệu
-Tin tức
-Các đối tác
-Đảm bảo chất lượng
-Ba công khai
-Kiểm định chất lượng
-Trung tâm đảm bảo chất lượng
-Trung tâm
-Trung tâm Đại học số
-TT Nghiên cứu Điện tử Viễn thông
-TT Công nghệ tích hợp liên ngành GSHT
-PTN Trọng điểm Công nghệ Micro và Nano
-PTN Trọng điểm Hệ thống tích hợp thông minh
-Đoàn Thể
-Công đoàn
-Đoàn Thanh niên
-Hội Sinh viên
-ĐẦU TRANG
-© 2017 Trường Đại học Công nghệ, Đại học Quốc Gia Hà Nội
-Địa chỉ: E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội
-Facebook: https://www.facebook.com/UET.VNUH
-Điện thoại: 024.37547.461; Fax: 024.37547.460; Email: uet@vnu.edu.vn
-Giới thiệu
-Lịch sử phát triển
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Bài hát truyền thống
-Địa chỉ
-Đào tạo
-Đào tạo đại học
-Đào tạo sau đại học
-Sinh viên
-Thông báo
-Học phí, học bổng
-Chế độ chính sách
-Thông tin tuyển dụng
-Thủ tục hành chính
-Quy chế, qui định
-Gương mặt sinh viên
-Cựu sinh viên
-Thống kê, khảo sát việc làm
-Job Fair
-Giao lưu, trao đổi sinh viên
-Khoa học – Công nghệ
-Bản tin KHCN & HTPT
-Công bố khoa học
-Đề tài, nhiệm vụ KHCN
-Hợp tác phát triển
-Sản phẩm KHCN
-Sản phẩm chuyển giao
-Sở hữu trí tuệ
-Sinh viên NCKH
-Danh mục các phòng thí nghiệm
-Các quy định
-Tuyển sinh
-Đại học
-Sau Đại học
-Đào tạo ngắn hạn
-Công khai các điều kiện tuyển sinh
-Tuyển dụng
-Khoa – Viện
-Khoa Công nghệ thông tin
-Khoa Điện tử viễn thông
-Khoa Vật lý kỹ thuật & Công nghệ Nano
-Khoa Cơ học kỹ thuật & Tự động hóa
-Khoa Công nghệ Nông nghiệp
-Khoa Công nghệ Xây dựng – Giao thông
-Viện Công nghệ Hàng không Vũ trụ
-Viện Trí tuệ nhân tạo
-Olympic
-Olympic THPT VNU 2024-2025
-ĐHQGHN
-Email
-E-Office
-Chuyên san CNTT & TT
-Ứng dụng Công nghệ thông tin
-Học liệu số
-
 --- Dữ liệu từ: https://uet.vnu.edu.vn/doi-ngu-can-bo/ ---
 Đội ngũ cán bộ - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
-ĐHQGHN
-Email
-E-Office
-Chuyên san CNTT & TT
-Ứng dụng Công nghệ thông tin
-Học liệu số
-Menu
-English
-Giới thiệu
-Lịch sử phát triển
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Bài hát truyền thống
-Địa chỉ
-Đào tạo
-Đào tạo đại học
-Đào tạo sau đại học
-Sinh viên
-Thông báo
-Học phí, học bổng
-Chế độ chính sách
-Thông tin tuyển dụng
-Thủ tục hành chính
-Quy chế, qui định
-Gương mặt sinh viên
-Cựu sinh viên
-Thống kê, khảo sát việc làm
-Job Fair
-Giao lưu, trao đổi sinh viên
-Khoa học – Công nghệ
-Bản tin KHCN & HTPT
-Công bố khoa học
-Đề tài, nhiệm vụ KHCN
-Hợp tác phát triển
-Sản phẩm KHCN
-Sản phẩm chuyển giao
-Sở hữu trí tuệ
-Sinh viên NCKH
-Danh mục các phòng thí nghiệm
-Các quy định
-Tuyển sinh
-Đại học
-Sau Đại học
-Đào tạo ngắn hạn
-Công khai các điều kiện tuyển sinh
-Tuyển dụng
-Khoa – Viện
-Khoa Công nghệ thông tin
-Khoa Điện tử viễn thông
-Khoa Vật lý kỹ thuật & Công nghệ Nano
-Khoa Cơ học kỹ thuật & Tự động hóa
-Khoa Công nghệ Nông nghiệp
-Khoa Công nghệ Xây dựng – Giao thông
-Viện Công nghệ Hàng không Vũ trụ
-Viện Trí tuệ nhân tạo
-Olympic
-Olympic THPT VNU 2024-2025
-Trang chủ
-\
-Cơ cấu tổ chức
-\
-Đội ngũ cán bộ
 Trường Đại học Công nghệ hiện có 328 cán bộ trong đó có 258 giảng viên, trợ giảng, nghiên cứu viên và 70 cán bộ hành chính, phục vụ. Nhà trường luôn tự hào có đội ngũ cán bộ, giảng viên, nghiên cứu viên trình độ cao có học vị tiến sĩ trở lên chiếm tỷ lệ 57%, trong đó tỉ lệ giáo sư và phó giáo sư đạt 15,5%. Bên cạnh đó, Nhà trường còn có đội ngũ giáo sư kiêm nhiệm đến từ các trường đại học và viện tiên tiến trên thế giới. Dưới đây là danh sách cán bộ, giảng viên của trường có học vị tiến sĩ trở lên.
 I. Danh sách Giáo sư
-Stt
-Họ và tên
 Đơn vị công tác
-1
-GS.TS. Nguyễn Hữu Đức
 Chủ tịch Hội đồng Khoa học và Đào tạo
-2
 GS.TSKH Nguyễn Đình Đức
 Khoa Công nghệ Xây dựng – Giao thông
-3
 GS.TS Lê Huy Hàm
-Khoa Công nghệ nông nghiệp
-4
 GS.TS Hoàng Nam Nhật
 Khoa Vật lý kỹ thuật và Công nghệ nano
-5
 GS. TS Nguyễn Thanh Thủy
 Khoa Công nghệ Thông tin
-6
 GS.TS Chử Đức Trình
-Khoa Điện tử viễn thông
-7
 GS.TS. Lê Sỹ Vinh
-Khoa Công nghệ thông tin
 II. Danh sách Phó Giáo sư
-Stt
-Họ và tên
-Đơn vị công tác
-1
 PGS.TS. Lê Đình Anh
 Viện Công nghệ hàng không – vũ trụ
-2
 PGS.TS. Nguyễn Việt Anh
-Khoa Công nghệ thông tin
-3
 PGS.TS. Đặng Thế Ba
 Khoa Cơ học kỹ thuật và Tự động hóa
-4
 PGS.TS. Nguyễn Hải Châu
 Khoa Công nghệ thông  tin
-5
 PGS.TS. Lâm Sinh Công
-Khoa Điện tử viễn thông
-6
 PGS.TS. Nguyễn Kiên Cường
-Khoa Vật lý kỹ thuật và Công nghệ nano
-7
 PGS.TS. Phan Hải Đăng
-Khoa Công nghệ Xây dựng – Giao thông
-8
 PGS.TS. Đỗ Thị Hương Giang
-Khoa Vật lý kỹ thuật và Công nghệ nano
-9
 PGS.TS. Lê Thanh Hà
-Khoa Công nghệ thông tin
-10
 PGS.TS. Nguyễn Việt Hà
-Viện Trí tuệ nhân tạo
 11
 PGS.TS. Đặng Đức Hạnh
-Khoa Công nghệ thông  tin
 12
 PGS.TS. Võ Đình Hiếu
-Khoa Công nghệ thông  tin
 13
 PGS.TS. Trần Trọng Hiếu
-Khoa Công nghệ thông tin
 14
 PGS.TS. Phan Xuân Hiếu
-Khoa Công nghệ thông  tin
 15
 PGS.TS. Nguyễn Ngọc Hóa
-Khoa Công nghệ thông  tin
 16
 PGS. TS. Nguyễn Nam Hoàng
-Khoa Điện tử viễn thông
 17
 PGS.TS. Phạm Ngọc Hùng
-Khoa Công nghệ thông  tin
 18
 PGS.TS. Nguyễn Đình Lãm
-Khoa Vật lý kỹ thuật và Công nghệ nano
 19
 PGS.TS. Đinh Thị Thái Mai
-Khoa Điện tử viễn thông
 20
 PGS.TS. Nguyễn Phương Hoài Nam
-Khoa Vật lý kỹ thuật và Công nghệ nano
 21
 PGS.TS. Trần Văn Quảng
-Khoa Điện tử viễn thông
 22
 PGS.TS. Nguyễn Hoài Sơn
-Khoa Công nghệ thông tin
 23
 PGS.TS. Nguyễn Phương Thái
-Viện Trí tuệ nhân tạo
 24
 PGS.TS. Nguyễn Thị Nhật Thanh
-Khoa Công nghệ thông tin
 25
 PGS.TS. Nguyễn Trí Thành
-Khoa Công nghệ thông tin
 26
 PGS.TS. Phạm Mạnh Thắng
-Khoa Cơ học kỹ thuật và Tự động hóa
 27
 PGS.TS. Trương Ninh Thuận
 Viện Công nghệ Hàng không vũ trụ
-28
 PGS.TS. Mai Anh Tuấn
-Khoa Điện tử viễn thông
 29
 PGS.TS. Phạm Châu Thùy
-Khoa Công nghệ nông nghiệp
 30
 PGS.TS. Phạm Minh Triển
-Khoa Công nghệ nông nghiệp
-31
 PGS.TS. Nguyễn Linh Trung
-Khoa Điện tử viễn thông
 32
 PGS.TS. Bùi Thanh Tùng
 Trung tâm nghiên cứu Điện tử – viễn thông
 33
 PGS.TS. Phạm Văn Vĩnh
-Khoa Vật lý kỹ thuật và công nghệ nano
 34
 PGS.TS. Hoàng Văn Xiêm
-Khoa Điện tử viễn thông
 III. Danh sách Tiến sĩ
-Stt
-Họ và tên
-Đơn vị công tác
-1
 TS. Nguyễn Đức Anh
-Khoa Công nghệ thông tin
-2
 TS. Nguyễn Ngọc An
-Khoa Điện tử viễn thông
-3
 TS. Hồ Thị Anh
-Khoa Vật lý kỹ thuật và Công nghệ nano
-4
 TS. Nguyễn Thị Ngọc Ánh
-Khoa Công nghệ nông nghiệp
-5
 TS. Vũ Thị Thùy Anh
 Khoa Công nghệ xây dựng – giao thông
-6
 TS. Nguyễn Văn Bắc
-Khoa Công nghệ xây dựng – giao thông
-7
 TS. Đặng Trần Bình
-Khoa Công nghệ thông tin
-8
 TS. Trần Thị Minh Châu
-Khoa Công nghệ thông tin
-9
 TS. Ma Thị Châu
-Khoa Công nghệ thông tin
-10
 TS. Nguyễn Tuấn Cảnh
-Khoa Vật lý kỹ thuật và Công nghệ nano
-11
 TS. Mẫn Đức Chức
-Khoa Công nghệ thông tin
-12
 TS. Đặng Cao Cường
-Khoa Công nghệ thông tin
-13
 TS. Nguyễn Đức Cường
-Khoa Vật lý kỹ thuật và Công nghệ nano
-14
 TS. Hà Minh Cường
 Viện Công nghệ hàng không vũ trụ
-15
 TS. Lê Việt Cường
-Khoa Vật lý kỹ thuật và Công nghệ nano
-16
 TS. Tạ Việt Cường
-Khoa Công nghệ thông tin
-17
 TS. Ngô Thị Duyên
-Khoa Công nghệ thông tin
-18
 TS. Nguyễn Thị Ngọc Diệp
-Viện Trí tuệ nhân tạo
-19
 TS. Đỗ Đức Đông
-Khoa Công nghệ thông tin
-20
 TS. Hoàng Thị Điệp
-Khoa Công nghệ thông tin
-21
 TS. Đỗ Huy Điệp
-Khoa Cơ học kỹ thuật và Tự động hóa
-22
 TS. Nguyễn Quang Định
-Khoa Điện tử viễn thông
-23
 TS. Dương Việt Dũng
-Viện Công nghệ hàng không vũ trụ
-24
 TS. Nghiêm Nguyễn Việt Dũng
-Khoa Công nghệ thông tin
-25
 TS. Đinh Triều Dương
-Khoa Điện tử viễn thông
-26
 TS. Lê Thùy Dương
-Khoa Công nghệ Xây dựng – Giao thông
-27
 TS. Nguyễn Xuân Dương
-Khoa Điện tử viễn thông
-28
-TS. Ngô Thị Duyên
-Khoa Công nghệ thông tin
-29
 TS. Lê Vũ Hà
-Khoa Điện tử viễn thông
-30
 TS. Chu Đức Hà
-Khoa Công nghệ nông nghiệp
-31
 TS. Lưu Mạnh Hà
-Khoa Điện tử viễn thông
-32
 TS. Lê Hồng Hải
-Khoa Công nghệ thông tin
-33
 TS. Đặng Thanh Hải
-Khoa Công nghệ thông tin
-34
 TS. Bùi Thu Hằng
-Khoa Điện tử viễn thông
 35
 TS. Dư Phương Hạnh
-Khoa Công nghệ thông tin
-36
 TS. Nguyễn Thị Hậu
-Khoa Công nghệ thông tin
 37
 TS. Lê Thị Hiên
 Khoa Công nghệ nông nghiệp
 38
 TS. Đinh Trần Hiệp
-Khoa Cơ học kỹ thuật và Tự động hóa
 39
 TS. Lê Quang Hiếu
-Khoa Công nghệ thông tin
 40
 TS. Nguyễn Thị Minh Hồng
-Khoa Vật lý kỹ thuật và Công nghệ nano
 41
 TS. Lê Thị Hợi
-Khoa Công nghệ thông tin
 42
 TS. Vũ Văn Huy
-Khoa Công nghệ Xây dựng – Giao thông
 43
 TS. Nguyễn Kiêm Hùng
-Viện Trí tuệ nhân tạo
 44
 TS. Nguyễn Văn Hùng
-Khoa Công nghệ Xây dựng – Giao thông
 45
 TS. Trần Cường Hưng
-Khoa Cơ học kỹ thuật và Tự động hóa
 46
 TS. Hoàng Gia Hưng
-Khoa Điện tử viễn thông
 47
 TS. Phạm Duy Hưng
-Khoa Điện tử viễn thông
 48
 TS. Bùi Quang Hưng
-Viện Công nghệ hàng không vũ trụ
 49
 TS. Vũ Thị Huyền
-Khoa Công nghệ nông nghiệp
 50
 TS. Nguyễn Lê Khanh
-Khoa Công nghệ nông nghiệp
 51
 TS. Tô Văn Khánh
-Khoa Công nghệ thông tin
 52
 TS. Trần Đăng Khoa
-Khoa Công nghệ nông nghiệp
 53
 TS. Lê Nguyên Khôi
-Khoa Công nghệ thông tin
 54
 TS. Mai Linh
-Khoa Điện tử viễn thông
 55
 TS. Phạm Mạnh Linh
-Khoa Công nghệ thông tin
 56
 TS. Trần Quốc Long
-Viện Trí tuệ nhân tạo
 57
 TS. Phan Thế Long
-Khoa Vật lý kỹ thuật và Công nghệ nano
 58
 TS. Lê Xuân Lực
-Khoa Điện tử viễn thông
 59
 TS. Trần Trúc Mai
-Khoa Công nghệ thông tin
-60
 TS. Nguyễn Thị Yến Mai
-Khoa Vật lý kỹ thuật và Công nghệ nano
 61
 TS. Lê Trần Mạnh
-Khoa Điện tử viễn thông
 62
 TS. Dương Tuấn Mạnh
-Khoa Công nghệ Xây dựng – Giao thông
 63
 TS. Hoàng Văn Mạnh
-Khoa Cơ học kỹ thuật và Tự động hóa
 64
 TS. Dương Lê Minh
-Khoa Công nghệ thông tin
 65
 TS. Đỗ Nam
-Khoa Cơ học kỹ thuật và Tự động hóa
 66
 TS. Phạm Cẩm Ngọc
-Khoa Công nghệ thông tin
 67
 TS. Vũ Thị Hồng Nhạn
-Khoa Công nghệ thông tin
 68
 TS. Bùi Trung Ninh
-Khoa Điện tử viễn thông
 69
 TS. Nguyễn Đăng Phú
-Khoa Điện tử viễn thông
 70
 TS. Huỳnh Bá Phúc
-Khoa Điện tử viễn thông
 71
 TS. Phạm Đức Quang
-Khoa Điện tử viễn thông
 72
 TS. Trần Quốc Quân
-Khoa Công nghệ Xây dựng – Giao thông
 73
 TS. Nguyễn Hoàng Quân
-Viện Công nghệ Hàng không vũ trụ
 74
 TS. Hà Thị Quyến
-Khoa Công nghệ nông nghiệp
 75
 TS. Trần Cao Quyền
-Khoa Điện tử viễn thông
 76
 TS. Lê Hoàng Quỳnh
-Khoa Công nghệ thông tin
 77
 TS. Trần Thị Thúy Quỳnh
-Khoa Điện tử viễn thông
 78
 TS. Nguyễn Văn Sơn
-Khoa Công nghệ thông tin
 79
 TS. Vũ Nguyên Thức
-Khoa Vật lý kỹ thuật và Công nghệ nano
 80
 TS. Bùi Ngọc Thăng
-Khoa Công nghệ thông tin
 81
 TS. Nguyễn Văn Thắng
-Khoa Điện tử viễn thông
 82
 TS. Lê Đình Thanh
-Khoa Công nghệ thông tin
 83
 TS. Nguyễn Hồng Thịnh
-Khoa Điện tử viễn thông
 84
 TS. Nguyễn Đại Thọ
-Khoa Công nghệ thông tin
 85
 TS. Vũ Thị Thao
-Khoa Vật lý kỹ thuật và Công nghệ nano
 86
 TS. Phạm Ngọc Thảo
-Khoa Điện tử viễn thông
 87
 TS. Nguyễn Văn Thương
-Viện Công nghệ Hàng không vũ trụ
 88
 TS. Lê Đức Trọng
-Khoa Công nghệ thông tin
 89
 TS. Nguyễn Huy Tiệp
-Khoa Vật lý kỹ thuật và Công nghệ nano
 90
 TS. Lê Khánh Trình
-Khoa Công nghệ thông tin
 91
 TS. Bùi Đình Tú
-Khoa Vật lý kỹ thuật và Công nghệ nano
 92
 TS. Nguyễn Ngọc Tân
-Khoa Công nghệ thông tin
 93
 TS. Nguyễn Minh Trần
-Khoa Điện tử viễn thông
 94
 TS. Lê Trung Thành
-Khoa Điện tử viễn thông
-95
 TS. Phùng Đức Thuận
-Viện Công nghệ Hàng không vũ trụ
 96
 TS. Lê Văn Tuân
-Khoa Công nghệ Xây dựng – Giao thông
 97
 TS. Vũ Quốc Tuấn
-Khoa Điện tử viễn thông
 98
 TS. Trần Thanh Tùng
-Khoa Cơ học kỹ thuật và Tự động hóa
 99
 TS. Nguyễn Thanh Tùng
-Khoa Vật lý kỹ thuật và Công nghệ nano
 100
 TS. Hoàng Xuân Tùng
-Khoa Công nghệ thông tin
 101
 TS. Nguyễn Thị Thanh Vân
-Khoa Điện tử viễn thông
 102
 TS. Đồng Quốc Việt
-Khoa Vật lý kỹ thuật và Công nghệ nano
 103
 TS. Trần Hoàng Việt
-Khoa Công nghệ thông tin
 104
 TS. Nguyễn Văn Vinh
-Khoa Công nghệ thông tin
 105
 TS. Trần Mai Vũ
-Khoa Công nghệ thông tin
 106
 TS. Phạm Hoàng Vân
-Khoa Công nghệ Xây dựng – Giao thông
 107
 TS. Bùi Văn Vượng
-Viện Trí tuệ nhân tạo
 108
 TS. Nguyễn Văn Yên
-Khoa Công nghệ Xây dựng – Giao thông
 IV. Danh sách Giáo sư kiêm nhiệm (Adjunct Professors)
-Stt
-Họ và tên
-Đơn vị công tác
-1
 GS.TS. Ying-Dar Lin
 Trường ĐH Giao thông, Đài Loan
-2
 PGS.TS. Kumbesan Sandrasegaran
 Trường ĐH Công nghệ Sydney, Úc
-3
 GS. Đỗ Ngọc Minh
 Trường ĐH Illinnois, Hoa Kỳ
-4
 PGS.TS. Quang Hà
-Trường ĐH Công nghệ Sydney, Úc
-5
 PGS.TS. Theo van Walsum
 Trung tâm y học Erasmus, Hà Lan
-6
 GS.TS. Karim Abed-Meraim
 Trường ĐH Orleans, Cộng hòa Pháp
-7
 GS.TS. Nguyễn Lê Minh
 Viện KH&CN Tiên tiến Nhật Bản (JAIST)
-8
 GS.TS. Dominique Laffly
 Trường ĐH Toulouse 2, Cộng Hòa Pháp
-9
 GS.TS. Phạm Công Kha
 Trường ĐH Điện tử – Truyền thông, Tokyo, Nhật Bản
-10
 GS.TS. Michael Ellis
 Cục khảo sát Địa chất Vương Quốc Anh
-11
 TS. Nguyễn Điệp
-Trường ĐH Công nghệ Sydney, Úc
-12
 GS.TS. Eryk Dutkiewicz
-Trường ĐH Công nghệ Sydney, Úc
-13
 GS.TSKH. Nguyễn Đông Anh
 Viện Hàn lâm Khoa học và Công nghệ Việt Nam
-14
 GS.TSKH. Nguyễn Tiến Khiêm
-Viện Hàn lâm Khoa học và Công nghệ Việt Nam
-15
-GS.TS. Nguyễn Năng Định
 Trường Đại học Công nghệ, ĐHQGHN
-16
 GS.TSKH. Dương Ngọc Hải
-Viện Hàn lâm Khoa học và Công nghệ Việt Nam
-17
 PGS.TS. Nguyễn Đình Kiên
 Viện Cơ học
-18
 PGS.TS. Hà Ngọc Hiến
 Viện Công nghệ Môi trường
-19
 PGS.TS. Đào Như Mai
-Viện Cơ học
-20
 PGS.TS. Đinh Văn Mạnh
-Viện Cơ học
-21
 PGS.TS. Phạm Anh Tuấn
 TT Vệ tinh Quốc gia
-22
 PGS.TS. Bùi Đình Trí
-Viện Hàn lâm Khoa học và Công nghệ Việt Nam
-23
 PGS.TS. Trần Thu Hà
-Viện Cơ học
-24
 PGS.TS. Nguyễn Việt Khoa
-Viện Cơ học
-25
 PGS.TS. Nguyễn Thế Đức
 Viện dầu khí Việt Nam
-26
 PGS.TS. Phạm Hoàng Anh
 Trường Đại học Xây Dựng
-27
-PGS.TS. Hà Quang Thụy
-Trường Đại học Công nghệ, ĐHQGHN
-28
 PGS.TS. Nguyễn Hoàng Hải
 Đại học Quốc gia Hà Nội
-29
 PGS.TS. Vũ Văn Tích
-Đại học Quốc gia Hà Nội
-30
 PGS.TS. Phạm Đức Thắng
 Trường Đại học Phenikaa
-31
 PGS.TS. Hoàng Xuân Huấn
-Trường Đại học Công nghệ, ĐHQGHN
-32
 PGS.TS. Lê Anh Cường
 Trường Đại học Tôn Đức Thắng
 Bởi Tuyết Nga
-|
 18/10/2017
-|
-Cơ cấu tổ chức
-|
 110820 Views
 Tuyết Nga
-Trước
-Viện Công nghệ Hàng không Vũ trụ
-Sau
-Khoa Công nghệ Xây dựng – Giao thông
-Bài viết liên quan
-Khoa Công nghệ nông nghiệp
-Khoa Công nghệ Xây dựng – Giao thông
-Viện Công nghệ Hàng không Vũ trụ
-Viện Công nghệ Hàng không Vũ trụ
-Đảng ủy
-THƯ VIỆN ẢNH
-Video
-Hợp Tác – Phát Triển
-Giới thiệu
-Tin tức
-Các đối tác
-Đảm bảo chất lượng
-Ba công khai
-Kiểm định chất lượng
-Trung tâm đảm bảo chất lượng
-Trung tâm
-Trung tâm Đại học số
-TT Nghiên cứu Điện tử Viễn thông
-TT Công nghệ tích hợp liên ngành GSHT
-PTN Trọng điểm Công nghệ Micro và Nano
-PTN Trọng điểm Hệ thống tích hợp thông minh
-Đoàn Thể
-Công đoàn
-Đoàn Thanh niên
-Hội Sinh viên
-ĐẦU TRANG
-© 2017 Trường Đại học Công nghệ, Đại học Quốc Gia Hà Nội
-Địa chỉ: E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội
-Facebook: https://www.facebook.com/UET.VNUH
-Điện thoại: 024.37547.461; Fax: 024.37547.460; Email: uet@vnu.edu.vn
-Giới thiệu
-Lịch sử phát triển
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Bài hát truyền thống
-Địa chỉ
-Đào tạo
-Đào tạo đại học
-Đào tạo sau đại học
-Sinh viên
-Thông báo
-Học phí, học bổng
-Chế độ chính sách
-Thông tin tuyển dụng
-Thủ tục hành chính
-Quy chế, qui định
-Gương mặt sinh viên
-Cựu sinh viên
-Thống kê, khảo sát việc làm
-Job Fair
-Giao lưu, trao đổi sinh viên
-Khoa học – Công nghệ
-Bản tin KHCN & HTPT
-Công bố khoa học
-Đề tài, nhiệm vụ KHCN
-Hợp tác phát triển
-Sản phẩm KHCN
-Sản phẩm chuyển giao
-Sở hữu trí tuệ
-Sinh viên NCKH
-Danh mục các phòng thí nghiệm
-Các quy định
-Tuyển sinh
-Đại học
-Sau Đại học
-Đào tạo ngắn hạn
-Công khai các điều kiện tuyển sinh
-Tuyển dụng
-Khoa – Viện
-Khoa Công nghệ thông tin
-Khoa Điện tử viễn thông
-Khoa Vật lý kỹ thuật & Công nghệ Nano
-Khoa Cơ học kỹ thuật & Tự động hóa
-Khoa Công nghệ Nông nghiệp
-Khoa Công nghệ Xây dựng – Giao thông
-Viện Công nghệ Hàng không Vũ trụ
-Viện Trí tuệ nhân tạo
-Olympic
-Olympic THPT VNU 2024-2025
-ĐHQGHN
-Email
-E-Office
-Chuyên san CNTT & TT
-Ứng dụng Công nghệ thông tin
-Học liệu số
-
 --- Dữ liệu từ: https://uet.vnu.edu.vn/dao-tao-dai-hoc/ ---
 Đào tạo đại học - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
-ĐHQGHN
-Email
-E-Office
-Chuyên san CNTT & TT
-Ứng dụng Công nghệ thông tin
-Học liệu số
-Menu
-English
-Giới thiệu
-Lịch sử phát triển
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Bài hát truyền thống
-Địa chỉ
-Đào tạo
-Đào tạo đại học
-Đào tạo sau đại học
-Sinh viên
-Thông báo
-Học phí, học bổng
-Chế độ chính sách
-Thông tin tuyển dụng
-Thủ tục hành chính
-Quy chế, qui định
-Gương mặt sinh viên
-Cựu sinh viên
-Thống kê, khảo sát việc làm
-Job Fair
-Giao lưu, trao đổi sinh viên
-Khoa học – Công nghệ
-Bản tin KHCN & HTPT
-Công bố khoa học
-Đề tài, nhiệm vụ KHCN
-Hợp tác phát triển
-Sản phẩm KHCN
-Sản phẩm chuyển giao
-Sở hữu trí tuệ
-Sinh viên NCKH
-Danh mục các phòng thí nghiệm
-Các quy định
-Tuyển sinh
-Đại học
-Sau Đại học
-Đào tạo ngắn hạn
-Công khai các điều kiện tuyển sinh
-Tuyển dụng
-Khoa – Viện
-Khoa Công nghệ thông tin
-Khoa Điện tử viễn thông
-Khoa Vật lý kỹ thuật & Công nghệ Nano
-Khoa Cơ học kỹ thuật & Tự động hóa
-Khoa Công nghệ Nông nghiệp
-Khoa Công nghệ Xây dựng – Giao thông
-Viện Công nghệ Hàng không Vũ trụ
-Viện Trí tuệ nhân tạo
-Olympic
-Olympic THPT VNU 2024-2025
-Trang chủ
-\
 ĐTĐH
-\
-Đào tạo đại học
 Trường Đại học Công nghệ – ĐHQGHN tổ chức đào tạo các ngành học hiện đại đáp ứng nhu cầu phát triển nguồn nhân lực trong bối cảnh cách mạng công nghiệp lần thứ tư bao gồm các ngành thuộc các lĩnh vực công nghệ thông tin, truyền thông, tự động hóa và một số ngành công nghệ cao liên ngành.
 Chương trình đào tạo được thiết kế đáp ứng nhu cầu xã hội và xu thế phát triển chuyên môn ngành nghề và hội nhập quốc tế.
 Các ngành đào tạo, văn bằng và chương trình đào tạo như sau:
@@ -3809,275 +1390,48 @@ TT
 Ngành/chương trình
 Văn bằng tốt nghiệp
 Thời gian đào tạo chuẩn (năm)
-1
 Công nghệ thông tin CLC
 Cử nhân
-4
-2
 Khoa học máy tính CLC
-Cử nhân
-4
-3
 Hệ thống thông tin CLC
-Cử nhân
-4
-4
 Mạng máy tính và truyền thông dữ liệu CLC
 Kỹ sư
 4,5
-5
 Công nghệ thông tin
-Cử nhân
-4
-6
 Công nghệ thông tin định hướng thị trường Nhật Bản
-Cử nhân
-4
-7
 Trí tuệ nhân tạo
-Cử nhân
-4
-8
 Công nghệ kỹ thuật điện tử – viễn thông CLC
-Cử nhân
-4
-9
 Kỹ thuật máy tính
-Kỹ sư
-4,5
-10
 Kỹ thuật robot
-Kỹ sư
-4,5
-11
 Công nghệ kỹ thuật Cơ điện tử CLC
-Cử nhân
-4
-12
 Kỹ thuật điều khiển và tự động hóa
-Kỹ sư
-4,5
-13
 Cơ kỹ thuật
-Kỹ sư
-4,5
-14
 Vật lý kỹ thuật
-Cử nhân
-4
-15
 Kỹ thuật năng lượng
-Kỹ sư
-4,5
-16
 Công nghệ kỹ thuật xây dựng
-Kỹ sư
-4,5
-17
 Công nghệ hàng không vũ trụ
-Kỹ sư
-4,5
-18
 Công nghệ nông nghiệp
-Kỹ sư
-4,5
-19
 Thiết kế công nghiệp và đồ họa
 (ngành đào tạo thí điểm)
-Cử nhân
-4
-20
 Công nghệ vật liệu và Vi điện tử
-Kỹ sư
-4,5
-21
 Công nghệ kỹ thuật sinh học
-Kỹ sư
-4,5
-22
 Khoa học và kỹ thuật dữ liệu
-Cử nhân
-4
-23
 Công nghệ kỹ thuật điện tử – viễn thông (CTĐT Thiết kế vi mạch)
-Cử nhân
-4
 (CLC: chất lượng cao)
 Chương trình đào tạo được thiết kế và vận hành theo phương thức tín chỉ, sinh viên có thể chủ động thiết kế lộ trình học tập, học gia tăng các môn học lựa chọn hoặc các môn học thuộc các chương trình đào tạo khác theo nhu cầu và năng lực cá nhân. Đồng thời, sinh viên có cơ hội học và được cấp văn bằng thứ 2 (bằng kép) với một số chương trình trong Trường ĐHCN cũng như các trường đại học khác trong ĐHQGHN.
 Với chương trình đào tạo chất lượng cao, sinh viên được học bổ sung một số học phần nâng cao về chuyên môn và kỹ năng, trong đó tối thiêu 40% môn học chuyên ngành được giảng dạy bằng tiếng Anh.
 Sinh viên được thực hành thực tập trên hệ thống trang thiết bị và phòng máy tính hiện đại, được cung cấp tài nguyên học liệu số. 100% môn học có website hỗ trợ giảng dạy, học tập.
 Từ học kỳ hè năm thứ 3, sinh viên được thực tập tại doanh nghiệp.Trường ĐHCN hợp tác chặt chẽ với một số tập đoàn công nghệ, doanh nghiệp hàng đầu để cung cấp môi trường thực tập và hỗ trợ định hướng nghề nghiệp cho sinh viên.
-Bởi Tuyết Nga
-|
 08/11/2022
-|
-ĐTĐH
-|
 329435 Views
-Tuyết Nga
-Trước
 Chương trình đào tạo ngành Công nghệ kỹ thuật điện tử - viễn thông (CLC TT23)
-Sau
 Chương trình đào tạo ngành Công nghệ hàng không vũ trụ
-Bài viết liên quan
-Chương trình đào tạo Khoa học và Kỹ thuật dữ liệu – Ngành Khoa học dữ liệu
-Chương trình đào tạo Khoa học và Kỹ thuật dữ liệu – Ngành Khoa học dữ liệu
-Chương trình đào tạo Khoa học và Kỹ thuật dữ liệu – Ngành Khoa học dữ liệu
 Chương trình đào tạo Khoa học và Kỹ thuật dữ liệu – Ngành Khoa học dữ liệu
 Chương trình đào tạo Công nghệ kỹ thuật sinh học – Ngành Công nghệ sinh học
-Thông báo
 Cổng thông tin đào tạo
-THƯ VIỆN ẢNH
-Video
-Hợp Tác – Phát Triển
-Giới thiệu
-Tin tức
-Các đối tác
-Đảm bảo chất lượng
-Ba công khai
-Kiểm định chất lượng
-Trung tâm đảm bảo chất lượng
-Trung tâm
-Trung tâm Đại học số
-TT Nghiên cứu Điện tử Viễn thông
-TT Công nghệ tích hợp liên ngành GSHT
-PTN Trọng điểm Công nghệ Micro và Nano
-PTN Trọng điểm Hệ thống tích hợp thông minh
-Đoàn Thể
-Công đoàn
-Đoàn Thanh niên
-Hội Sinh viên
-ĐẦU TRANG
-© 2017 Trường Đại học Công nghệ, Đại học Quốc Gia Hà Nội
-Địa chỉ: E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội
-Facebook: https://www.facebook.com/UET.VNUH
-Điện thoại: 024.37547.461; Fax: 024.37547.460; Email: uet@vnu.edu.vn
-Giới thiệu
-Lịch sử phát triển
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Bài hát truyền thống
-Địa chỉ
-Đào tạo
-Đào tạo đại học
-Đào tạo sau đại học
-Sinh viên
-Thông báo
-Học phí, học bổng
-Chế độ chính sách
-Thông tin tuyển dụng
-Thủ tục hành chính
-Quy chế, qui định
-Gương mặt sinh viên
-Cựu sinh viên
-Thống kê, khảo sát việc làm
-Job Fair
-Giao lưu, trao đổi sinh viên
-Khoa học – Công nghệ
-Bản tin KHCN & HTPT
-Công bố khoa học
-Đề tài, nhiệm vụ KHCN
-Hợp tác phát triển
-Sản phẩm KHCN
-Sản phẩm chuyển giao
-Sở hữu trí tuệ
-Sinh viên NCKH
-Danh mục các phòng thí nghiệm
-Các quy định
-Tuyển sinh
-Đại học
-Sau Đại học
-Đào tạo ngắn hạn
-Công khai các điều kiện tuyển sinh
-Tuyển dụng
-Khoa – Viện
-Khoa Công nghệ thông tin
-Khoa Điện tử viễn thông
-Khoa Vật lý kỹ thuật & Công nghệ Nano
-Khoa Cơ học kỹ thuật & Tự động hóa
-Khoa Công nghệ Nông nghiệp
-Khoa Công nghệ Xây dựng – Giao thông
-Viện Công nghệ Hàng không Vũ trụ
-Viện Trí tuệ nhân tạo
-Olympic
-Olympic THPT VNU 2024-2025
-ĐHQGHN
-Email
-E-Office
-Chuyên san CNTT & TT
-Ứng dụng Công nghệ thông tin
-Học liệu số
-
 --- Dữ liệu từ: https://uet.vnu.edu.vn/dao-tao-sau-dai-hoc/ ---
 Đào tạo sau đại học - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology
-ĐHQGHN
-Email
-E-Office
-Chuyên san CNTT & TT
-Ứng dụng Công nghệ thông tin
-Học liệu số
-Menu
-English
-Giới thiệu
-Lịch sử phát triển
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Bài hát truyền thống
-Địa chỉ
-Đào tạo
-Đào tạo đại học
-Đào tạo sau đại học
-Sinh viên
-Thông báo
-Học phí, học bổng
-Chế độ chính sách
-Thông tin tuyển dụng
-Thủ tục hành chính
-Quy chế, qui định
-Gương mặt sinh viên
-Cựu sinh viên
-Thống kê, khảo sát việc làm
-Job Fair
-Giao lưu, trao đổi sinh viên
-Khoa học – Công nghệ
-Bản tin KHCN & HTPT
-Công bố khoa học
-Đề tài, nhiệm vụ KHCN
-Hợp tác phát triển
-Sản phẩm KHCN
-Sản phẩm chuyển giao
-Sở hữu trí tuệ
-Sinh viên NCKH
-Danh mục các phòng thí nghiệm
-Các quy định
-Tuyển sinh
-Đại học
-Sau Đại học
-Đào tạo ngắn hạn
-Công khai các điều kiện tuyển sinh
-Tuyển dụng
-Khoa – Viện
-Khoa Công nghệ thông tin
-Khoa Điện tử viễn thông
-Khoa Vật lý kỹ thuật & Công nghệ Nano
-Khoa Cơ học kỹ thuật & Tự động hóa
-Khoa Công nghệ Nông nghiệp
-Khoa Công nghệ Xây dựng – Giao thông
-Viện Công nghệ Hàng không Vũ trụ
-Viện Trí tuệ nhân tạo
-Olympic
-Olympic THPT VNU 2024-2025
-Trang chủ
-\
 ĐTSĐH
-\
-Đào tạo sau đại học
 Trường Đại học Công nghệ – ĐHQGHN tổ chức đào tạo 11 chuyên ngành thạc sĩ và 9 chuyên ngành tiến sĩ.
 Chuyên ngành đào tạo thạc sĩ:
 Khoa học máy tính
@@ -4087,143 +1441,24 @@ Mạng máy tính và truyền thông dữ liệu
 An toàn thông tin
 Kỹ thuật điện tử
 Kỹ thuật viễn thông
-Cơ kỹ thuật
 Kỹ thuật cơ điện tử
 Vật liệu và linh kiện nano
 Kỹ thuật xây dựng
 Chuyên ngành đào tạo tiến sĩ
-Khoa học máy tính
-Hệ thống thông tin
-Kỹ thuật phần mềm
-Mạng máy tính và truyền thông dữ liệu
-Kỹ thuật điện tử
-Kỹ thuật viễn thông
-Cơ kỹ thuật
-Vật liệu và linh kiện nano
-Kỹ thuật xây dựng
 Học viên cao học, nghiên cứu sinh được tham gia các nhóm nghiên cứu tại các bộ môn và phòng thí nghiệm thuộc Trường ĐHCN cũng như tại các đơn vị đối tác. Trường ĐHCN khuyến khích và cung cấp môi trường cho học viên, nghiên cứu sinh làm việc toàn thời gian tại Trường.
 Trường ĐHCN hợp tác mật thiết với một số trường đại học và viện nghiên cứu hàng đầu trong và ngoài nước. Học viên, nghiên cứu sinh có cơ hội nghiên cứu trong môi trường quốc tế và thực tập tại các trường đại học đối tác, 100% nghiên cứu sinh tốt nghiệp có công trình công bố tại các hội nghị, tạp chí quốc tế uy tín.
 Nghiên cứu sinh, học viên cao học có kết quả nghiên cứu xuất sắc có cơ hội tham gia trực tiếp các đề tài nghiên cứu, được hỗ trợ kinh phí thực hiện nghiên cứu và xuất bản.
-Bởi Tuyết Nga
-|
-08/11/2022
-|
-ĐTSĐH
-|
 46023 Views
-Tuyết Nga
-Trước
 Chương trình đào tạo ngành Kỹ thuật xây dựng
-Sau
 Chương trình đào tạo ngành Khoa học máy tính
-Bài viết liên quan
 Chương trình đào tạo ngành Vật liệu và linh kiện nano
-Chương trình đào tạo ngành Vật liệu và linh kiện nano
-Chương trình đào tạo ngành Vật liệu và linh kiện nano
-Chương trình đào tạo ngành Khoa học máy tính
-Chương trình đào tạo ngành Khoa học máy tính
-Thông báo
 Văn bản, biểu mẫu
-THƯ VIỆN ẢNH
-Video
-Hợp Tác – Phát Triển
-Giới thiệu
-Tin tức
-Các đối tác
-Đảm bảo chất lượng
-Ba công khai
-Kiểm định chất lượng
-Trung tâm đảm bảo chất lượng
-Trung tâm
-Trung tâm Đại học số
-TT Nghiên cứu Điện tử Viễn thông
-TT Công nghệ tích hợp liên ngành GSHT
-PTN Trọng điểm Công nghệ Micro và Nano
-PTN Trọng điểm Hệ thống tích hợp thông minh
-Đoàn Thể
-Công đoàn
-Đoàn Thanh niên
-Hội Sinh viên
-ĐẦU TRANG
-© 2017 Trường Đại học Công nghệ, Đại học Quốc Gia Hà Nội
-Địa chỉ: E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội
-Facebook: https://www.facebook.com/UET.VNUH
-Điện thoại: 024.37547.461; Fax: 024.37547.460; Email: uet@vnu.edu.vn
-Giới thiệu
-Lịch sử phát triển
-Chiến lược phát triển
-Cơ cấu tổ chức
-Nhà giáo Nhân dân, Nhà giáo Ưu tú
-Đội ngũ cán bộ
-Ấn phẩm
-Bài hát truyền thống
-Địa chỉ
-Đào tạo
-Đào tạo đại học
-Đào tạo sau đại học
-Sinh viên
-Thông báo
-Học phí, học bổng
-Chế độ chính sách
-Thông tin tuyển dụng
-Thủ tục hành chính
-Quy chế, qui định
-Gương mặt sinh viên
-Cựu sinh viên
-Thống kê, khảo sát việc làm
-Job Fair
-Giao lưu, trao đổi sinh viên
-Khoa học – Công nghệ
-Bản tin KHCN & HTPT
-Công bố khoa học
-Đề tài, nhiệm vụ KHCN
-Hợp tác phát triển
-Sản phẩm KHCN
-Sản phẩm chuyển giao
-Sở hữu trí tuệ
-Sinh viên NCKH
-Danh mục các phòng thí nghiệm
-Các quy định
-Tuyển sinh
-Đại học
-Sau Đại học
-Đào tạo ngắn hạn
-Công khai các điều kiện tuyển sinh
-Tuyển dụng
-Khoa – Viện
-Khoa Công nghệ thông tin
-Khoa Điện tử viễn thông
-Khoa Vật lý kỹ thuật & Công nghệ Nano
-Khoa Cơ học kỹ thuật & Tự động hóa
-Khoa Công nghệ Nông nghiệp
-Khoa Công nghệ Xây dựng – Giao thông
-Viện Công nghệ Hàng không Vũ trụ
-Viện Trí tuệ nhân tạo
-Olympic
-Olympic THPT VNU 2024-2025
-ĐHQGHN
-Email
-E-Office
-Chuyên san CNTT & TT
-Ứng dụng Công nghệ thông tin
-Học liệu số
-
 --- Dữ liệu từ: https://hus.vnu.edu.vn/gioi-thieu/lich-su-phat-trien.html ---
-Lịch sử phát triển
 Website 60 năm
 Website 65 năm
-Cựu sinh viên
-Tuyển sinh
-Ba công khai
-Đảm bảo chất lượng
 Nhiệm vụ chiến lược
-English
-Giới thiệu
 Lời chào mừng
-Lịch sử phát triển
 Sứ mệnh & Tầm nhìn
-Chiến lược phát triển
-Cơ cấu tổ chức
 Sơ đồ tổ chức
 Ban giám hiệu
 Đảng - Đoàn thể
@@ -4232,7 +1467,6 @@ Khoa trực thuộc
 THPT Chuyên KHTN
 Trung tâm nghiên cứu
 Dự án và công ty
-Đội ngũ cán bộ
 Hội đồng khoa học đào tạo
 Danh hiệu nhà giáo
 Đội ngũ giáo sư, phó giáo sư
@@ -4240,12 +1474,8 @@ Nhóm nghiên cứu mạnh
 Danh sách cán bộ
 Cựu giáo chức
 Các khuôn viên
-Tin tức
 Tin mới nhất
 Sự kiện
-Thông báo
-Đào tạo
-Giới thiệu
 Bậc đại học
 Toán, Toán ứng dụng và Tin học
 Vật lí và Công nghệ
@@ -4255,24 +1485,16 @@ Sinh học và Công nghệ
 Ngành Địa chất
 Quản lý Tài nguyên Môi trường, Địa chất Ứng dụng
 Khí tượng, Khoa học và Công nghệ biển, Tài nguyên và Môi trường nước
-Sau đại học
 Toán - Cơ - Tin học
 Vật lý và Công nghệ
-Hóa học và Công nghệ
-Sinh học và Công nghệ
 Khoa học Trái đất - Tài nguyên & Môi trường
 THPT chuyên KHTN
-Tuyển sinh
-Khoa học công nghệ
-Giới thiệu
 Hội nghị khoa học
 Trong nước
 Quốc tế
 Đề tài dự án
 Phòng thí nghiệm
-Nhóm nghiên cứu mạnh
 Giải thưởng KH-CN
-Công bố khoa học
 Bài báo ISI/SCOPUS
 Bài báo Quốc tế khác
 Bài báo Trong nước
@@ -4282,7 +1504,6 @@ Sách chuyên khảo
 Đăng ký Sở hữu trí tuệ
 Danh mục thiết bị chính
 Hợp tác và Phát triển
-Giới thiệu chung
 Mạng lưới đối tác
 Thỏa thuận hợp tác
 Chương trình hợp tác
@@ -4296,10 +1517,8 @@ Tin trao đổi và học bổng
 Tiến sĩ danh dự
 Quy định và Hướng dẫn
 Học sinh- sinh viên
-Giới thiệu chung
 Quy chế, quy định
 Học bổng - Giải thưởng
-Hỗ trợ sinh viên
 Đoàn - Hội
 Đời sống
 Các câu lạc bộ
@@ -4307,29 +1526,16 @@ Vay vốn
 Tư vấn hỗ trợ việc làm
 Nghiên cứu khoa học
 Gương mặt sinh viên tiêu biểu
-Cựu sinh viên
 Việc làm
 Khảo sát sinh viên tốt nghiệp
 Tài liệu- Biểu mẫu
 Quy định- quy chế
 Cán bộ
-Học sinh- sinh viên
-Đào tạo
-Khoa học công nghệ
-Hợp tác và Phát triển
 Biểu mẫu
-Cán bộ
-Học sinh- sinh viên
-Đào tạo
-Khoa học công nghệ
-Hợp tác và Phát triển
 Quản trị Bảo vệ
 Nhận diện thương hiệu
 Quy định
 Tệp và Hình ảnh
-Giới thiệu
-Lịch sử phát triển
-Lịch sử phát triển
 1.1.LỊCH SỬ VÀ CHẶNG ĐƯỜNG PHÁT TRIỂN CỦA TRƯỜNG ĐẠI HỌC TỔNG HỢP HÀ NỘI (1956-1995)
 Năm 1954, sau ngày ký hiệp định Geneve, các cơ quan đầu não kháng chiến lần lượt trở về tiếp quản Thủ đô Hà Nội. Các trung tâm đại học ở các vùng kháng chiến lần lượt trở về Hà Nội cùng với một số cơ sở đại học được tiếp quản Thủ đô để lập thành bốn trường đại học: Đại học Văn Khoa, Đại học Khoa học, Đại học Sư phạm Văn khoa và Khoa học, Đại học Y - Dược.
 Miền Bắc được hoàn toàn giải phóng và bắt đầu sự nghiệp xây dựng CNXH. Trước yêu cầu phát triển khoa học cần có một nền giáo dục đại học phát triển, ngày 04/06/1956, Thủ tướng Chính phủ đã ký Quyết định số 2183/TC thành lập 15 trường trung học chuyên nghiệp và 5 trường đại học: Đại học Tổng hợp, Đại học Bách khoa, Đại học Sư phạm, Đại học Y - Dược, Đại học Nông - Lâm. Giáo sư Ngụy Như Kon Tum được bổ nhiệm làm Hiệu trưởng Trường Đại học Tổng hợp Hà Nội - Trường Đại học Khoa học cơ bản đầu tiên của nước Việt Nam Dân chủ Cộng hòa.
@@ -4428,197 +1634,53 @@ NHỮNG THÀNH TÍCH NỔI BẬT
 - HUÂN CHƯƠNG LAO ĐỘNG HẠNG NHẤT năm 1981
 - HUÂN CHƯƠNG LAO ĐỘNG HẠNG NHÌ năm 1977
 - HUÂN CHƯƠNG LAO ĐỘNG HẠNG BA năm 1961.
-Giới thiệu
-Lời chào mừng
-Lịch sử phát triển
 Sứ mạng - Tầm nhìn
-Chiến lược phát triển
-Cơ cấu tổ chức
-Sơ đồ tổ chức
-Ban giám hiệu
-Hội đồng Trường
-Đảng - Đoàn thể
 Đáng ủy
 Đoàn Thanh niên
-Hội sinh viên
-Công đoàn
-Phòng ban chức năng
 Phòng Công tác Sinh viên và Truyền thông
-Giới thiệu
 Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Phòng Đào tạo
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
 Phòng Hợp tác và Phát triển
-Giới thiệu chung
-Chức năng nhiệm vụ
 Phân công nhiệm vụ
-Danh sách cán bộ
-Liên hệ
 Phòng Khoa học, Công nghệ và Chuyển đổi số
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
 Phòng Kế hoạch - Tài chính
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
 Phòng Quản trị - Bảo vệ
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
 Phòng Tổ chức Cán bộ - Hành chính
-Giới thiệu
-Phân công nhiệm vụ
-Danh sách cán bộ
-Liên hệ
 Phòng Thanh tra Pháp chế và Đảm bảo chất lượng
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
 Khoa Trực thuộc
 Khoa Toán - Cơ - Tin học
-Giới thiệu
 Ban Chủ nhiệm khoa
 Các bộ môn
 Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
 Liên kết
-Liên hệ
 Khoa Vật lý
-Giới thiệu
-Ban Chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
 Khoa Hóa học
-Giới thiệu
 Ban chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
 Khoa Sinh học
-Giới thiệu
-Ban Chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
 Khoa Địa lý
-Giới thiệu
-Ban chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
 Khoa Địa chất
-Giới thiệu
-Ban chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
 Khoa Môi trường
-Giới thiệu
-Ban Chủ nhiệm khoa
 Bộ môn, đơn vị trực thuộc
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
 Khoa Khí tượng Thủy văn và Hải dương học
-Giới thiệu
-Ban Chủ nhiệm khoa
-Các bộ môn
-Nghiên cứu khoa học
-Chương trình đào tạo
-Danh sách cán bộ
-Liên kết
-Liên hệ
-THPT chuyên KHTN
 Phòng thí nghiệm Trọng điểm
 Phòng thí nghiệm Trọng điểm Công nghệ Enzym và Protein
-Giới thiệu
 Ban giám đốc
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên hệ
 Trung tâm Nghiên cứu Công nghệ Môi trường và Phát triển bền vững
-Giới thiệu
-Ban giám đốc
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên hệ
 Trung tâm Nghiên cứu Quan trắc và Mô hình hóa Môi trường
-Giới thiệu
-Ban giám đốc
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên hệ
 Trung tâm Động lực học Thủy Khí Môi trường
-Giới thiệu
-Ban giám đốc
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên hệ
 Trung tâm Nano và Năng lượng
-Giới thiệu
-Ban giám đốc
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên hệ
 Công ty Trách nhiệm hữu hạn Khoa học Tự nhiên
 Công ty Trách nhiệm hữu hạn (TNHH) Khoa học Tự nhiên
-Giới thiệu
 Ban Giám đốc
-Nghiên cứu khoa học
-Đào tạo
-Danh sách cán bộ
-Liên kết
-Liên hệ
 Đội ngũ Cán bộ
 Hội đồng Khoa học Đào tạo
-Danh hiệu nhà giáo
 Nhà giáo Nhân dân
 Nhà giáo Ưu tú
-Đội ngũ giáo sư, phó giáo sư
 Giáo sư
 Phó giáo sư
-Nhóm nghiên cứu mạnh
-Danh sách cán bộ
-Cựu giáo chức
-Các khuôn viên
 TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN - ĐẠI HỌC QGHN
 Trường ĐHKTN ra đời là sự tiếp nối, kế thừa và phát huy truyền thống hơn 55 của Trường ĐHTH Hà Nội - Trường đại học đầu tiên và lớn nhât của đất nước
 Tìm hiểu thêm
-Sự kiện
 Xem tất cả
-21/03/2019
-Hội thảo quốc tế Sinh học từ hệ sinh thái rừng
-21/03/2019
-Hội thảo quốc tế Sinh học từ hệ sinh thái rừng
 21/03/2019
 Hội thảo quốc tế Sinh học từ hệ sinh thái rừng
 TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN
@@ -4628,13 +1690,11 @@ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN
 : (84) 0243-8584615 / 8581419
 Fax
 : (84) 0243-8523061
-Email
 : hus@vnu.edu.vn - admin@hus.edu.vn
 THÔNG TIN HỮU ÍCH
 Website VNU
 Tài liệu biểu mẫu
 Thư điện tử VNU
-Tài nguyên số
 Thư điện tử HUS
 Liên kết Website
 Mạng xã hội
@@ -4642,128 +1702,7 @@ Fanpage Trường ĐHKHTN
 Fanpage Tư vấn tuyển sinh
 Bản quyền ©
 Trường ĐHKHTN-ĐHQGHN
-
 --- Dữ liệu từ: https://hus.vnu.edu.vn/gioi-thieu/su-mang-tam-nhin.html ---
-Sứ mạng - Tầm nhìn
-Website 60 năm
-Website 65 năm
-Cựu sinh viên
-Tuyển sinh
-Ba công khai
-Đảm bảo chất lượng
-Nhiệm vụ chiến lược
-English
-Giới thiệu
-Lời chào mừng
-Lịch sử phát triển
-Sứ mệnh & Tầm nhìn
-Chiến lược phát triển
-Cơ cấu tổ chức
-Sơ đồ tổ chức
-Ban giám hiệu
-Đảng - Đoàn thể
-Phòng ban chức năng
-Khoa trực thuộc
-THPT Chuyên KHTN
-Trung tâm nghiên cứu
-Dự án và công ty
-Đội ngũ cán bộ
-Hội đồng khoa học đào tạo
-Danh hiệu nhà giáo
-Đội ngũ giáo sư, phó giáo sư
-Nhóm nghiên cứu mạnh
-Danh sách cán bộ
-Cựu giáo chức
-Các khuôn viên
-Tin tức
-Tin mới nhất
-Sự kiện
-Thông báo
-Đào tạo
-Giới thiệu
-Bậc đại học
-Toán, Toán ứng dụng và Tin học
-Vật lí và Công nghệ
-Hóa học và Công nghệ
-Sinh học và Công nghệ
-Địa lý, Quản lý đất đai và GISc
-Ngành Địa chất
-Quản lý Tài nguyên Môi trường, Địa chất Ứng dụng
-Khí tượng, Khoa học và Công nghệ biển, Tài nguyên và Môi trường nước
-Sau đại học
-Toán - Cơ - Tin học
-Vật lý và Công nghệ
-Hóa học và Công nghệ
-Sinh học và Công nghệ
-Khoa học Trái đất - Tài nguyên & Môi trường
-THPT chuyên KHTN
-Tuyển sinh
-Khoa học công nghệ
-Giới thiệu
-Hội nghị khoa học
-Trong nước
-Quốc tế
-Đề tài dự án
-Phòng thí nghiệm
-Nhóm nghiên cứu mạnh
-Giải thưởng KH-CN
-Công bố khoa học
-Bài báo ISI/SCOPUS
-Bài báo Quốc tế khác
-Bài báo Trong nước
-Bài báo đăng trong kỷ yếu HNKH Quốc tế
-Bài báo đăng trong kỷ yếu HNKH Trong nước
-Sách chuyên khảo
-Đăng ký Sở hữu trí tuệ
-Danh mục thiết bị chính
-Hợp tác và Phát triển
-Giới thiệu chung
-Mạng lưới đối tác
-Thỏa thuận hợp tác
-Chương trình hợp tác
-Trao đổi cán bộ
-Trao đổi sinh viên (ngắn hạn/ nghiên cứu)
-Trao đổi sinh viên (tích luỹ tín chỉ)
-Các dự án hợp tác
-Đào tạo liên kết
-Erasmus+
-Tin trao đổi và học bổng
-Tiến sĩ danh dự
-Quy định và Hướng dẫn
-Học sinh- sinh viên
-Giới thiệu chung
-Quy chế, quy định
-Học bổng - Giải thưởng
-Hỗ trợ sinh viên
-Đoàn - Hội
-Đời sống
-Các câu lạc bộ
-Vay vốn
-Tư vấn hỗ trợ việc làm
-Nghiên cứu khoa học
-Gương mặt sinh viên tiêu biểu
-Cựu sinh viên
-Việc làm
-Khảo sát sinh viên tốt nghiệp
-Tài liệu- Biểu mẫu
-Quy định- quy chế
-Cán bộ
-Học sinh- sinh viên
-Đào tạo
-Khoa học công nghệ
-Hợp tác và Phát triển
-Biểu mẫu
-Cán bộ
-Học sinh- sinh viên
-Đào tạo
-Khoa học công nghệ
-Hợp tác và Phát triển
-Quản trị Bảo vệ
-Nhận diện thương hiệu
-Quy định
-Tệp và Hình ảnh
-Giới thiệu
-Sứ mạng - Tầm nhìn
 Sứ mạng và Tầm nhìn
 1.1. Sứ mạng
 Đào tạo nguồn nhân lực chất lượng cao và phát hiện, bồi dưỡng nhân tài; tiên phong trong nghiên cứu, đổi mới sáng tạo và chuyển giao tri thức về khoa học tự nhiên và công nghệ, góp phần tích cực vào sự phát triển, xây dựng và bảo vệ Tổ quốc.
@@ -4779,343 +1718,7 @@ Hợp tác và thân thiện
 Đào tạo kết hợp chặt chẽ với nghiên cứu và đổi mới sáng tạo, dựa trên nền tảng vững chắc của khoa học cơ bản, nhằm phát triển tri thức và ứng dụng thực tiễn.
 1.5. Khẩu hiệu hành động
 Sáng tạo, Tiên phong, Trách nhiệm xã hội
-Giới thiệu
-Lời chào mừng
-Lịch sử phát triển
-Sứ mạng - Tầm nhìn
-Chiến lược phát triển
-Cơ cấu tổ chức
-Sơ đồ tổ chức
-Ban giám hiệu
-Hội đồng Trường
-Đảng - Đoàn thể
-Đáng ủy
-Đoàn Thanh niên
-Hội sinh viên
-Công đoàn
-Phòng ban chức năng
-Phòng Công tác Sinh viên và Truyền thông
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Phòng Đào tạo
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Phòng Hợp tác và Phát triển
-Giới thiệu chung
-Chức năng nhiệm vụ
-Phân công nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Phòng Khoa học, Công nghệ và Chuyển đổi số
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Phòng Kế hoạch - Tài chính
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Phòng Quản trị - Bảo vệ
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Phòng Tổ chức Cán bộ - Hành chính
-Giới thiệu
-Phân công nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Phòng Thanh tra Pháp chế và Đảm bảo chất lượng
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Khoa Trực thuộc
-Khoa Toán - Cơ - Tin học
-Giới thiệu
-Ban Chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Khoa Vật lý
-Giới thiệu
-Ban Chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Khoa Hóa học
-Giới thiệu
-Ban chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Khoa Sinh học
-Giới thiệu
-Ban Chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Khoa Địa lý
-Giới thiệu
-Ban chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Khoa Địa chất
-Giới thiệu
-Ban chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Khoa Môi trường
-Giới thiệu
-Ban Chủ nhiệm khoa
-Bộ môn, đơn vị trực thuộc
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Khoa Khí tượng Thủy văn và Hải dương học
-Giới thiệu
-Ban Chủ nhiệm khoa
-Các bộ môn
-Nghiên cứu khoa học
-Chương trình đào tạo
-Danh sách cán bộ
-Liên kết
-Liên hệ
-THPT chuyên KHTN
-Phòng thí nghiệm Trọng điểm
-Phòng thí nghiệm Trọng điểm Công nghệ Enzym và Protein
-Giới thiệu
-Ban giám đốc
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên hệ
-Trung tâm Nghiên cứu Công nghệ Môi trường và Phát triển bền vững
-Giới thiệu
-Ban giám đốc
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên hệ
-Trung tâm Nghiên cứu Quan trắc và Mô hình hóa Môi trường
-Giới thiệu
-Ban giám đốc
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên hệ
-Trung tâm Động lực học Thủy Khí Môi trường
-Giới thiệu
-Ban giám đốc
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên hệ
-Trung tâm Nano và Năng lượng
-Giới thiệu
-Ban giám đốc
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên hệ
-Công ty Trách nhiệm hữu hạn Khoa học Tự nhiên
-Công ty Trách nhiệm hữu hạn (TNHH) Khoa học Tự nhiên
-Giới thiệu
-Ban Giám đốc
-Nghiên cứu khoa học
-Đào tạo
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Đội ngũ Cán bộ
-Hội đồng Khoa học Đào tạo
-Danh hiệu nhà giáo
-Nhà giáo Nhân dân
-Nhà giáo Ưu tú
-Đội ngũ giáo sư, phó giáo sư
-Giáo sư
-Phó giáo sư
-Nhóm nghiên cứu mạnh
-Danh sách cán bộ
-Cựu giáo chức
-Các khuôn viên
-TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN - ĐẠI HỌC QGHN
-Trường ĐHKTN ra đời là sự tiếp nối, kế thừa và phát huy truyền thống hơn 55 của Trường ĐHTH Hà Nội - Trường đại học đầu tiên và lớn nhât của đất nước
-Tìm hiểu thêm
-Sự kiện
-Xem tất cả
-21/03/2019
-Hội thảo quốc tế Sinh học từ hệ sinh thái rừng
-21/03/2019
-Hội thảo quốc tế Sinh học từ hệ sinh thái rừng
-21/03/2019
-Hội thảo quốc tế Sinh học từ hệ sinh thái rừng
-TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN
-ĐỊA CHỈ
-: 334 Nguyễn Trãi - Thanh Xuân - Hà Nội
-Điện thoại
-: (84) 0243-8584615 / 8581419
-Fax
-: (84) 0243-8523061
-Email
-: hus@vnu.edu.vn - admin@hus.edu.vn
-THÔNG TIN HỮU ÍCH
-Website VNU
-Tài liệu biểu mẫu
-Thư điện tử VNU
-Tài nguyên số
-Thư điện tử HUS
-Liên kết Website
-Mạng xã hội
-Fanpage Trường ĐHKHTN
-Fanpage Tư vấn tuyển sinh
-Bản quyền ©
-Trường ĐHKHTN-ĐHQGHN
-
 --- Dữ liệu từ: https://hus.vnu.edu.vn/gioi-thieu/chien-luoc-phat-trien.html ---
-Chiến lược phát triển
-Website 60 năm
-Website 65 năm
-Cựu sinh viên
-Tuyển sinh
-Ba công khai
-Đảm bảo chất lượng
-Nhiệm vụ chiến lược
-English
-Giới thiệu
-Lời chào mừng
-Lịch sử phát triển
-Sứ mệnh & Tầm nhìn
-Chiến lược phát triển
-Cơ cấu tổ chức
-Sơ đồ tổ chức
-Ban giám hiệu
-Đảng - Đoàn thể
-Phòng ban chức năng
-Khoa trực thuộc
-THPT Chuyên KHTN
-Trung tâm nghiên cứu
-Dự án và công ty
-Đội ngũ cán bộ
-Hội đồng khoa học đào tạo
-Danh hiệu nhà giáo
-Đội ngũ giáo sư, phó giáo sư
-Nhóm nghiên cứu mạnh
-Danh sách cán bộ
-Cựu giáo chức
-Các khuôn viên
-Tin tức
-Tin mới nhất
-Sự kiện
-Thông báo
-Đào tạo
-Giới thiệu
-Bậc đại học
-Toán, Toán ứng dụng và Tin học
-Vật lí và Công nghệ
-Hóa học và Công nghệ
-Sinh học và Công nghệ
-Địa lý, Quản lý đất đai và GISc
-Ngành Địa chất
-Quản lý Tài nguyên Môi trường, Địa chất Ứng dụng
-Khí tượng, Khoa học và Công nghệ biển, Tài nguyên và Môi trường nước
-Sau đại học
-Toán - Cơ - Tin học
-Vật lý và Công nghệ
-Hóa học và Công nghệ
-Sinh học và Công nghệ
-Khoa học Trái đất - Tài nguyên & Môi trường
-THPT chuyên KHTN
-Tuyển sinh
-Khoa học công nghệ
-Giới thiệu
-Hội nghị khoa học
-Trong nước
-Quốc tế
-Đề tài dự án
-Phòng thí nghiệm
-Nhóm nghiên cứu mạnh
-Giải thưởng KH-CN
-Công bố khoa học
-Bài báo ISI/SCOPUS
-Bài báo Quốc tế khác
-Bài báo Trong nước
-Bài báo đăng trong kỷ yếu HNKH Quốc tế
-Bài báo đăng trong kỷ yếu HNKH Trong nước
-Sách chuyên khảo
-Đăng ký Sở hữu trí tuệ
-Danh mục thiết bị chính
-Hợp tác và Phát triển
-Giới thiệu chung
-Mạng lưới đối tác
-Thỏa thuận hợp tác
-Chương trình hợp tác
-Trao đổi cán bộ
-Trao đổi sinh viên (ngắn hạn/ nghiên cứu)
-Trao đổi sinh viên (tích luỹ tín chỉ)
-Các dự án hợp tác
-Đào tạo liên kết
-Erasmus+
-Tin trao đổi và học bổng
-Tiến sĩ danh dự
-Quy định và Hướng dẫn
-Học sinh- sinh viên
-Giới thiệu chung
-Quy chế, quy định
-Học bổng - Giải thưởng
-Hỗ trợ sinh viên
-Đoàn - Hội
-Đời sống
-Các câu lạc bộ
-Vay vốn
-Tư vấn hỗ trợ việc làm
-Nghiên cứu khoa học
-Gương mặt sinh viên tiêu biểu
-Cựu sinh viên
-Việc làm
-Khảo sát sinh viên tốt nghiệp
-Tài liệu- Biểu mẫu
-Quy định- quy chế
-Cán bộ
-Học sinh- sinh viên
-Đào tạo
-Khoa học công nghệ
-Hợp tác và Phát triển
-Biểu mẫu
-Cán bộ
-Học sinh- sinh viên
-Đào tạo
-Khoa học công nghệ
-Hợp tác và Phát triển
-Quản trị Bảo vệ
-Nhận diện thương hiệu
-Quy định
-Tệp và Hình ảnh
-Giới thiệu
-Chiến lược phát triển
-Chiến lược phát triển
 1. MỤC TIÊU CHIẾN LƯỢC
 1.1. Mục tiêu chung
 Trở thành trường đại học nghiên cứu tiên tiến hàng đầu tại châu Á, với một số ngành và lĩnh vực đạt trình độ cao trong châu lục. Đóng góp tích cực vào sự phát triển kinh tế - xã hội của đất nước thông qua đào tạo, nghiên cứu và đổi mới sáng tạo.
@@ -5140,7 +1743,6 @@ Trở thành trường đại học nghiên cứu tiên tiến hàng đầu tạ
 - Tích cực quảng bá thương hiệu của Trường Đại học Khoa học Tự nhiên ra thế giới thông qua các hội nghị, ấn phẩm khoa học, và các hoạt động hợp tác quốc tế như trao đổi giảng viên, sinh viên..., đảm bảo rằng Trường không chỉ là trung tâm đào tạo, nghiên cứu hàng đầu trong nước mà còn có tiếng vang quốc tế trong cộng đồng khoa học toàn cầu.
 Các chỉ tiêu cơ bản của Chiến lược phát triển được tổng hợp ở
 Phụ lục
-.
 2. NHIỆM VỤ
 2.1. Đào tạo
 2.1.1. Đặc biệt chú trọng vào chất lượng của các chương trình đào tạo cử nhân khoa học tài năng, đồng thời mở rộng quy mô các chương trình đào tạo theo định mức kinh tế kỹ thuật. Xây dựng, quy hoạch và phát triển một số ngành và chuyên ngành liên ngành, có tính ứng dụng cao, đáp ứng nhu cầu xã hội. Khai thác tối đa thế mạnh và bản sắc riêng biệt của Nhà trường để tạo lợi thế cạnh tranh.
@@ -5222,349 +1824,13 @@ Phát triển một tạp chí khoa học của Nhà trường theo hướng t�
 - Báo cáo và đề nghị Đại học Quốc gia Hà Nội tạo điều kiện để Trường thực hiện thành công Chiến lược phát triển Trường Đại học Khoa học Tự nhiên đến năm 2035, tầm nhìn 2045.
 - Chỉ đạo tổ chức xây dựng Kế hoạch chiến lược để xác định các chỉ tiêu phù hợp với lệ trình Chiến lược.
 - Chỉ đạo và kiểm tra, giám sát các đơn vị xây dựng và triển khai thực hiện chiến lược của đơn vị phù hợp với định hướng và các nội dung của Chiến lược phát triển Trường
-.
 - Đôn đốc, kiểm tra, giám sát các đơn vị thực hiện Chiến lược theo lộ trình quy định. Đánh giá, điều chỉnh và bổ sung các chỉ tiêu kế hoạch phù hợp với bối cảnh và yêu cầu phát triển của Trường.
 4.2. Các đơn vị trong Trường
 - Phổ biến sâu rộng các nội dung của Chiến lược đến tất cả các bộ phận trong đơn vị và toàn thể viên chức, người lao động, học sinh, sinh viên, học viên, nghiên cứu sinh để tăng cường sự đồng thuận trong từng tập thể và toàn Trường, nêu cao quyết tâm thực hiện thắng lợi Chiến lược phát triển vì lợi ích chung của Trường.
 - Xây dựng Chiến lược phát triển và các kế hoạch tương ứng của đơn vị phù hợp với Chiến lược phát triển và các kế hoạch của Trường, trình Hiệu trưởng phê duyệt. Chiến lược phát triển của mỗi đơn vị phải là mộ phần cấu thành hữu cơ trong Chiến lược phát triển chung của Trường.
 - Chủ động huy động các nguồn lực để thực hiện kế hoạch nhằm đạt được các chỉ tiêu đề ra.
 - Định kỳ báo cáo Trường việc thực hiện các chỉ tiêu kế hoạch và kiến nghị điều chỉnh, các chỉ tiêu kế hoạch cho phù hợp với thực tiễn của đơn vị./.
-Giới thiệu
-Lời chào mừng
-Lịch sử phát triển
-Sứ mạng - Tầm nhìn
-Chiến lược phát triển
-Cơ cấu tổ chức
-Sơ đồ tổ chức
-Ban giám hiệu
-Hội đồng Trường
-Đảng - Đoàn thể
-Đáng ủy
-Đoàn Thanh niên
-Hội sinh viên
-Công đoàn
-Phòng ban chức năng
-Phòng Công tác Sinh viên và Truyền thông
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Phòng Đào tạo
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Phòng Hợp tác và Phát triển
-Giới thiệu chung
-Chức năng nhiệm vụ
-Phân công nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Phòng Khoa học, Công nghệ và Chuyển đổi số
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Phòng Kế hoạch - Tài chính
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Phòng Quản trị - Bảo vệ
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Phòng Tổ chức Cán bộ - Hành chính
-Giới thiệu
-Phân công nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Phòng Thanh tra Pháp chế và Đảm bảo chất lượng
-Giới thiệu
-Chức năng nhiệm vụ
-Danh sách cán bộ
-Liên hệ
-Khoa Trực thuộc
-Khoa Toán - Cơ - Tin học
-Giới thiệu
-Ban Chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Khoa Vật lý
-Giới thiệu
-Ban Chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Khoa Hóa học
-Giới thiệu
-Ban chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Khoa Sinh học
-Giới thiệu
-Ban Chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Khoa Địa lý
-Giới thiệu
-Ban chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Khoa Địa chất
-Giới thiệu
-Ban chủ nhiệm khoa
-Các bộ môn
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Khoa Môi trường
-Giới thiệu
-Ban Chủ nhiệm khoa
-Bộ môn, đơn vị trực thuộc
-Chương trình đào tạo
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Khoa Khí tượng Thủy văn và Hải dương học
-Giới thiệu
-Ban Chủ nhiệm khoa
-Các bộ môn
-Nghiên cứu khoa học
-Chương trình đào tạo
-Danh sách cán bộ
-Liên kết
-Liên hệ
-THPT chuyên KHTN
-Phòng thí nghiệm Trọng điểm
-Phòng thí nghiệm Trọng điểm Công nghệ Enzym và Protein
-Giới thiệu
-Ban giám đốc
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên hệ
-Trung tâm Nghiên cứu Công nghệ Môi trường và Phát triển bền vững
-Giới thiệu
-Ban giám đốc
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên hệ
-Trung tâm Nghiên cứu Quan trắc và Mô hình hóa Môi trường
-Giới thiệu
-Ban giám đốc
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên hệ
-Trung tâm Động lực học Thủy Khí Môi trường
-Giới thiệu
-Ban giám đốc
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên hệ
-Trung tâm Nano và Năng lượng
-Giới thiệu
-Ban giám đốc
-Nghiên cứu khoa học
-Danh sách cán bộ
-Liên hệ
-Công ty Trách nhiệm hữu hạn Khoa học Tự nhiên
-Công ty Trách nhiệm hữu hạn (TNHH) Khoa học Tự nhiên
-Giới thiệu
-Ban Giám đốc
-Nghiên cứu khoa học
-Đào tạo
-Danh sách cán bộ
-Liên kết
-Liên hệ
-Đội ngũ Cán bộ
-Hội đồng Khoa học Đào tạo
-Danh hiệu nhà giáo
-Nhà giáo Nhân dân
-Nhà giáo Ưu tú
-Đội ngũ giáo sư, phó giáo sư
-Giáo sư
-Phó giáo sư
-Nhóm nghiên cứu mạnh
-Danh sách cán bộ
-Cựu giáo chức
-Các khuôn viên
-TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN - ĐẠI HỌC QGHN
-Trường ĐHKTN ra đời là sự tiếp nối, kế thừa và phát huy truyền thống hơn 55 của Trường ĐHTH Hà Nội - Trường đại học đầu tiên và lớn nhât của đất nước
-Tìm hiểu thêm
-Sự kiện
-Xem tất cả
-21/03/2019
-Hội thảo quốc tế Sinh học từ hệ sinh thái rừng
-21/03/2019
-Hội thảo quốc tế Sinh học từ hệ sinh thái rừng
-21/03/2019
-Hội thảo quốc tế Sinh học từ hệ sinh thái rừng
-TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN
-ĐỊA CHỈ
-: 334 Nguyễn Trãi - Thanh Xuân - Hà Nội
-Điện thoại
-: (84) 0243-8584615 / 8581419
-Fax
-: (84) 0243-8523061
-Email
-: hus@vnu.edu.vn - admin@hus.edu.vn
-THÔNG TIN HỮU ÍCH
-Website VNU
-Tài liệu biểu mẫu
-Thư điện tử VNU
-Tài nguyên số
-Thư điện tử HUS
-Liên kết Website
-Mạng xã hội
-Fanpage Trường ĐHKHTN
-Fanpage Tư vấn tuyển sinh
-Bản quyền ©
-Trường ĐHKHTN-ĐHQGHN
-
 --- Dữ liệu từ: https://hus.vnu.edu.vn/dao-tao/gioi-thieu-chung.html ---
-Giới thiệu chung
-Website 60 năm
-Website 65 năm
-Cựu sinh viên
-Tuyển sinh
-Ba công khai
-Đảm bảo chất lượng
-Nhiệm vụ chiến lược
-English
-Giới thiệu
-Lời chào mừng
-Lịch sử phát triển
-Sứ mệnh & Tầm nhìn
-Chiến lược phát triển
-Cơ cấu tổ chức
-Sơ đồ tổ chức
-Ban giám hiệu
-Đảng - Đoàn thể
-Phòng ban chức năng
-Khoa trực thuộc
-THPT Chuyên KHTN
-Trung tâm nghiên cứu
-Dự án và công ty
-Đội ngũ cán bộ
-Hội đồng khoa học đào tạo
-Danh hiệu nhà giáo
-Đội ngũ giáo sư, phó giáo sư
-Nhóm nghiên cứu mạnh
-Danh sách cán bộ
-Cựu giáo chức
-Các khuôn viên
-Tin tức
-Tin mới nhất
-Sự kiện
-Thông báo
-Đào tạo
-Giới thiệu
-Bậc đại học
-Toán, Toán ứng dụng và Tin học
-Vật lí và Công nghệ
-Hóa học và Công nghệ
-Sinh học và Công nghệ
-Địa lý, Quản lý đất đai và GISc
-Ngành Địa chất
-Quản lý Tài nguyên Môi trường, Địa chất Ứng dụng
-Khí tượng, Khoa học và Công nghệ biển, Tài nguyên và Môi trường nước
-Sau đại học
-Toán - Cơ - Tin học
-Vật lý và Công nghệ
-Hóa học và Công nghệ
-Sinh học và Công nghệ
-Khoa học Trái đất - Tài nguyên & Môi trường
-THPT chuyên KHTN
-Tuyển sinh
-Khoa học công nghệ
-Giới thiệu
-Hội nghị khoa học
-Trong nước
-Quốc tế
-Đề tài dự án
-Phòng thí nghiệm
-Nhóm nghiên cứu mạnh
-Giải thưởng KH-CN
-Công bố khoa học
-Bài báo ISI/SCOPUS
-Bài báo Quốc tế khác
-Bài báo Trong nước
-Bài báo đăng trong kỷ yếu HNKH Quốc tế
-Bài báo đăng trong kỷ yếu HNKH Trong nước
-Sách chuyên khảo
-Đăng ký Sở hữu trí tuệ
-Danh mục thiết bị chính
-Hợp tác và Phát triển
-Giới thiệu chung
-Mạng lưới đối tác
-Thỏa thuận hợp tác
-Chương trình hợp tác
-Trao đổi cán bộ
-Trao đổi sinh viên (ngắn hạn/ nghiên cứu)
-Trao đổi sinh viên (tích luỹ tín chỉ)
-Các dự án hợp tác
-Đào tạo liên kết
-Erasmus+
-Tin trao đổi và học bổng
-Tiến sĩ danh dự
-Quy định và Hướng dẫn
-Học sinh- sinh viên
-Giới thiệu chung
-Quy chế, quy định
-Học bổng - Giải thưởng
-Hỗ trợ sinh viên
-Đoàn - Hội
-Đời sống
-Các câu lạc bộ
-Vay vốn
-Tư vấn hỗ trợ việc làm
-Nghiên cứu khoa học
-Gương mặt sinh viên tiêu biểu
-Cựu sinh viên
-Việc làm
-Khảo sát sinh viên tốt nghiệp
-Tài liệu- Biểu mẫu
-Quy định- quy chế
-Cán bộ
-Học sinh- sinh viên
-Đào tạo
-Khoa học công nghệ
-Hợp tác và Phát triển
-Biểu mẫu
-Cán bộ
-Học sinh- sinh viên
-Đào tạo
-Khoa học công nghệ
-Hợp tác và Phát triển
-Quản trị Bảo vệ
-Nhận diện thương hiệu
-Quy định
-Tệp và Hình ảnh
-Đào tạo
-Giới thiệu chung
 Giới thiệu chung về đào tạo
 Trường ĐHKHTN luôn nhất quán với mục tiêu đào tạo trình độ cao và chất lượng cao. Quy mô đào tạo của Trường tăng dần  trong các năm trở lại đây ở tất cả các hệ Trung học phổ thông, đại học và sau đại học.
 Trường đã tích cực thực hiện chủ trương đổi mới giáo dục đại học của Đảng và Nhà nước. Từ năm 2007, Trường đã triển khai áp dụng các yếu tố tích cực của phương thức đào tạo tín chỉ và đến năm 2010 thì đã triển khai đào tạo theo phương thức tín chỉ toàn phần; thực hiện đổi mới phương pháp giảng dạy và học tập; đổi mới công tác quản lý đào tạo. Năm 2023, Nhà trường đã thực hiện điều chỉnh toàn bộ 110 chương trình đào tạo (CTĐT) ở bậc đại học và sau đại học để phù hợp với các quy định, quy chế hiện hành của Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội cũng như để phù hợp với yêu cầu kiểm định chất lượng giáo dục. Hiện tại, Trường có 41 CTĐT bậc đại học, 29 CTĐT thạc sĩ và 40 CTĐT tiến sĩ
@@ -5573,55 +1839,10 @@ Nhà trường tiếp tục thực hiện nhiệm vụ đào tạo hệ cử nh�
 Nhà trường luôn luôn quan tâm đến chất lượng đào tạo sinh viên, giúp họ hình thành một phương pháp học tập độc lập, chủ động và sáng tạo. Hàng năm, sinh viên của Trường đã tích cực tham gia Olympic sinh viên toàn quốc các môn Toán, Cơ học, Vật lý, Hóa học, Tin học và đã đạt được nhiều giải cao. Hàng năm có nhiều sinh viên được tuyển thẳng học sau đại học.
 Hệ THPT chuyên của Trường vẫn giữ được truyền thống về chất lượng đào tạo thông qua kết quả thi tuyển sinh đại học và các kỳ thi Olympic quốc gia, quốc tế. Hệ THPT chuyên của Trường luôn nằm trong top 10 các trường THPT của cả nước có kết quả thi tuyển sinh đại học cao nhất. Hàng năm, Các học sinh của Trường THPT Chuyên Khoa học Tự nhiên đạt được nhiều thành tích đặc biệt xuất sắc trong các cuộc thi cấp quốc gia và quốc tế.
 Về hợp tác quốc tế trong đào tạo, tiếp nối thành công của các đề án 322, 911, và các chương trình liên kết quốc tế giai đoạn trước năm 2020, từ năm 2020, Nhà trường đã triển khai thực hiện chương trình liên kết đào tạo thạc sĩ chuyên ngành “Công nghệ bán dẫn” với Trường Đại học Quốc gia Yang Ming Chiao Tung (NYCU) - trước đây là Trường Đại học Quốc gia Giao thông Đài Loan, Trung Quốc (NCTU) -  và do Trường NYCU cấp bằng. Hiện đã có 5 khóa học được tuyển sinh. Các học viên tốt nghiệp chương trình này có điều kiện học tiếp bậc tiến sĩ tại các trường đại học hàng đầu thế giới về công nghệ bán dẫn.
-Đào tạo
-Giới thiệu chung
 Bậc Đại học
 Quản lý, Công nghệ Tài nguyên môi trường và Địa chất
-Địa lý, Quản lý đất đai và GISc
-Khí tượng, Khoa học và Công nghệ biển, Tài nguyên và Môi trường nước
-Hóa học và Công nghệ
 Khoa học, Công nghệ Môi trường và Thực phẩm
-Sinh học và Công nghệ
-Toán, Toán ứng dụng và Tin học
-Vật lí và Công nghệ
-Sau đại học
-Toán - Cơ - Tin học
 Vật lý & Công nghệ
 Hóa học & Công nghệ
 Sinh học & Công nghệ
-Khoa học Trái đất - Tài nguyên & Môi trường
 Trung học phổ thông
-Tuyển sinh
-TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN - ĐẠI HỌC QGHN
-Trường ĐHKTN ra đời là sự tiếp nối, kế thừa và phát huy truyền thống hơn 55 của Trường ĐHTH Hà Nội - Trường đại học đầu tiên và lớn nhât của đất nước
-Tìm hiểu thêm
-Sự kiện
-Xem tất cả
-21/03/2019
-Hội thảo quốc tế Sinh học từ hệ sinh thái rừng
-21/03/2019
-Hội thảo quốc tế Sinh học từ hệ sinh thái rừng
-21/03/2019
-Hội thảo quốc tế Sinh học từ hệ sinh thái rừng
-TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN
-ĐỊA CHỈ
-: 334 Nguyễn Trãi - Thanh Xuân - Hà Nội
-Điện thoại
-: (84) 0243-8584615 / 8581419
-Fax
-: (84) 0243-8523061
-Email
-: hus@vnu.edu.vn - admin@hus.edu.vn
-THÔNG TIN HỮU ÍCH
-Website VNU
-Tài liệu biểu mẫu
-Thư điện tử VNU
-Tài nguyên số
-Thư điện tử HUS
-Liên kết Website
-Mạng xã hội
-Fanpage Trường ĐHKHTN
-Fanpage Tư vấn tuyển sinh
-Bản quyền ©
-Trường ĐHKHTN-ĐHQGHN
-
