@@ -10,5 +10,5 @@ python inference_llm.py
 
 To test the rag
 ```
-python inference_llm.py
+python rag.py
 ```
