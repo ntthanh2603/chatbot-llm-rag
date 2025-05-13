@@ -1,0 +1,10 @@
+accelerate
+peft
+bitsandbytes
+transformers
+python-dotenv
+huggingface-hub
+protobuf
+sentencepiece
+faiss-cpu
+sentence-transformers
