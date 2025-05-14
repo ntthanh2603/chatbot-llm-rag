@@ -6,13 +6,13 @@ import uuid
 
 
 class ChromaDBClient:
-    def __init__(self,model_name="bkai-foundation-models/vietnamese-bi-encoder", chunk_size=256, host="localhost", port=8000, collection_name="vnu_chunks"):
+    def __init__(self,model_embedding="bkai-foundation-models/vietnamese-bi-encoder", chunk_size=256, host="localhost", port=8000, collection_name="vnu_chunks"):
         self.client = chromadb.HttpClient(
             host=host,
             port=port,
             settings=Settings(allow_reset=True)
         )
-        self.embedding = Embedding(model_name=model_name, chunk_size=chunk_size)
+        self.embedding = Embedding(model_embedding=model_embedding, chunk_size=chunk_size)
         self.collection = self.client.get_or_create_collection(name=collection_name)
 
     def insert_with_text(self, text: str):

@@ -4,11 +4,11 @@ from sentence_transformers import SentenceTransformer
 
 
 class Embedding:
-    def __init__(self, model_name="bkai-foundation-models/vietnamese-bi-encoder", chunk_size=256):
-        self.model_name = model_name
+    def __init__(self, model_embedding="bkai-foundation-models/vietnamese-bi-encoder", chunk_size=256):
+        self.model_embedding = model_embedding
         self.chunk_size = chunk_size
-        self.tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
-        self.embedding_model = SentenceTransformer(model_name)  
+        self.tokenizer = AutoTokenizer.from_pretrained(model_embedding, trust_remote_code=True)
+        self.embedding_model = SentenceTransformer(model_embedding)  
 
     def chunk_text(self, text: str):
         tokens = self.tokenizer.encode(text, add_special_tokens=False)
