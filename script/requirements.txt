@@ -1,0 +1,6 @@
+transformers
+protobuf
+sentencepiece
+chromadb
+sentence-transformers
+python-dotenv
