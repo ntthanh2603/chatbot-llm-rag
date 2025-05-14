@@ -1,8 +1,6 @@
 from transformers import AutoTokenizer
 from sentence_transformers import SentenceTransformer
 
-
-
 class Embedding:
     def __init__(self, model_embedding="bkai-foundation-models/vietnamese-bi-encoder", chunk_size=256):
         self.model_embedding = model_embedding

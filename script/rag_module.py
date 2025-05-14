@@ -13,7 +13,8 @@ class RAG:
         
         retrieved_docs = results['documents'][0]
 
-        context = "\n\n".join(retrieved_docs)
+        # context = "\n\n".join(retrieved_docs)
+        context = retrieved_docs[0][:256]
         augmented_prompt = f"""
         Dựa vào ngữ cảnh dưới đây, hãy trả lời câu hỏi.
         Ngữ cảnh: {context}

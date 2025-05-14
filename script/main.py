@@ -39,26 +39,26 @@ def main():
     llm_service = LLMService(
         # You can specify a different model from the list if needed
         # model_name='meta-llama/Llama-3.1-8B-Instruct',
-        use_rag=False,
+        use_rag=True,
         model_embedding=MODEL_EMBEDDING
     )
 
     prompt1 = "Đại học Quốc gia Hà Nội có bao nhiêu cơ sở?"
     print(f"\n--- Query 1: {prompt1} ---")
     output1 = llm_service.generate_text(prompt1)
-    print(output1)
+    print("output1", output1)
     
     # Example 2: Vietnamese query with RAG
     prompt2 = "Đại học Quốc Gia Hà Nội có những trường thpt nào?"
     print(f"\n--- Query 2: {prompt2} ---")
     output2 = llm_service.generate_text(prompt2)
-    print(output2)
+    print("output2", output2)
     
     # Example 3: Direct query without RAG
     prompt3 = "Ai là Đại tướng đầu tiên của Quân đội Nhân dân Việt Nam?"
     print(f"\n--- Query 3 (without RAG): {prompt3} ---")
     output3 = llm_service.generate_text(prompt3, use_rag=False)
-    print(output3)
+    print("output3", output3)
 
 
 if __name__ == "__main__":
