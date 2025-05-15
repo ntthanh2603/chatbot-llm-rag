@@ -48,7 +48,7 @@ class LLMService:
 
         if self.cuda_available and use_4bit:
             try:
-                print(f"Đang tải mô hình {self.model_name} trên GPU với lượng tử hóa 4-bit...")
+                print(f"Downloading model {self.model_name} on GPU with quantize 4-bit...")
 
                 quantization_config = BitsAndBytesConfig(
                     load_in_4bit=True,
@@ -65,13 +65,13 @@ class LLMService:
                     quantization_config=quantization_config
                 )
             except Exception as e:
-                print(f"Không thể tải mô hình với lượng tử hóa 4-bit: {e}")
-                print("Chuyển sang sử dụng GPU mà không có lượng tử hóa...")
+                print(f"Unable to load model with quantization 4-bit: {e}")
+                print("Switch to GPU without quantization...")
                 self.cuda_available = True
                 use_4bit = False
                 
         if self.cuda_available and not use_4bit:
-            print(f"Đang tải mô hình {self.model_name} trên GPU...")
+            print(f"Downloading model {self.model_name} on GPU...")
             
             self.model = AutoModelForCausalLM.from_pretrained(
                 self.model_name,
@@ -80,7 +80,7 @@ class LLMService:
                 torch_dtype=torch.float16 
             )
         else:
-            print(f"Đang tải mô hình {self.model_name} trên CPU. Quá trình này có thể mất nhiều thời gian...")
+            print(f"Downloading model {self.model_name} on CPU.")
             self.model = AutoModelForCausalLM.from_pretrained(
                 self.model_name,
                 device_map="cpu",
@@ -124,8 +124,8 @@ class LLMService:
             return self.tokenizer.decode(output[0], skip_special_tokens=True)
         
         except Exception as e:
-            print(f"Lỗi khi sinh văn bản: {e}")
-            return f"Không thể trả lời câu hỏi này. Lỗi: {str(e)[:100]}..."
+            print(f"Error when gen word: {e}")
+            return f"Cannot answer this question. Error: {str(e)[:100]}..."
     
     def test(self, path: str):
         pass

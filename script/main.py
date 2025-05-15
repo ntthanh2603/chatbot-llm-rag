@@ -63,23 +63,23 @@ def main():
     # output3 = llm_service.generate_text(prompt3, use_rag=False)
     # print("output3", output3)
 
-    # Tạo parser cho đối số dòng lệnh
+    # Create parser for param command line
     parser = argparse.ArgumentParser(description='Chatbot LLM-RAG')
     
-    # Thêm các tùy chọn dòng lệnh
+    # Add selection
     parser.add_argument('--model', type=str, default=None,
-                        help='Tên mô hình để sử dụng (mặc định: TinyLlama-1.1B-Chat-v1.0)')
+                        help='Name model (default: google/gemma-3-4b-it)')
     parser.add_argument('--no-rag', action='store_false', dest='use_rag',
-                        help='Tắt hệ thống RAG (mặc định: Bật)')
+                        help='Off RAG (default: On)')
     parser.add_argument('--gpu', action='store_true', dest='use_gpu',
-                        help='Sử dụng GPU nếu có (mặc định: Chỉ sử dụng CPU)')
+                        help='Use GPU if available (default: use only CPU)')
     parser.add_argument('--4bit', action='store_true', dest='use_4bit',
-                        help='Sử dụng lượng tử hóa 4-bit nếu trên GPU (mặc định: Tắt)')
+                        help='Use quantize 4-bit if in GPU (default: Tắt)')
     
-    # Parse đối số
+    # Parse param
     args = parser.parse_args()
     
-    # Danh sách các mô hình có sẵn để hiển thị
+    # List show model
     available_models = [
         'mistralai/Mistral-7B-Instruct-v0.3',
         'Qwen/Qwen2.5-7B-Instruct',
@@ -88,13 +88,15 @@ def main():
         'TinyLlama/TinyLlama-1.1B-Chat-v1.0',
     ]
     
-    # Hiển thị các mô hình có sẵn
-    print("Các mô hình có sẵn:")
+    # Show all model available
+    print("Models available:")
     for i, model in enumerate(available_models):
         print(f"{i+1}. {model}")
+
+    print("Model default: google/gemma-3-4b-it")    
     
-    # Khởi tạo dịch vụ LLM
-    print("\nKhởi tạo LLM service...")
+    # Init Service LLM
+    print("\nInit LLM service...")
     llm_service = LLMService(
         use_rag=args.use_rag,
         model_name=args.model,
@@ -102,16 +104,16 @@ def main():
         use_4bit=args.use_4bit
     )
     
-    # Chế độ chat đơn giản
-    print("\n===== Chế độ Chat =====")
-    print("Nhập 'exit' để thoát")
+    # Chat base
+    print("\n===== Chat base =====")
+    print("Enter 'exit' to exit")
     
     while True:
-        user_input = input("\nBạn: ")
+        user_input = input("\nYou: ")
         if user_input.lower() == 'exit':
             break
         
-        print("\nĐang xử lý...")
+        print("\nProcessing...")
         response = llm_service.generate_text(user_input)
         print(f"\nBot: {response}")
 
