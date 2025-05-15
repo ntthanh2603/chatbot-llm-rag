@@ -6,7 +6,7 @@ import uuid
 
 
 class ChromaDBClient:
-    def __init__(self,model_embedding="bkai-foundation-models/vietnamese-bi-encoder", chunk_size=256, host="localhost", port=8000, collection_name="vnu_chunks"):
+    def __init__(self,model_embedding="bkai-foundation-models/vietnamese-bi-encoder", chunk_size=512, host="localhost", port=8000, collection_name="vnu_chunks"):
         self.client = chromadb.HttpClient(
             host=host,
             port=port,

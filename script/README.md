@@ -7,7 +7,7 @@ python3 -m venv venv
 ### Kích hoạt môi trường:
 
 ```bash
-source venv/bin/activate
+source script/venv/bin/activate
 ```
 
 ### Cài đặt các thư viện cần thiết:

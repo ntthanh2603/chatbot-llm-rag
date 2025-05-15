@@ -10,21 +10,21 @@ load_dotenv()
 
 PATH_DATA = "./crawl/data_vnu_wikipedia.txt"
 MODEL_EMBEDDING = os.getenv("MODEL_EMBEDDING")
-CHUNK_SIZE = 256
+CHUNK_SIZE = 512
 
 def main():
     load_dotenv()
 
-    # with open(PATH_DATA, "r", encoding="utf-8") as f:
-    #     texts = f.read()
+    with open(PATH_DATA, "r", encoding="utf-8") as f:
+        texts = f.read()
 
     # Chunk data in file .txt
-    # embedding_handler = Embedding(model_embedding=MODEL_EMBEDDING, chunk_size=CHUNK_SIZE)
-    # chunks = embedding_handler.chunk_text(texts)
+    embedding_handler = Embedding(model_embedding=MODEL_EMBEDDING, chunk_size=CHUNK_SIZE)
+    chunks = embedding_handler.chunk_text(texts)
 
     # Insert data to ChromaDB
-    # db = ChromaDBClient(model_embedding=MODEL_EMBEDDING, chunk_size=CHUNK_SIZE)
-    # texts_with_embeddings = [db.insert_with_text(chunk) for chunk in chunks]
+    db = ChromaDBClient(model_embedding=MODEL_EMBEDDING, chunk_size=CHUNK_SIZE)
+    texts_with_embeddings = [db.insert_with_text(chunk) for chunk in chunks]
 
 
     # Query to ChromaDB
