@@ -3,7 +3,7 @@ import faiss
 import numpy as np
 
 # Load embedding model
-embedding_model = SentenceTransformer("vinai/phobert-base")
+embedding_model = SentenceTransformer("vinai/phobert-base-v2")
 
 # Sample document corpus
 documents = [
@@ -11,7 +11,10 @@ documents = [
     "LLaMA is a language model developed by Meta AI.",
     "RAG stands for Retrieval-Augmented Generation.",
     "Sentence embeddings are useful for semantic similarity.",
-    "Hugging Face provides many NLP models and tools."
+    "Hugging Face provides many NLP models and tools.",
+    "Bạn Lan sinh nhật vào tháng Năm.",
+    "Bạn Lan sống ở Hà Nội",
+    "Bạn Thành là bạn của bạn Lan"
 ]
 
 # Encode the document corpus
@@ -21,6 +24,7 @@ dimension = doc_embeddings[0].shape[0]
 # Build FAISS index
 index = faiss.IndexFlatL2(dimension)
 index.add(np.array(doc_embeddings))
+
 
 def rag_retrieve_and_concat(query: str, top_k: int = 2) -> str:
     # Embed the query
@@ -38,6 +42,6 @@ def rag_retrieve_and_concat(query: str, top_k: int = 2) -> str:
 
 
 if __name__ == "__main__":
-    prompt = "Tell a funny story!"
-    output = rag_retrieve_and_concat(prompt)
+    prompt = "Ngày sinh của bạn Lan là gì?"
+    output = rag_retrieve_and_concat(prompt, top_k=1)
     print(output)
