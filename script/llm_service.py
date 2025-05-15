@@ -2,11 +2,11 @@ import os
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 from script.rag_module import RAG
-# from huggingface_hub import login
 from dotenv import load_dotenv
 
 class LLMService:
-    def __init__(self, use_rag=True, model_name=None, model_embedding="bkai-foundation-models/vietnamese-bi-encoder"):
+    def __init__(self, use_rag=True, model_name=None, model_embedding="bkai-foundation-models/vietnamese-bi-encoder", 
+                 use_gpu=False, use_4bit=False):
         # Load environment variables
         load_dotenv()
         
@@ -22,9 +22,12 @@ class LLMService:
             'TinyLlama/TinyLlama-1.1B-Chat-v1.0', # 2.2gb
         ]
         
-        # Set the model name (default to first model if not specified)
-        self.model_name = model_name if model_name else self.model_list[3]
+        # Set the model name (default to smallest model if not specified)
+        self.model_name = model_name if model_name else self.model_list[3]  # Chọn mô hình nhỏ nhất TinyLlama
         self.model_embedding = model_embedding
+        
+        # Kiểm tra xem CUDA có sẵn không
+        self.cuda_available = torch.cuda.is_available() and use_gpu
         
         # Initialize the RAG system if enabled
         self.use_rag = use_rag
@@ -36,34 +39,58 @@ class LLMService:
             self.model_name,
             trust_remote_code=True
         )
-        
-        # Đảm bảo tokenizer có pad token và eos token
+
         if self.tokenizer.pad_token is None:
             if self.tokenizer.eos_token is not None:
                 self.tokenizer.pad_token = self.tokenizer.eos_token
             else:
                 self.tokenizer.pad_token = self.tokenizer.eos_token = "</s>"
 
-        self.quantization_config = BitsAndBytesConfig(
-            load_in_4bit=True,
-            bnb_4bit_use_double_quant=False,
-            bnb_4bit_quant_type="nf4",
-            bnb_4bit_compute_dtype=torch.bfloat16,
-            llm_int8_enable_fp32_cpu_offload=True  
-        )
+        if self.cuda_available and use_4bit:
+            try:
+                print(f"Đang tải mô hình {self.model_name} trên GPU với lượng tử hóa 4-bit...")
+
+                quantization_config = BitsAndBytesConfig(
+                    load_in_4bit=True,
+                    bnb_4bit_use_double_quant=False,
+                    bnb_4bit_quant_type="nf4",
+                    bnb_4bit_compute_dtype=torch.bfloat16
+                )
+                
+
+                self.model = AutoModelForCausalLM.from_pretrained(
+                    self.model_name,
+                    device_map="auto",
+                    trust_remote_code=True,
+                    quantization_config=quantization_config
+                )
+            except Exception as e:
+                print(f"Không thể tải mô hình với lượng tử hóa 4-bit: {e}")
+                print("Chuyển sang sử dụng GPU mà không có lượng tử hóa...")
+                self.cuda_available = True
+                use_4bit = False
+                
+        if self.cuda_available and not use_4bit:
+            print(f"Đang tải mô hình {self.model_name} trên GPU...")
+            
+            self.model = AutoModelForCausalLM.from_pretrained(
+                self.model_name,
+                device_map="auto",
+                trust_remote_code=True,
+                torch_dtype=torch.float16 
+            )
+        else:
+            print(f"Đang tải mô hình {self.model_name} trên CPU. Quá trình này có thể mất nhiều thời gian...")
+            self.model = AutoModelForCausalLM.from_pretrained(
+                self.model_name,
+                device_map="cpu",
+                trust_remote_code=True,
+                torch_dtype=torch.float32
+            )
         
-        device_map = "auto"
-        
-        # Load the model with quantization and device map
-        self.model = AutoModelForCausalLM.from_pretrained(
-            self.model_name,
-            device_map=device_map,
-            trust_remote_code=True,
-            quantization_config=self.quantization_config,
-        )
         print("Model loaded successfully.")
         
-    def generate_text(self, prompt, max_length=1024, use_rag=None):
+    def generate_text(self, prompt, max_length=2048, use_rag=None):
         # Determine whether to use RAG
         should_use_rag = self.use_rag if use_rag is None else use_rag
 
@@ -87,10 +114,10 @@ class LLMService:
                 output = self.model.generate(
                     **inputs, 
                     max_length=max_length,
-                    do_sample=False,  # Tắt sampling để tránh lỗi với probability tensors
-                    num_beams=1,      # Dùng greedy decoding
-                    pad_token_id=self.tokenizer.pad_token_id,  # Đảm bảo có pad token
-                    eos_token_id=self.tokenizer.eos_token_id   # Đảm bảo có eos token
+                    do_sample=False,
+                    num_beams=1,
+                    pad_token_id=self.tokenizer.pad_token_id,
+                    eos_token_id=self.tokenizer.eos_token_id
                 )
             
             # Decode and return the response
@@ -98,7 +125,6 @@ class LLMService:
         
         except Exception as e:
             print(f"Lỗi khi sinh văn bản: {e}")
-            # Trả về thông báo lỗi nếu không thể sinh văn bản
             return f"Không thể trả lời câu hỏi này. Lỗi: {str(e)[:100]}..."
     
     def test(self, path: str):

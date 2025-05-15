@@ -28,3 +28,10 @@ huggingface-cli login
 ```
 python3 -m script.main
 ```
+
+### Windown
+
+```
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+```
