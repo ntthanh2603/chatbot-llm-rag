@@ -1,10 +1,10 @@
-accelerate
-peft
-bitsandbytes
 transformers
-python-dotenv
-huggingface-hub
 protobuf
 sentencepiece
-faiss-cpu
+chromadb
 sentence-transformers
+python-dotenv
+torch
+huggingface_hub
+bitsandbytes
+accelerate
