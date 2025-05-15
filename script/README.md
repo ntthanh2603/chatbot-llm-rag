@@ -1,10 +1,3 @@
-### Đăng nhập hugkingface, chạy lệnh này trong cmd và dán token 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
-
-```bash
-huggingface-cli login
-
-```
-
 ### Windown
 
 ```bash
@@ -23,6 +16,13 @@ python3 -m venv venv
 source script/venv/bin/activate
 
 pip install -r script/requirements.txt
+```
+
+### Login hugkingface, run command line and pate token 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
+
+```bash
+huggingface-cli login
+
 ```
 
 ### Use container ChromaDb
