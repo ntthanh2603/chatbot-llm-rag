@@ -8,3 +8,4 @@ torch
 huggingface_hub
 bitsandbytes
 accelerate
+pinecone

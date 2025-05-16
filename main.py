@@ -1,14 +1,15 @@
-from embedding_module import Embedding
-from pinecone_module import PineconeDBClient
 from rag_module import RAG
 from llm_service import LLMService
+from pinecone_module import PineconeDBClient
 from dotenv import load_dotenv
+# from data_handler import chunk_and_add_data
 import os
+import sys
 
 load_dotenv()
 
 
-PATH_DATA = "./crawl/data_vnu_wikipedia.txt"
+PATH_DATA = "./data/data_vnu_wikipedia.txt"
 MODEL_EMBEDDING = os.getenv("MODEL_EMBEDDING")
 CHUNK_SIZE = 256
 
@@ -16,31 +17,23 @@ CHUNK_SIZE = 256
 def main():
     load_dotenv()
 
-    with open(PATH_DATA, "r", encoding="utf-8") as f:
-        texts = f.read()
+    # chunk_and_add_data(PATH_DATA, MODEL_EMBEDDING, CHUNK_SIZE)
 
-    # Chunk data in file .txt
-    embedding_handler = Embedding(
-        model_embedding=MODEL_EMBEDDING,
-        chunk_size=CHUNK_SIZE
-    )
-    chunks = embedding_handler.chunk_text(texts)
-
-    # Insert data to ChromaDB
     db = PineconeDBClient(
         model_embedding=MODEL_EMBEDDING,
         chunk_size=CHUNK_SIZE
     )
-    texts_with_embeddings = [db.insert_with_text(chunk) for chunk in chunks]
 
     # Query to ChromaDB
     result = db.query("Đại học Quốc gia Hà Nội")
-    print('result', result)
+    print('DB query result:\n', result)
 
     # Query in RAG
     rag = RAG(model_embedding=MODEL_EMBEDDING, chunk_size=CHUNK_SIZE)
     result = rag.rag_query("Đại học Quốc gia Hà Nội")
-    print('result', result)
+    print('RAG query result', result)
+
+    return
 
     llm_service = LLMService(
         # You can specify a different model from the list if needed
@@ -68,4 +61,10 @@ def main():
 
 
 if __name__ == "__main__":
+    sys.stdout = open("out.txt", "w")
+    sys.stderr = open("err.txt", "w")
+
     main()
+
+    sys.stdout.close()
+    sys.stderr.close()
