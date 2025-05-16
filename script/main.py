@@ -74,7 +74,9 @@ def main():
     parser.add_argument('--gpu', action='store_true', dest='use_gpu',
                         help='Use GPU if available (default: use only CPU)')
     parser.add_argument('--4bit', action='store_true', dest='use_4bit',
-                        help='Use quantize 4-bit if in GPU (default: Tắt)')
+                        help='Use quantize 4-bit if in GPU (default: off)')
+    parser.add_argument('--llm-api', action='store_true', dest='use_llm_api',
+                        help='Use LLM API (default: off)')
     
     # Parse param
     args = parser.parse_args()
@@ -101,7 +103,8 @@ def main():
         use_rag=args.use_rag,
         model_name=args.model,
         use_gpu=args.use_gpu,
-        use_4bit=args.use_4bit
+        use_4bit=args.use_4bit,
+        use_llm_api=args.use_llm_api
     )
     
     # Chat base

@@ -3,12 +3,20 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 from script.rag_module import RAG
 from dotenv import load_dotenv
+import google.generativeai as genai
 
 class LLMService:
-    def __init__(self, use_rag=True, model_name=None, model_embedding="bkai-foundation-models/vietnamese-bi-encoder", 
+    def __init__(self, use_rag=True, use_llm_api=False, model_name=None, model_embedding="bkai-foundation-models/vietnamese-bi-encoder", 
                  use_gpu=False, use_4bit=False):
         # Load environment variables
         load_dotenv()
+
+        self.use_llm_api = use_llm_api
+
+        self.api_key = os.getenv("GEMINI_API_KEY")
+        if not self.api_key:
+            raise ValueError("GEMINI_API_KEY is not set in the environment.")
+        genai.configure(api_key=self.api_key)
         
         # Set CUDA environment variables for better error reporting
         os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
@@ -90,7 +98,7 @@ class LLMService:
         
         print("Model loaded successfully.")
         
-    def generate_text(self, prompt, max_length=2048, use_rag=None):
+    async def generate_text(self, prompt, use_rag=None):
         # Determine whether to use RAG
         should_use_rag = self.use_rag if use_rag is None else use_rag
 
@@ -110,22 +118,41 @@ class LLMService:
 
         # Generate response with error handling
         try:
-            with torch.inference_mode():
-                output = self.model.generate(
-                    **inputs, 
-                    max_length=max_length,
-                    do_sample=False,
-                    num_beams=1,
-                    pad_token_id=self.tokenizer.pad_token_id,
-                    eos_token_id=self.tokenizer.eos_token_id
+            if self.use_llm_api :
+                model = genai.GenerativeModel(model_name="gemini-2.0-flash")
+
+                generation_config = {
+                    "temperature": 1,
+                    "top_p": 0.95,
+                    "top_k": 40,
+                    "max_output_tokens": 8192,
+                    "response_mime_type": "text/plain",
+                }
+
+                chat_session = model.start_chat(
+                    history=[],
+                    generation_config=generation_config,
                 )
-            
-            # Decode and return the response
-            return self.tokenizer.decode(output[0], skip_special_tokens=True)
+
+                response = await chat_session.send_message(inputs)
+                return {"result": response.text}
+            else:
+                with torch.inference_mode():
+                    output = self.model.generate(
+                        **inputs, 
+                        do_sample=False,
+                        num_beams=1,
+                        pad_token_id=self.tokenizer.pad_token_id,
+                        eos_token_id=self.tokenizer.eos_token_id
+                    )
+                
+                # Decode and return the response
+                return self.tokenizer.decode(output[0], skip_special_tokens=True)
         
         except Exception as e:
             print(f"Error when gen word: {e}")
-            return f"Cannot answer this question. Error: {str(e)[:100]}..."
-    
+            return f"Cannot answer this question. Error: {str(e)[:100]}..."\
+            
+   
     def test(self, path: str):
         pass

@@ -55,4 +55,7 @@ python -m script.main --model "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 
 # Not use RAG
 python -m script.main --no-rag
+
+# Run with llm is api gg
+python -m script.main --llm-api
 ```
