@@ -7,5 +7,5 @@ python-dotenv
 torch
 huggingface_hub
 bitsandbytes
-bitsandbytes-cpu
+# bitsandbytes-cpu
 accelerate

@@ -1,87 +1,1157 @@
 [
   {
-    "question": "Đại học Quốc gia Hà Nội được thành lập vào năm nào?",
-    "answer": "1993",
-    "keep": true
+    "question": "Tọa độ của Đại học Quốc gia Hà Nội là gì?",
+    "answer": "21°02′16″B 105°46′56″Đ / 21,0376807°B 105,7823046°Đ / 21.0376807; 105.7823046",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 1
   },
   {
-    "question": "Viện Đại học Đông Dương được thành lập vào năm nào?",
-    "answer": "1906",
-    "keep": true
+    "question": "Đại học Quốc gia Hà Nội thuộc loại hình nào?",
+    "answer": "Hệ thống đại học trọng điểm của Việt Nam.",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 2
+  },
+  {
+    "question": "Khẩu hiệu của Đại học Quốc gia Hà Nội là gì?",
+    "answer": "Ab uno disce omnesĐạt đỉnh cao dựa vào tri thức",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 3
   },
   {
     "question": "Đại học Quốc gia Hà Nội được thành lập vào năm nào?",
-    "answer": "Năm 1993",
-    "keep": true
+    "answer": "Đại học Quốc gia Hà Nội được thành lập vào năm 1993.",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 4
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội thuộc thể loại nào?",
+    "answer": "Đại học Quốc gia Hà Nội thuộc thể loại đại học công lập.",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 5
+  },
+  {
+    "question": "Ai là Giám đốc của Đại học Quốc gia Hà Nội?",
+    "answer": "GS.TS Lê Quân",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 6
+  },
+  {
+    "question": "Số lượng nhân viên của Đại học Quốc gia Hà Nội vào năm 2022 là bao nhiêu?",
+    "answer": "4,663",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 7
+  },
+  {
+    "question": "Số lượng giảng viên của Đại học Quốc gia Hà Nội vào năm 2022 là bao nhiêu?",
+    "answer": "2,220",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 8
+  },
+  {
+    "question": "Khuôn viên của Đại học Quốc gia Hà Nội rộng bao nhiêu hecta?",
+    "answer": "1.000ha",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 9
+  },
+  {
+    "question": "Màu sắc của Đại học Quốc gia Hà Nội là gì?",
+    "answer": "Xanh lá và Trắng",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 10
+  },
+  {
+    "question": "Bài hát của Đại học Quốc gia Hà Nội là gì?",
+    "answer": "Bài ca Đại học Quốc gia Hà Nội",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 11
+  },
+  {
+    "question": "Website của Đại học Quốc gia Hà Nội là gì?",
+    "answer": "www.vnu.edu.vn",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 12
+  },
+  {
+    "question": "Viết tắt của Đại học Quốc gia Hà Nội là gì?",
+    "answer": "VNU- HN",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 13
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội thuộc tổ chức nào?",
+    "answer": "Thủ tướng Chính phủ",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 14
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có những thành viên nào?",
+    "answer": "Các thành viên của Đại học Quốc gia Hà Nội bao gồm: Trường Trung học phổ thông chuyên Khoa học Tự nhiên, Trường Trung học phổ thông chuyên Khoa học Xã hội và Nhân văn, Trường Trung học phổ thông chuyên Ngoại ngữ, Trường Trung học phổ thông Khoa học Giáo dục, Trường Đại học Khoa học Tự nhiên, Trường Đại học Khoa học Xã hội và Nhân văn, Trường Đại học Ngoại ngữ, Trường Đại học Công nghệ, Trường Đại học Kinh tế, Trường Đại học Giáo dục, Trường Đại học Việt - Nhật, Trường Đại học Y Dược, Trường Đại học Luật, Trường Quốc tế, Trường Quản trị và Kinh doanh, Trường Khoa học liên ngành và Nghệ thuật, Khoa Quốc tế Pháp ngữ.",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 15
+  },
+  {
+    "question": "Ai là phó hiệu trưởng danh dự của Đại học Quốc gia Hà Nội?",
+    "answer": "PGS.TS Nguyễn Hoàng Hải và PGS.TS Phạm Bảo Sơn.",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 16
+  },
+  {
+    "question": "Số lượng sinh viên đại học tại Đại học Quốc gia Hà Nội năm 2022 là bao nhiêu?",
+    "answer": "45,224",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 17
+  },
+  {
+    "question": "Số lượng sinh viên sau đại học tại Đại học Quốc gia Hà Nội vào năm 2021 là bao nhiêu?",
+    "answer": "8,250",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 18
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội xếp hạng bao nhiêu tại Việt Nam theo QS năm 2021?",
+    "answer": "2",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 19
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội được xếp hạng bao nhiêu tại Việt Nam trong bảng xếp hạng THE năm 2021?",
+    "answer": "1",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 20
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội xếp hạng bao nhiêu tại Việt Nam theo uniRank năm 2020?",
+    "answer": "1",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 21
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội xếp hạng bao nhiêu tại Việt Nam trong bảng xếp hạng Webometrics năm 2020?",
+    "answer": "2",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 22
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội xếp hạng bao nhiêu theo QS năm 2021?",
+    "answer": "147",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 23
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội xếp hạng bao nhiêu trong bảng xếp hạng THE năm 2021?",
+    "answer": "201-250",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 24
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội xếp hạng bao nhiêu trong bảng xếp hạng Webometrics năm 2020?",
+    "answer": "260",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 25
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội xếp hạng thế giới theo THE năm 2021 là gì?",
+    "answer": "801-1000",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 26
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội xếp hạng bao nhiêu theo uniRank năm 2020?",
+    "answer": "1918",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 27
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội xếp hạng bao nhiêu trong bảng xếp hạng Webometrics năm 2020?",
+    "answer": "1097",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 28
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội được đánh giá là một trong những đại học tốt nhất thế giới của Việt Nam, đúng hay sai?",
+    "answer": "Đúng.",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 29
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội chịu sự chỉ đạo của ai?",
+    "answer": "Đại học Quốc gia Hà Nội chịu sự chỉ đạo trực tiếp từ Thủ tướng Chính phủ.",
+    "keep": true,
+    "section": "BẢNG THÔNG TIN (INFOBOX)",
+    "line_number": 30
+  },
+  {
+    "question": "Viện Đại học Đông Dương được thành lập năm nào và ở đâu?",
+    "answer": "Viện Đại học Đông Dương được thành lập năm 1906 ở Hà Nội.",
+    "keep": true,
+    "section": "Tiền thân",
+    "line_number": 1
+  },
+  {
+    "question": "Trường Khoa học Cơ bản được thành lập vào năm nào và ở đâu?",
+    "answer": "Trường Khoa học Cơ bản được thành lập vào năm 1951 trên chiến khu Việt Bắc.",
+    "keep": true,
+    "section": "Tiền thân",
+    "line_number": 2
+  },
+  {
+    "question": "Trường Đại học Tổng hợp Hà Nội được thành lập vào năm nào?",
+    "answer": "Năm 1956.",
+    "keep": true,
+    "section": "Tiền thân",
+    "line_number": 3
+  },
+  {
+    "question": "Trường Đại học Sư phạm Ngoại ngữ Hà Nội được thành lập vào năm nào?",
+    "answer": "Năm 1967.",
+    "keep": true,
+    "section": "Tiền thân",
+    "line_number": 4
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội được thành lập vào năm nào?",
+    "answer": "Năm 1993.",
+    "keep": true,
+    "section": "Sự thành lập",
+    "line_number": 1
+  },
+  {
+    "question": "Trước năm 2000, ĐHQGHN có bao nhiêu trường đại học và viện nghiên cứu?",
+    "answer": "Trước năm 2000, ĐHQGHN có 5 trường đại học và 1 viện nghiên cứu.",
+    "keep": true,
+    "section": "Sự thành lập",
+    "line_number": 2
+  },
+  {
+    "question": "Năm nào Chính phủ ban hành Nghị định về việc xóa bỏ Trường Đại học Đại cương?",
+    "answer": "Năm 1998.",
+    "keep": true,
+    "section": "Sự thành lập",
+    "line_number": 3
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội được thành lập vào năm nào và có những ngành nào vào thời điểm đó?",
+    "answer": "Đại học Quốc gia Hà Nội được thành lập vào năm 1999 và có các ngành: toán và khoa học tự nhiên, công nghệ thông tin và điện tử viễn thông, khoa học xã hội và nhân văn, kinh tế, luật, và ngoại ngữ.",
+    "keep": true,
+    "section": "Sự thành lập",
+    "line_number": 4
+  },
+  {
+    "question": "Trường Đại học Công nghệ được thành lập vào ngày nào?",
+    "answer": "Ngày 25 tháng 5 năm 2004.",
+    "keep": true,
+    "section": "Sự thành lập",
+    "line_number": 5
+  },
+  {
+    "question": "Trường Đại học Kinh tế được thành lập vào ngày nào?",
+    "answer": "Ngày 6 tháng 3 năm 2007.",
+    "keep": true,
+    "section": "Sự thành lập",
+    "line_number": 6
+  },
+  {
+    "question": "Trường Đại học Giáo dục được thành lập vào ngày nào?",
+    "answer": "Ngày 3 tháng 4 năm 2009.",
+    "keep": true,
+    "section": "Sự thành lập",
+    "line_number": 7
+  },
+  {
+    "question": "Trường Đại học Việt - Nhật được thành lập vào ngày nào?",
+    "answer": "Ngày 9 tháng 9 năm 2016.",
+    "keep": true,
+    "section": "Sự thành lập",
+    "line_number": 8
+  },
+  {
+    "question": "Trường Đại học Y Dược được thành lập vào ngày nào?",
+    "answer": "Ngày 27 tháng 10 năm 2020.",
+    "keep": true,
+    "section": "Sự thành lập",
+    "line_number": 9
+  },
+  {
+    "question": "Khi nào Trường Quốc tế và Trường Quản trị và Kinh doanh được thành lập?",
+    "answer": "Ngày 1 tháng 12 năm 2021.",
+    "keep": true,
+    "section": "Sự thành lập",
+    "line_number": 10
+  },
+  {
+    "question": "Trường Đại học Luật được thành lập vào ngày nào?",
+    "answer": "Ngày 23 tháng 9 năm 2022.",
+    "keep": true,
+    "section": "Sự thành lập",
+    "line_number": 11
+  },
+  {
+    "question": "Trường Khoa học liên ngành và Nghệ thuật được thành lập vào ngày nào?",
+    "answer": "Ngày 29 tháng 1 năm 2024.",
+    "keep": true,
+    "section": "Sự thành lập",
+    "line_number": 12
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội hiện có bao nhiêu trường đại học thành viên?",
+    "answer": "Đại học Quốc gia Hà Nội hiện có 9 trường đại học thành viên.",
+    "keep": true,
+    "section": "Sự thành lập",
+    "line_number": 13
   },
   {
     "question": "Đại học Quốc gia Hà Nội có bao nhiêu cấp quản lý hành chính?",
-    "answer": "3 cấp quản lý hành chính",
-    "keep": true
+    "answer": "3 cấp quản lý hành chính.",
+    "keep": true,
+    "section": "Cơ cấu tổ chức",
+    "line_number": 1
   },
   {
-    "question": "Có bao nhiêu trường đại học thành viên của Đại học Quốc gia Hà Nội?",
-    "answer": "09",
-    "keep": true
+    "question": "Ai là người bổ nhiệm Giám đốc và các Phó Giám đốc của Đại học Quốc gia Hà Nội?",
+    "answer": "Thủ tướng Chính phủ.",
+    "keep": true,
+    "section": "Cơ cấu tổ chức",
+    "line_number": 2
   },
   {
-    "question": "Các trường trực thuộc Đại học Quốc gia Hà Nội là gì?",
-    "answer": "Trường Quốc tế (VNU-IS), Trường Quản trị và Kinh doanh (VNU-HSB), Trường Khoa học liên ngành và Nghệ thuật (VNU-SIS)",
-    "keep": true
+    "question": "Các đơn vị cơ sở của Đại học Quốc gia Hà Nội có những loại nào?",
+    "answer": "Các trường đại học, viện nghiên cứu khoa học thành viên; các khoa, trung tâm đào tạo, nghiên cứu khoa học và công nghệ; các đơn vị phục vụ công tác đào tạo, nghiên cứu khoa học trực thuộc Đại học Quốc gia Hà Nội.",
+    "keep": true,
+    "section": "Cơ cấu tổ chức",
+    "line_number": 3
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có những đơn vị nào thuộc cơ cấu tổ chức?",
+    "answer": "Các khoa, phòng nghiên cứu và tương đương thuộc trường đại học, viện nghiên cứu khoa học thành viên và các đơn vị trực thuộc.",
+    "keep": true,
+    "section": "Cơ cấu tổ chức",
+    "line_number": 4
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội hoạt động theo cơ chế nào?",
+    "answer": "Đại học Quốc gia Hà Nội hoạt động theo cơ chế tự chủ, tự chịu trách nhiệm cao.",
+    "keep": true,
+    "section": "Cơ cấu tổ chức",
+    "line_number": 5
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có bao nhiêu cơ quan?",
+    "answer": "07",
+    "keep": true,
+    "section": "Cơ cấu tổ chức",
+    "line_number": 6
+  },
+  {
+    "question": "Văn phòng của Đại học Quốc gia Hà Nội là gì?",
+    "answer": "Văn phòng Đại học Quốc gia Hà Nội.",
+    "keep": true,
+    "section": "Cơ cấu tổ chức",
+    "line_number": 7
+  },
+  {
+    "question": "Ban nào phụ trách đào tạo và công tác sinh viên tại Đại học Quốc gia Hà Nội?",
+    "answer": "Ban Đào tạo và Công tác sinh viên.",
+    "keep": true,
+    "section": "Cơ cấu tổ chức",
+    "line_number": 8
+  },
+  {
+    "question": "Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia Hà Nội?",
+    "answer": "Ban Hợp tác và Phát triển.",
+    "keep": true,
+    "section": "Cơ cấu tổ chức",
+    "line_number": 9
+  },
+  {
+    "question": "Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia Hà Nội?",
+    "answer": "Ban Tài chính và Đầu tư",
+    "keep": true,
+    "section": "Cơ cấu tổ chức",
+    "line_number": 10
+  },
+  {
+    "question": "Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia Hà Nội?",
+    "answer": "Ban Khoa học và Đổi mới sáng tạo.",
+    "keep": true,
+    "section": "Cơ cấu tổ chức",
+    "line_number": 11
+  },
+  {
+    "question": "Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia Hà Nội?",
+    "answer": "Ban Tổ chức và Thanh tra.",
+    "keep": true,
+    "section": "Cơ cấu tổ chức",
+    "line_number": 12
+  },
+  {
+    "question": "Khối nào thuộc cơ cấu tổ chức của Đại học Quốc gia Hà Nội?",
+    "answer": "Khối Văn phòng Đảng - Đoàn thể.",
+    "keep": true,
+    "section": "Cơ cấu tổ chức",
+    "line_number": 13
+  },
+  {
+    "question": "Trường đại học nào là một thành viên của Đại học Quốc gia Hà Nội?",
+    "answer": "Trường Đại học Khoa học Tự nhiên (VNU-HUS)",
+    "keep": true,
+    "section": "Các trường đại học thành viên (09)",
+    "line_number": 1
+  },
+  {
+    "question": "Trường Đại học thành viên nào thuộc Đại học Quốc gia Hà Nội chuyên về khoa học xã hội và nhân văn?",
+    "answer": "Trường Đại học Khoa học Xã hội và Nhân văn (VNU-USSH)",
+    "keep": true,
+    "section": "Các trường đại học thành viên (09)",
+    "line_number": 2
+  },
+  {
+    "question": "Trường đại học nào là thành viên của Đại học Quốc gia Hà Nội?",
+    "answer": "Trường Đại học Ngoại ngữ (VNU-ULIS)",
+    "keep": true,
+    "section": "Các trường đại học thành viên (09)",
+    "line_number": 3
+  },
+  {
+    "question": "Trường đại học nào là thành viên của Đại học Quốc gia Hà Nội?",
+    "answer": "Trường Đại học Công nghệ (VNU-UET)",
+    "keep": true,
+    "section": "Các trường đại học thành viên (09)",
+    "line_number": 4
+  },
+  {
+    "question": "Trường đại học nào thuộc Đại học Quốc gia Hà Nội?",
+    "answer": "Trường Đại học Kinh tế (VNU-UEB)",
+    "keep": true,
+    "section": "Các trường đại học thành viên (09)",
+    "line_number": 5
+  },
+  {
+    "question": "Trường đại học nào thuộc Đại học Quốc gia Hà Nội?",
+    "answer": "Trường Đại học Giáo dục (VNU-UEd)",
+    "keep": true,
+    "section": "Các trường đại học thành viên (09)",
+    "line_number": 6
+  },
+  {
+    "question": "Trường nào thuộc Đại học Quốc gia Hà Nội?",
+    "answer": "Trường Đại học Việt - Nhật (VNU-VJU)",
+    "keep": true,
+    "section": "Các trường đại học thành viên (09)",
+    "line_number": 7
+  },
+  {
+    "question": "Trường nào thuộc Đại học Quốc gia Hà Nội chuyên về Y Dược?",
+    "answer": "Trường Đại học Y Dược (VNU-UMP)",
+    "keep": true,
+    "section": "Các trường đại học thành viên (09)",
+    "line_number": 8
+  },
+  {
+    "question": "Trường nào là một trong các trường đại học thành viên của Đại học Quốc gia Hà Nội?",
+    "answer": "Trường Đại học Luật (VNU-UL)",
+    "keep": true,
+    "section": "Các trường đại học thành viên (09)",
+    "line_number": 9
+  },
+  {
+    "question": "Trường nào thuộc Đại học Quốc gia Hà Nội?",
+    "answer": "Trường Quốc tế (VNU-IS)",
+    "keep": true,
+    "section": "Các trường trực thuộc (03)",
+    "line_number": 1
+  },
+  {
+    "question": "Trường nào thuộc Đại học Quốc gia Hà Nội?",
+    "answer": "Trường Quản trị và Kinh doanh (VNU-HSB)",
+    "keep": true,
+    "section": "Các trường trực thuộc (03)",
+    "line_number": 2
+  },
+  {
+    "question": "Trường nào thuộc Đại học Quốc gia Hà Nội?",
+    "answer": "Trường Khoa học liên ngành và Nghệ thuật (VNU-SIS)",
+    "keep": true,
+    "section": "Các trường trực thuộc (03)",
+    "line_number": 3
   },
   {
     "question": "Bệnh viện trực thuộc Đại học Quốc gia Hà Nội là gì?",
     "answer": "Bệnh viện Đại học Quốc gia Hà Nội.",
-    "keep": true
+    "keep": true,
+    "section": "Bệnh viện trực thuộc (01)",
+    "line_number": 1
   },
   {
-    "question": "Các trung tâm đào tạo trực thuộc Đại học Quốc gia Hà Nội là gì?",
-    "answer": "Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh",
-    "keep": true
+    "question": "Trung tâm nào thuộc Đại học Quốc gia Hà Nội chuyên về giáo dục thể chất và thể thao?",
+    "answer": "Trung tâm Giáo dục Thể chất và Thể thao.",
+    "keep": true,
+    "section": "Các trung tâm đào tạo trực thuộc (02)",
+    "line_number": 1
+  },
+  {
+    "question": "Trung tâm nào thuộc Đại học Quốc gia Hà Nội chuyên về giáo dục quốc phòng và an ninh?",
+    "answer": "Trung tâm Giáo dục Quốc phòng và An ninh.",
+    "keep": true,
+    "section": "Các trung tâm đào tạo trực thuộc (02)",
+    "line_number": 2
   },
   {
     "question": "Các đơn vị nghiên cứu của Đại học Quốc gia Hà Nội là gì?",
-    "answer": "Viện Việt Nam học và Khoa học phát triển (IVIDES), Viện Trần Nhân Tông (TNTI), Công viên Công nghệ cao và Đổi mới sáng tạo, Viện Công nghệ Thông tin (ITI), Viện Vi sinh vật và Công nghệ sinh học (IMBT), Viện Tài nguyên và Môi trường (CRES), Trung tâm Chuyển giao tri thức và Hỗ trợ khởi nghiệp, Trung tâm Dự báo và phát triển nguồn nhân lực, Trung tâm Hỗ trợ Sinh viên.",
-    "keep": true
+    "answer": "Công viên Công nghệ cao và Đổi mới sáng tạo, Viện Công nghệ Thông tin (ITI), Viện Vi sinh vật và Công nghệ sinh học (IMBT), Viện Tài nguyên và Môi trường (CRES), Trung tâm Chuyển giao tri thức và Hỗ trợ khởi nghiệp, Trung tâm Dự báo và phát triển nguồn nhân lực, Trung tâm Hỗ trợ Sinh viên.",
+    "keep": true,
+    "section": "Các đơn vị nghiên cứu (03)",
+    "line_number": 3
   },
   {
-    "question": "Đại học Quốc gia Hà Nội có những trường THPT nào trực thuộc các trường đại học thành viên?",
-    "answer": "Trường THPT chuyên Khoa học Tự nhiên, Trường THPT chuyên Khoa học Xã hội và Nhân văn, Trường THPT chuyên Ngoại ngữ, Trường THPT Khoa học Giáo dục, Trường THCS Ngoại ngữ.",
-    "keep": true
+    "question": "Đơn vị nghiên cứu nào thuộc Đại học Quốc gia Hà Nội chuyên về chuyển giao tri thức và hỗ trợ khởi nghiệp?",
+    "answer": "Trung tâm Chuyển giao tri thức và Hỗ trợ khởi nghiệp.",
+    "keep": true,
+    "section": "Các đơn vị nghiên cứu (03)",
+    "line_number": 13
   },
   {
-    "question": "Các đơn vị hỗ trợ và dịch vụ của Đại học Quốc gia Hà Nội là gì?",
-    "answer": "- Trung tâm Thư viện và Tri thức số\n- Trung tâm Kiểm định Chất lượng giáo dục\n- Trung tâm Quản lý đô thị đại học\n- Nhà Xuất bản Đại học Quốc gia Hà Nội\n- Tạp chí Khoa học ĐHQGHN\n- Viện Đào tạo số và Khảo thí (IDT)\n- Ban Quản lý dự án\n- Ban Quản lý dự án “Phát triển các đại học quốc gia Việt Nam – Tiểu Dự án ĐHQGHN”",
-    "keep": true
+    "question": "Đại học Quốc gia Hà Nội có những đơn vị đào tạo nào ngoài bậc đại học và sau đại học?",
+    "answer": "Đại học Quốc gia Hà Nội còn có các đơn vị đào tạo bậc phổ thông trực thuộc các trường đại học thành viên.",
+    "keep": true,
+    "section": "Các đơn vị đào tạo khác (05)",
+    "line_number": 1
   },
   {
-    "question": "Ai là người bổ nhiệm hiệu trưởng các trường đại học thành viên và thủ trưởng các đơn vị trực thuộc tại Đại học Quốc gia Hà Nội?",
-    "answer": "Giám đốc Đại học Quốc gia Hà Nội",
-    "keep": true
+    "question": "Trường THPT chuyên Khoa học Tự nhiên thuộc trường nào?",
+    "answer": "Trường Đại học Khoa học Tự nhiên.",
+    "keep": true,
+    "section": "Các đơn vị đào tạo khác (05)",
+    "line_number": 2
   },
   {
-    "question": "Đại học Quốc gia Hà Nội là trung tâm đào tạo và nghiên cứu trong lĩnh vực nào?",
-    "answer": "Đại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao.",
-    "keep": true
+    "question": "Trường THPT chuyên nào thuộc Trường Đại học Khoa học Xã hội và Nhân văn?",
+    "answer": "Trường THPT chuyên Khoa học Xã hội và Nhân văn.",
+    "keep": true,
+    "section": "Các đơn vị đào tạo khác (05)",
+    "line_number": 3
   },
   {
-    "question": "Đại học Quốc gia Hà Nội có bao nhiêu cơ sở tại quận Cầu Giấy?",
-    "answer": "7 cơ sở",
-    "keep": true
+    "question": "Trường THPT chuyên Ngoại ngữ thuộc đơn vị nào?",
+    "answer": "Trường Đại học Ngoại ngữ.",
+    "keep": true,
+    "section": "Các đơn vị đào tạo khác (05)",
+    "line_number": 4
   },
   {
-    "question": "Trụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại đâu?",
-    "answer": "số 144 Xuân Thủy, quận Cầu Giấy, Hà Nội.",
-    "keep": true
+    "question": "Trường THPT nào thuộc Trường Đại học Giáo dục?",
+    "answer": "Trường THPT Khoa học Giáo dục.",
+    "keep": true,
+    "section": "Các đơn vị đào tạo khác (05)",
+    "line_number": 5
   },
   {
-    "question": "Ngày nào Thủ tướng Chính phủ có Quyết định số 72/TTg về địa điểm Đại học Quốc gia Hà Nội?",
-    "answer": "Ngày 27 tháng 1 năm 1995",
-    "keep": true
+    "question": "Trường THCS Ngoại ngữ thuộc đơn vị nào?",
+    "answer": "Trường Đại học Ngoại ngữ.",
+    "keep": true,
+    "section": "Các đơn vị đào tạo khác (05)",
+    "line_number": 6
   },
   {
-    "question": "Ai là Đại tướng đầu tiên của Quân đội Nhân dân Việt Nam?",
-    "answer": "Võ Nguyên Giáp",
-    "keep": true
+    "question": "Đơn vị nào hỗ trợ và cung cấp dịch vụ thư viện tại Đại học Quốc gia Hà Nội?",
+    "answer": "Trung tâm Thư viện và Tri thức số.",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 1
+  },
+  {
+    "question": "Đơn vị nào hỗ trợ kiểm định chất lượng giáo dục tại Đại học Quốc gia Hà Nội?",
+    "answer": "Trung tâm Kiểm định Chất lượng giáo dục.",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 2
+  },
+  {
+    "question": "Đơn vị nào hỗ trợ và cung cấp dịch vụ tại Đại học Quốc gia Hà Nội?",
+    "answer": "Trung tâm Quản lý đô thị đại học.",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 3
+  },
+  {
+    "question": "Nhà Xuất bản nào thuộc Đại học Quốc gia Hà Nội?",
+    "answer": "Nhà Xuất bản Đại học Quốc gia Hà Nội.",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 4
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có đơn vị hỗ trợ nào liên quan đến tạp chí khoa học?",
+    "answer": "Tạp chí Khoa học ĐHQGHN.",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 5
+  },
+  {
+    "question": "Đơn vị nào thuộc Đại học Quốc gia Hà Nội chuyên về đào tạo số và khảo thí?",
+    "answer": "Viện Đào tạo số và Khảo thí (IDT)",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 6
+  },
+  {
+    "question": "Đơn vị nào thuộc các đơn vị hỗ trợ và dịch vụ của Đại học Quốc gia Hà Nội?",
+    "answer": "Ban Quản lý dự án",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 7
+  },
+  {
+    "question": "Đơn vị nào hỗ trợ trong dự án \"Phát triển các đại học quốc gia Việt Nam – Tiểu Dự án ĐHQGHN\"?",
+    "answer": "Ban Quản lý dự án \"Phát triển các đại học quốc gia Việt Nam – Tiểu Dự án ĐHQGHN\".",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 8
+  },
+  {
+    "question": "Có bao nhiêu đơn vị thực hiện nhiệm vụ đặc biệt tại Đại học Quốc gia Hà Nội?",
+    "answer": "Có 09 đơn vị thực hiện nhiệm vụ đặc biệt tại Đại học Quốc gia Hà Nội.",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 9
+  },
+  {
+    "question": "Đơn vị nào hỗ trợ nghiên cứu tại Đại học Quốc gia Hà Nội?",
+    "answer": "Trung tâm Hỗ trợ Nghiên cứu Châu Á.",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 10
+  },
+  {
+    "question": "Đơn vị nào hỗ trợ Đại học Quốc gia Hà Nội và ĐH Arizona?",
+    "answer": "Văn phòng Hợp tác ĐHQGHN- ĐH Arizona.",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 11
+  },
+  {
+    "question": "Đơn vị nào hỗ trợ các chương trình khoa học và công nghệ trọng điểm tại Đại học Quốc gia Hà Nội?",
+    "answer": "Văn phòng các chương trình khoa học và công nghệ trọng điểm tại ĐHQGHN.",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 12
+  },
+  {
+    "question": "Đơn vị nào hỗ trợ và cung cấp dịch vụ tại Đại học Quốc gia Hà Nội liên quan đến phát triển tư liệu Việt Nam học?",
+    "answer": "Văn phòng Dự án Phát triển TT Tư liệu Việt Nam học tại ĐHQGHN.",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 13
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có quỹ nào hỗ trợ phát triển khoa học và công nghệ?",
+    "answer": "Quỹ phát triển Khoa học và Công nghệ.",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 14
+  },
+  {
+    "question": "Quỹ phát triển của Đại học Quốc gia Hà Nội là gì?",
+    "answer": "Quỹ phát triển ĐHQGHN.",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 15
+  },
+  {
+    "question": "Câu lạc bộ nào thuộc Đại học Quốc gia Hà Nội?",
+    "answer": "Câu lạc bộ Nhà khoa học ĐHQGHN.",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 16
+  },
+  {
+    "question": "Câu lạc bộ nào hỗ trợ sinh viên tại Đại học Quốc gia Hà Nội?",
+    "answer": "Câu lạc bộ Cựu sinh viên ĐHQGHN.",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 17
+  },
+  {
+    "question": "Câu lạc bộ nào hỗ trợ cho cựu sinh viên doanh nhân tại Đại học Quốc gia Hà Nội?",
+    "answer": "Câu lạc bộ Cựu sinh viên doanh nhân ĐHQGHN.",
+    "keep": true,
+    "section": "Các đơn vị hỗ trợ và dịch vụ (08)",
+    "line_number": 18
+  },
+  {
+    "question": "Ai là người bổ nhiệm hiệu trưởng các trường đại học thành viên và thủ trưởng các đơn vị trực thuộc của Đại học Quốc gia Hà Nội?",
+    "answer": "Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm.",
+    "keep": true,
+    "section": "Nhân sự",
+    "line_number": 1
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội hiện có bao nhiêu giảng viên và nhân viên?",
+    "answer": "Khoảng 4.393 giảng viên và nhân viên.",
+    "keep": true,
+    "section": "Nhân sự",
+    "line_number": 2
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có bao nhiêu giáo sư?",
+    "answer": "62 giáo sư.",
+    "keep": true,
+    "section": "Nhân sự",
+    "line_number": 3
+  },
+  {
+    "question": "Có bao nhiêu Phó Giáo sư tại Đại học Quốc gia Hà Nội?",
+    "answer": "Có 346 Phó Giáo sư.",
+    "keep": true,
+    "section": "Nhân sự",
+    "line_number": 4
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có bao nhiêu Tiến sĩ và Tiến sĩ khoa học?",
+    "answer": "1.451 Tiến sĩ và Tiến sĩ khoa học.",
+    "keep": true,
+    "section": "Nhân sự",
+    "line_number": 5
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có bao nhiêu thạc sĩ?",
+    "answer": "1.709 Thạc sĩ",
+    "keep": true,
+    "section": "Nhân sự",
+    "line_number": 6
+  },
+  {
+    "question": "Tại Đại học Quốc gia Hà Nội, tỷ lệ giảng viên có học vị thạc sĩ trở lên là bao nhiêu?",
+    "answer": "90%.",
+    "keep": true,
+    "section": "Nhân sự",
+    "line_number": 7
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội hiện đang triển khai những chương trình đào tạo thuộc các lĩnh vực nào?",
+    "answer": "Đại học Quốc gia Hà Nội hiện đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành.",
+    "keep": true,
+    "section": "Đào tạo",
+    "line_number": 1
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo đại học?",
+    "answer": "140 chương trình đào tạo đại học.",
+    "keep": true,
+    "section": "Đào tạo",
+    "line_number": 2
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo thạc sĩ?",
+    "answer": "187 chương trình đào tạo thạc sĩ.",
+    "keep": true,
+    "section": "Đào tạo",
+    "line_number": 3
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo tiến sĩ?",
+    "answer": "115 chương trình đào tạo tiến sĩ.",
+    "keep": true,
+    "section": "Đào tạo",
+    "line_number": 4
+  },
+  {
+    "question": "Có bao nhiêu chương trình đào tạo tại Đại học Quốc gia Hà Nội đã được kiểm định AUN?",
+    "answer": "32 chương trình đào tạo.",
+    "keep": true,
+    "section": "Đào tạo",
+    "line_number": 5
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có bao nhiêu chương trình liên kết đào tạo quốc tế?",
+    "answer": "26 chương trình liên kết đào tạo quốc tế.",
+    "keep": true,
+    "section": "Đào tạo",
+    "line_number": 6
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có bao nhiêu cơ sở?",
+    "answer": "Đại học Quốc gia Hà Nội có 7 cơ sở.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 1
+  },
+  {
+    "question": "Các trường đại học nào thuộc quận Cầu Giấy, Hà Nội?",
+    "answer": "Các trường đại học thuộc quận Cầu Giấy, Hà Nội bao gồm: Trường ĐH Y Dược, Trường ĐH Kinh tế, Trường ĐH Công nghệ, Trường ĐH Giáo dục, Trường Quản trị và Kinh doanh, Viện Vi sinh vật và CNSH, Viện TNT, Viện CNTT, và Trường Đại học Ngoại ngữ.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 2
+  },
+  {
+    "question": "Địa chỉ của Đại học Quốc gia Hà Nội là gì?",
+    "answer": "144 Xuân Thủy, Cầu Giấy, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 3
+  },
+  {
+    "question": "Cơ sở duy nhất của Trường Đại học Ngoại ngữ nằm ở đâu?",
+    "answer": "2 Phạm Văn Đồng, Cầu Giấy, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 4
+  },
+  {
+    "question": "Địa chỉ của Khoa Răng Hàm Mặt thuộc Trường Đại học Y Dược Hà Nội là gì?",
+    "answer": "2B Phạm Văn Đồng, Cầu Giấy, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 5
+  },
+  {
+    "question": "Địa chỉ của cơ sở thuộc Trường Đại học Kinh tế tại Đại học Quốc gia Hà Nội là gì?",
+    "answer": "109 Hồ Tùng Mậu, Mai Dịch, Cầu Giấy, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 6
+  },
+  {
+    "question": "Khoa nào thuộc Trường Đại học Khoa học Tự nhiên tại quận Hoàn Kiếm, Hà Nội?",
+    "answer": "Khoa Hóa học.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 7
+  },
+  {
+    "question": "Khoa nào thuộc Trường Đại học Khoa học Tự nhiên tại địa chỉ 19 Lê Thánh Tông, Hoàn Kiếm, Hà Nội?",
+    "answer": "Khoa Hóa học.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 8
+  },
+  {
+    "question": "Các cơ sở của Đại học Quốc gia Hà Nội ở quận Thanh Xuân bao gồm những địa chỉ nào?",
+    "answer": "- 334 đường Nguyễn Trãi (Trường Đại học Khoa học Tự nhiên) - 336 đường Nguyễn Trãi (Trường THPT Chuyên KHXH và Nhân văn, Trường Đại học Khoa học Xã hội và Nhân văn) - 182 đường Lương Thế Vinh (Trường THPT Chuyên KHTN, Bệnh viện ĐHQGHN, Ký túc xá Mễ Trì) - Nguyễn Quý Đức (Bệnh viện Đại học Y Dược, ĐHQGHN).",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 9
+  },
+  {
+    "question": "Địa chỉ của Trường Đại học Khoa học Tự nhiên thuộc Đại học Quốc gia Hà Nội là gì?",
+    "answer": "334 đường Nguyễn Trãi, Thanh Xuân, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 10
+  },
+  {
+    "question": "Địa chỉ của Trường Đại học Khoa học Xã hội và Nhân văn là gì?",
+    "answer": "336 đường Nguyễn Trãi, Thanh Xuân, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 11
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có cơ sở nào tại 182 đường Lương Thế Vinh, Thanh Xuân, Hà Nội?",
+    "answer": "Trường THPT Chuyên KHTN, Bệnh viện ĐHQGHN, Ký túc xá Mễ Trì.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 12
+  },
+  {
+    "question": "Bệnh viện Đại học Y Dược, ĐHQGHN nằm ở đâu?",
+    "answer": "Nguyễn Quý Đức, Thanh Xuân, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 13
+  },
+  {
+    "question": "Các cơ sở của Đại học Quốc gia Hà Nội ở quận Hai Bà Trưng nằm ở đâu?",
+    "answer": "16 phố Hàng Chuối (Nhà xuất bản Đại học Quốc gia Hà Nội) và B7bis phố Trần Đại Nghĩa (Khoa Việt Nam học và Tiếng Việt – Trường Đại học Khoa học Xã hội và Nhân văn).",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 14
+  },
+  {
+    "question": "Địa chỉ của Nhà xuất bản Đại học Quốc gia Hà Nội là gì?",
+    "answer": "16 phố Hàng Chuối",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 15
+  },
+  {
+    "question": "Khoa nào thuộc Trường Đại học Khoa học Xã hội và Nhân văn tại Đại học Quốc gia Hà Nội nằm ở B7bis phố Trần Đại Nghĩa?",
+    "answer": "Khoa Việt Nam học và Tiếng Việt.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 16
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có cơ sở nào tại Hòa Lạc?",
+    "answer": "Cơ sở tại Hòa Lạc bao gồm: Trung tâm Giáo dục Quốc phòng và An ninh, Nhà khách ĐHQGHN, Nhà Điều hành đại học, Trung tâm Thư viện và Tri thức số, Các giảng đường HT1, HT2.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 17
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có những cơ sở nào tại xã Thạch Hoà, huyện Thạch Thất, Hà Nội?",
+    "answer": "Các cơ sở bao gồm: Trung tâm Giáo dục Quốc phòng và An ninh, Nhà khách ĐHQGHN, Nhà Điều hành đại học, Trung tâm Thư viện và Tri thức số, Các giảng đường HT1, HT2.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 18
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có cơ sở nào tại Ba Vì?",
+    "answer": "Cơ sở tại Ba Vì là Trung tâm Hỗ trợ Đào tạo và Phát triển đô thị đại học, nằm ở xã Tản Lĩnh, huyện Ba Vì, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 19
+  },
+  {
+    "question": "Trung tâm Hỗ trợ Đào tạo và Phát triển đô thị đại học của Đại học Quốc gia Hà Nội nằm ở đâu?",
+    "answer": "Xã Tản Lĩnh, huyện Ba Vì, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 20
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có cơ sở nào ở quận Nam Từ Liêm?",
+    "answer": "Cơ sở ở quận Nam Từ Liêm bao gồm Đơn nguyên 1 và 2, Khu Ký túc xá Mỹ Đình II, đường Hàm Nghi, Ký túc xá Mỹ Đình, Lưu Hữu Phước, và ngõ 6, phố Trần Hữu Dực.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 21
+  },
+  {
+    "question": "Ký túc xá Mỹ Đình thuộc Đại học Quốc gia Hà Nội nằm ở đâu?",
+    "answer": "Ký túc xá Mỹ Đình nằm tại Đơn nguyên 1 và 2, Khu Ký túc xá Mỹ Đình II, đường Hàm Nghi, quận Nam Từ Liêm, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 22
+  },
+  {
+    "question": "Cơ sở nào thuộc Trường Đại học Việt Nhật?",
+    "answer": "Lưu Hữu Phước, Mỹ Đình 2, Nam Từ Liêm, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 23
+  },
+  {
+    "question": "Địa chỉ của Trường Khoa học Liên ngành và Nghệ thuật thuộc Đại học Quốc gia Hà Nội là gì?",
+    "answer": "Ngõ 6, phố Trần Hữu Dực, Mỹ Đình I, Nam Từ Liêm, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 24
+  },
+  {
+    "question": "Địa chỉ của Đại học Quốc gia Hà Nội là gì?",
+    "answer": "144 Xuân Thủy, Cầu Giấy, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 25
+  },
+  {
+    "question": "Cơ sở duy nhất của Trường Đại học Ngoại ngữ nằm ở đâu?",
+    "answer": "2 Phạm Văn Đồng, Cầu Giấy, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 26
+  },
+  {
+    "question": "Địa chỉ của Khoa Răng Hàm Mặt thuộc Trường Đại học Y Dược, Đại học Quốc gia Hà Nội là gì?",
+    "answer": "2B Phạm Văn Đồng, Cầu Giấy, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 27
+  },
+  {
+    "question": "Địa chỉ của cơ sở thuộc Trường Đại học Kinh tế tại Đại học Quốc gia Hà Nội là gì?",
+    "answer": "109 Hồ Tùng Mậu, Mai Dịch, Cầu Giấy, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 28
+  },
+  {
+    "question": "Địa chỉ của Khoa Hóa học thuộc Trường Đại học Khoa học Tự nhiên tại Đại học Quốc gia Hà Nội là gì?",
+    "answer": "19 Lê Thánh Tông, Hoàn Kiếm, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 29
+  },
+  {
+    "question": "Địa chỉ của Trường Đại học Khoa học Tự nhiên thuộc Đại học Quốc gia Hà Nội là gì?",
+    "answer": "334 đường Nguyễn Trãi, Thanh Xuân, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 30
+  },
+  {
+    "question": "Địa chỉ của Trường Đại học Khoa học Xã hội và Nhân văn là gì?",
+    "answer": "336 đường Nguyễn Trãi, Thanh Xuân, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 31
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có địa chỉ nào tại Thanh Xuân, Hà Nội?",
+    "answer": "182 đường Lương Thế Vinh, Thanh Xuân, Hà Nội (Trường THPT Chuyên KHTN, Bệnh viện ĐHQGHN, Ký túc xá Mễ Trì, ...).",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 32
+  },
+  {
+    "question": "Bệnh viện Đại học Y Dược, ĐHQGHN nằm ở đâu?",
+    "answer": "Nguyễn Quý Đức, Thanh Xuân, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 33
+  },
+  {
+    "question": "Địa chỉ của Nhà xuất bản Đại học Quốc gia Hà Nội là gì?",
+    "answer": "16 phố Hàng Chuối",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 34
+  },
+  {
+    "question": "Khoa nào thuộc Trường Đại học Khoa học Xã hội và Nhân văn tại B7bis phố Trần Đại Nghĩa?",
+    "answer": "Khoa Việt Nam học và Tiếng Việt.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 35
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội có những cơ sở nào tại xã Thạch Hòa, huyện Thạch Thất, Hà Nội?",
+    "answer": "Các cơ sở tại xã Thạch Hòa, huyện Thạch Thất, Hà Nội bao gồm: Trung tâm Giáo dục Quốc phòng và An ninh, Nhà khách ĐHQGHN, Nhà Điều hành đại học, Trung tâm Thư viện và Tri thức số, Các giảng đường HT1, HT2.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 36
+  },
+  {
+    "question": "Trung tâm Hỗ trợ Đào tạo và Phát triển đô thị đại học của Đại học Quốc gia Hà Nội nằm ở đâu?",
+    "answer": "Xã Tản Lĩnh, huyện Ba Vì, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 37
+  },
+  {
+    "question": "Ký túc xá Mỹ Đình thuộc địa chỉ nào?",
+    "answer": "Đơn nguyên 1 và 2, Khu Ký túc xá Mỹ Đình II, đường Hàm Nghi, quận Nam Từ Liêm, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 38
+  },
+  {
+    "question": "Cơ sở nào thuộc Trường Đại học Việt Nhật?",
+    "answer": "Lưu Hữu Phước, Mỹ Đình 2, Nam Từ Liêm, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 39
+  },
+  {
+    "question": "Địa chỉ của Trường Khoa học Liên ngành và Nghệ thuật thuộc Đại học Quốc gia Hà Nội là gì?",
+    "answer": "Ngõ 6, phố Trần Hữu Dực, Mỹ Đình I, Nam Từ Liêm, Hà Nội.",
+    "keep": true,
+    "section": "Các cơ sở",
+    "line_number": 40
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội đã chuyển trụ sở chính đến đâu vào ngày 19 tháng 5 năm 2022?",
+    "answer": "Đại học Quốc gia Hà Nội đã chuyển trụ sở chính đến Hòa Lạc, Thạch Thất, Hà Nội.",
+    "keep": true,
+    "section": "Trụ sở chính",
+    "line_number": 1
+  },
+  {
+    "question": "Đại học Quốc gia Hà Nội được quy hoạch xây dựng trên diện tích bao nhiêu hecta?",
+    "answer": "1000 ha",
+    "keep": true,
+    "section": "Cơ sở Hòa Lạc",
+    "line_number": 1
+  },
+  {
+    "question": "Khi nào Thủ tướng Chính phủ phê duyệt điều chỉnh quy hoạch chung Đại học Quốc gia Hà Nội tại Hòa Lạc?",
+    "answer": "Ngày 23 tháng 8 năm 2002.",
+    "keep": true,
+    "section": "Cơ sở Hòa Lạc",
+    "line_number": 2
+  },
+  {
+    "question": "Mục tiêu của Đại học Quốc gia Hà Nội về việc chuyển các đơn vị lên cơ sở Hòa Lạc là gì?",
+    "answer": "Mục tiêu là đến năm 2015 sẽ đưa một số đơn vị trực thuộc lên cơ sở Hòa Lạc, và vào năm 2025 sẽ chuyển toàn bộ Đại học Quốc gia Hà Nội cùng các cơ sở trực thuộc lên cơ sở mới tại Hòa Lạc.",
+    "keep": true,
+    "section": "Cơ sở Hòa Lạc",
+    "line_number": 3
+  },
+  {
+    "question": "Khi nào Đại học Quốc gia Hà Nội tại Hòa Lạc được khởi công?",
+    "answer": "Ngày 20 tháng 12 năm 2004.",
+    "keep": true,
+    "section": "Cơ sở Hòa Lạc",
+    "line_number": 4
+  },
+  {
+    "question": "Khi nào Đại học Quốc gia Hà Nội tiếp nhận các cơ sở đầu tiên tại Hòa Lạc?",
+    "answer": "Tháng 12 năm 2014.",
+    "keep": true,
+    "section": "Cơ sở Hòa Lạc",
+    "line_number": 5
+  },
+  {
+    "question": "Chủ tịch nươc snaof đã tham dự lễ động thổ Trường Đại học Việt - Nhật thuộc Đại học Quốc gia Hà Nội vào ngày 20 tháng 12 năm 2014?",
+    "answer": "Chủ tịch nước Trương Tấn Sang.",
+    "keep": true,
+    "section": "Cơ sở Hòa Lạc",
+    "line_number": 6
+  },
+  {
+    "question": "Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà Nội đã nhận Giải Nobel Hòa bình?",
+    "answer": "Lê Đức Thọ",
+    "keep": true,
+    "section": "Cựu sinh viên ưu tú",
+    "line_number": 3
+  },
+  {
+    "question": "Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà Nội được biết đến với Huy chương Fields?",
+    "answer": "Ngô Bảo Châu",
+    "keep": true,
+    "section": "Cựu sinh viên ưu tú",
+    "line_number": 7
+  },
+  {
+    "question": "Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà Nội đã nhận Huy chương Dirac?",
+    "answer": "Đàm Thanh Sơn.",
+    "keep": true,
+    "section": "Cựu sinh viên ưu tú",
+    "line_number": 8
+  },
+  {
+    "question": "Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà Nội đã nhận Giải thưởng Constantin Caratheodory?",
+    "answer": "Hoàng Tụy",
+    "keep": true,
+    "section": "Cựu sinh viên ưu tú",
+    "line_number": 9
   }
 ]
