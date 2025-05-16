@@ -28,10 +28,10 @@ class RAG:
         print(f"retrieved_docs: {type(retrieved_docs)}")
 
         augmented_prompt = f"""
-        Dựa vào ngữ cảnh dưới đây, hãy trả lời câu hỏi.
-        Ngữ cảnh: {context}
-        Câu hỏi: {query_text}
-        """
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: {context}
+### Câu hỏi: {query_text}
+### Câu trả lời: """
 
         print(f"augmented_prompt: {augmented_prompt}")
 
