@@ -13,22 +13,7 @@ class LLMService:
         # Load environment variables
         load_dotenv()
 
-        # Login to HuggingFace
-        # token = os.getenv("HF_TOKEN")
-        # if token:
-        #     login(token=token)
-
-        # Define available models
-        self.model_list = [
-            'mistralai/Mistral-7B-Instruct-v0.3',  # 14gb
-            'Qwen/Qwen2.5-7B-Instruct',  # 14gb
-            'meta-llama/Llama-3.1-8B-Instruct',  # 16gb
-            'google/gemma-3-4b-it',  # 8gb
-            'TinyLlama/TinyLlama-1.1B-Chat-v1.0',  # 2.2gb
-        ]
-
-        # Set the model name (default to first model if not specified)
-        self.model_name = model_name if model_name else self.model_list[-1]
+        self.model_name = model_name
         self.model_embedding = model_embedding
 
         # Initialize the RAG system if enabled
@@ -52,7 +37,7 @@ class LLMService:
         print(f"Loading model {self.model_name}...")
         self.model = AutoModelForCausalLM.from_pretrained(
             self.model_name,
-            device_map="auto",
+            device_map="cuda",
             trust_remote_code=True
         )
         print("Model loaded successfully.")
@@ -76,8 +61,8 @@ class LLMService:
         inputs = {k: v.to(device) for k, v in inputs.items()}
 
         # Generate response
-        output = self.model.generate(**inputs, max_length=max_length)
-        # print("output", output)
+        output = self.model.generate(**inputs, max_new_tokens=max_length)
+        print("output", output)
 
         # Decode and return the response
         return self.tokenizer.decode(output[0], skip_special_tokens=True)

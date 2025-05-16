@@ -1,10 +1,11 @@
-from rag_module import RAG
+# from rag_module import RAG
 from llm_service import LLMService
-from pinecone_module import PineconeDBClient
+# from pinecone_module import PineconeDBClient
 from dotenv import load_dotenv
 # from data_handler import chunk_and_add_data
 import os
 import sys
+import json
 
 load_dotenv()
 
@@ -12,59 +13,62 @@ load_dotenv()
 PATH_DATA = "./data/data_vnu_wikipedia.txt"
 MODEL_EMBEDDING = os.getenv("MODEL_EMBEDDING")
 CHUNK_SIZE = 256
+PATH_TEST_DATA = "./data/demo_wiki_questions.json"
+
+model_list = [
+    { 
+        "name": "meta-llama-3.2",
+        "link": "meta-llama/Llama-3.2-3B-Instruct"
+    },
+    {
+        "name": "qwen-2.5",
+        "link": "Qwen/Qwen2.5-3B-Instruct"
+    },
+    {
+        "name": "gemma-3.4",
+        "link": "google/gemma-3-4b-it"
+    }
+]
 
 
-def main():
+def main(model_index=0):
     load_dotenv()
 
     # chunk_and_add_data(PATH_DATA, MODEL_EMBEDDING, CHUNK_SIZE)
 
-    db = PineconeDBClient(
-        model_embedding=MODEL_EMBEDDING,
-        chunk_size=CHUNK_SIZE
-    )
-
-    # Query to ChromaDB
-    result = db.query("Đại học Quốc gia Hà Nội")
-    print('DB query result:\n', result)
-
-    # Query in RAG
-    rag = RAG(model_embedding=MODEL_EMBEDDING, chunk_size=CHUNK_SIZE)
-    result = rag.rag_query("Đại học Quốc gia Hà Nội")
-    print('RAG query result', result)
-
-    return
+    model_variable = model_list[model_index]
 
     llm_service = LLMService(
         # You can specify a different model from the list if needed
-        model_name='meta-llama/Llama-3.1-8B-Instruct',
+        model_name=model_variable["link"],
         use_rag=True,
         model_embedding=MODEL_EMBEDDING
     )
 
-    prompt1 = "Đại học Quốc gia Hà Nội có bao nhiêu cơ sở?"
-    print(f"\n--- Query 1: {prompt1} ---")
-    output1 = llm_service.generate_text(prompt1)
-    print("output1", output1)
+    # Load input JSON
+    with open(PATH_TEST_DATA, "r", encoding="utf-8") as f:
+        data = json.load(f)
 
-    # Example 2: Vietnamese query with RAG
-    prompt2 = "Đại học Quốc Gia Hà Nội có những trường thpt nào?"
-    print(f"\n--- Query 2: {prompt2} ---")
-    output2 = llm_service.generate_text(prompt2)
-    print("output2", output2)
+    # Process each question
+    for i, item in enumerate(data):
+        prompt = item["question"]
+        print(f"\n--- Query {i + 1}: {prompt} ---")
+        rag_answer = llm_service.generate_text(prompt, max_length=128)
+        print(f"rag_answer {i + 1}:", rag_answer)
+        item["rag_answer"] = rag_answer
 
-    # Example 3: Direct query without RAG
-    prompt3 = "Ai là Đại tướng đầu tiên của Quân đội Nhân dân Việt Nam?"
-    print(f"\n--- Query 3 (without RAG): {prompt3} ---")
-    output3 = llm_service.generate_text(prompt3, use_rag=False)
-    print("output3", output3)
+    # Save to new JSON file
+    json_save_path = "data/{}-result.json".format(model_variable["name"])
+    with open(json_save_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":
     sys.stdout = open("out.txt", "w")
     sys.stderr = open("err.txt", "w")
 
-    main()
+    for i in range(len(model_list)):
+        main(model_index=i)
 
     sys.stdout.close()
     sys.stderr.close()
