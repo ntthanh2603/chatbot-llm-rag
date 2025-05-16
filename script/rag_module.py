@@ -15,10 +15,16 @@ class RAG:
 
         context = "\n\n".join(retrieved_docs)
         # context = retrieved_docs[0][:512]
+        # augmented_prompt = f"""
+        # Dựa vào ngữ cảnh dưới đây, hãy trả lời câu hỏi.
+        # Ngữ cảnh: {context}
+        # Câu hỏi: {query_text}
+        # """
+
         augmented_prompt = f"""
-        Dựa vào ngữ cảnh dưới đây, hãy trả lời câu hỏi.
-        Ngữ cảnh: {context}
+        Dựa vào 1 phần ngữ cảnh sau hãy trả lời các câu hỏi bên dưới: {context}
         Câu hỏi: {query_text}
         """
+        print("Augment", augmented_prompt)
     
         return augmented_prompt

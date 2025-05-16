@@ -48,13 +48,13 @@ python -m script.main
 python -m script.main --gpu
 
 # Run in GPU  4 bit
-python -m script.main --gpu --4bit
+python -m script.main --4bit
 
 # Model other
 python -m script.main --model "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 
-# Not use RAG
-python -m script.main --no-rag
+# Use RAG
+python -m script.main --use-rag
 
 # Run with llm is api gg
 python -m script.main --llm-api
