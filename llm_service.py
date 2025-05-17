@@ -65,7 +65,12 @@ class LLMService:
         print("output", output)
 
         # Decode and return the response
-        return self.tokenizer.decode(output[0], skip_special_tokens=True)
+        return {
+            "rag_prompt": input_prompt,
+            "rag_answer": self.tokenizer.decode(
+                output[0], skip_special_tokens=True
+            )
+        }
 
     def test(self, path: str):
         pass

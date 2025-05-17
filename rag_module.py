@@ -36,16 +36,21 @@ class RAG:
         if not results or 'documents' not in results:
             return "Không thể tìm thấy thông tin liên quan."
 
-        retrieved_docs = results['documents'][0]
+        # Retrieve top_k documents
+        retrieved_docs = results['documents'][:top_k]
 
-        retrieved_docs = self.clean_rag_output(retrieved_docs)
+        # Flatten and clean each document
+        cleaned_docs = []
+        for doc in retrieved_docs:
+            cleaned_doc = self.clean_rag_output(doc)
+            if len(cleaned_doc) > 256:
+                cleaned_doc = cleaned_doc[:256]
+            cleaned_docs.append(cleaned_doc)
 
-        print(f"retrieved_docs: {retrieved_docs}")
+        # Limit the total number of tokens (characters) to 256 * top_k
+        context = " ".join(cleaned_docs)
 
-        # context = "\n\n".join(retrieved_docs)
-        context = retrieved_docs[:256]
-
-        print(f"retrieved_docs: {type(retrieved_docs)}")
+        print(f"context: {type(context)}")
 
         augmented_prompt = f"""
 Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.

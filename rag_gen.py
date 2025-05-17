@@ -2,15 +2,13 @@ from rag_module import RAG
 # from llm_service import LLMService
 # from pinecone_module import PineconeDBClient
 from dotenv import load_dotenv
-# from data_handler import chunk_and_add_data
 import os
-# import sys
+import sys
 import json
 
 load_dotenv()
 
 
-PATH_DATA = "./data/data_vnu_wikipedia.txt"
 MODEL_EMBEDDING = os.getenv("MODEL_EMBEDDING")
 CHUNK_SIZE = 256
 PATH_TEST_DATA = "./data/demo_wiki_questions.json"
@@ -18,8 +16,6 @@ PATH_TEST_DATA = "./data/demo_wiki_questions.json"
 
 def main():
     load_dotenv()
-
-    # chunk_and_add_data(PATH_DATA, MODEL_EMBEDDING, CHUNK_SIZE)
 
     # Query in RAG
     rag = RAG(model_embedding=MODEL_EMBEDDING, chunk_size=CHUNK_SIZE)
@@ -44,4 +40,11 @@ def main():
 
 
 if __name__ == "__main__":
+    os.makedirs("stdout", exist_ok=True)
+    sys.stdout = open("stdout/rag_gen_out.txt", "w")
+    sys.stderr = open("stdout/rag_gen_err.txt", "w")
+
     main()
+
+    sys.stdout.close()
+    sys.stderr.close()

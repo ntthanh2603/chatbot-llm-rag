@@ -2,7 +2,6 @@
 from llm_service import LLMService
 # from pinecone_module import PineconeDBClient
 from dotenv import load_dotenv
-# from data_handler import chunk_and_add_data
 import os
 import sys
 import json
@@ -10,7 +9,6 @@ import json
 load_dotenv()
 
 
-PATH_DATA = "./data/data_vnu_wikipedia.txt"
 MODEL_EMBEDDING = os.getenv("MODEL_EMBEDDING")
 CHUNK_SIZE = 256
 PATH_TEST_DATA = "./data/demo_wiki_questions.json"
@@ -34,8 +32,6 @@ model_list = [
 def main(model_index=0):
     load_dotenv()
 
-    # chunk_and_add_data(PATH_DATA, MODEL_EMBEDDING, CHUNK_SIZE)
-
     model_variable = model_list[model_index]
 
     llm_service = LLMService(
@@ -53,9 +49,10 @@ def main(model_index=0):
     for i, item in enumerate(data):
         prompt = item["question"]
         print(f"\n--- Query {i + 1}: {prompt} ---")
-        rag_answer = llm_service.generate_text(prompt, max_length=128)
-        print(f"rag_answer {i + 1}:", rag_answer)
-        item["rag_answer"] = rag_answer
+        answer = llm_service.generate_text(prompt, max_length=128)
+        print(f"rag_answer {i + 1}:", answer["rag_answer"])
+        item["rag_prompt"] = answer["rag_prompt"]
+        item["rag_answer"] = answer["rag_answer"]
 
     # Save to new JSON file
     json_save_path = "data/{}-result.json".format(model_variable["name"])
@@ -64,11 +61,11 @@ def main(model_index=0):
 
 
 if __name__ == "__main__":
-    sys.stdout = open("out.txt", "w")
-    sys.stderr = open("err.txt", "w")
+    os.makedirs("stdout", exist_ok=True)
+    sys.stdout = open("stdout/main_out.txt", "w")
+    sys.stderr = open("stdout/main_err.txt", "w")
 
-    for i in range(len(model_list)):
-        main(model_index=i)
+    main(model_index=1)
 
     sys.stdout.close()
     sys.stderr.close()
