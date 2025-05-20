@@ -1,6 +1,10 @@
 from rag_module import RAG
 # from llm_service import LLMService
 # from pinecone_module import PineconeDBClient
+from model_env import (
+    CHUNK_SIZE, PATH_TEST_DATA,
+    model_embedding_list
+)
 from dotenv import load_dotenv
 import os
 import sys
@@ -9,16 +13,16 @@ import json
 load_dotenv()
 
 
-MODEL_EMBEDDING = os.getenv("MODEL_EMBEDDING")
-CHUNK_SIZE = 256
-PATH_TEST_DATA = "./data/demo_wiki_questions.json"
-
-
-def main():
+def main(model_embedding_index=0):
     load_dotenv()
 
+    model_embedding_variable = model_embedding_list[model_embedding_index]
+
     # Query in RAG
-    rag = RAG(model_embedding=MODEL_EMBEDDING, chunk_size=CHUNK_SIZE)
+    rag = RAG(
+        model_embedding=model_embedding_variable["link"],
+        chunk_size=CHUNK_SIZE
+    )
     result = rag.rag_query("Đại học Quốc gia Hà Nội có bao nhiêu cơ sở?")
     print('RAG query result', result)
 
@@ -35,7 +39,14 @@ def main():
         item["rag_prompt"] = rag_prompt
 
     # Save to new JSON file
-    with open("data/rag-prompt-result.json", "w", encoding="utf-8") as f:
+    os.makedirs(
+        "./data/{}".format(model_embedding_variable["name"]),
+        exist_ok=True
+    )
+    json_save_path = "data/{}/rag-prompt-result.json".format(
+        model_embedding_variable["name"]
+    )
+    with open(json_save_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
@@ -44,7 +55,8 @@ if __name__ == "__main__":
     sys.stdout = open("stdout/rag_gen_out.txt", "w")
     sys.stderr = open("stdout/rag_gen_err.txt", "w")
 
-    main()
+    for i in range(1, len(model_embedding_list)):
+        main(model_embedding_index=i)
 
     sys.stdout.close()
     sys.stderr.close()

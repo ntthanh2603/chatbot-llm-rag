@@ -42,35 +42,39 @@ class LLMService:
         )
         print("Model loaded successfully.")
 
-    def generate_text(self, prompt, max_length=512, use_rag=None):
-        # Determine whether to use RAG
-        should_use_rag = self.use_rag if use_rag is None else use_rag
-
-        if should_use_rag:
-            # Get RAG-augmented prompt
-            rag_prompt = self.rag.rag_query(prompt)
-            input_prompt = rag_prompt
-        else:
-            input_prompt = prompt
-
+    def through_llm(self, prompt, max_length):
         # Prepare model inputs
-        inputs = self.tokenizer(input_prompt, return_tensors="pt")
-
+        inputs = self.tokenizer(prompt, return_tensors="pt")
         # Move inputs to the correct device
         device = next(self.model.parameters()).device
         inputs = {k: v.to(device) for k, v in inputs.items()}
-
         # Generate response
         output = self.model.generate(**inputs, max_new_tokens=max_length)
-        print("output", output)
 
-        # Decode and return the response
-        return {
-            "rag_prompt": input_prompt,
-            "rag_answer": self.tokenizer.decode(
-                output[0], skip_special_tokens=True
-            )
+        answer = self.tokenizer.decode(
+            output[0], skip_special_tokens=True
+        )
+
+        return answer
+
+    def generate_text(self, prompt, max_length=512, use_rag=None, top_k=5):
+        # Determine whether to use RAG
+        should_use_rag = self.use_rag if use_rag is None else use_rag
+
+        normal_answer = self.through_llm(prompt, max_length=max_length)
+
+        return_dict = {
+            "normal_answer": normal_answer
         }
+
+        if should_use_rag:
+            rag_prompt = self.rag.rag_query(prompt, top_k=top_k)
+            rag_answer = self.through_llm(prompt, max_length=max_length)
+
+            return_dict["rag_prompt"] = rag_prompt
+            return_dict["rag_answer"] = rag_answer
+
+        return return_dict
 
     def test(self, path: str):
         pass
