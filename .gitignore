@@ -3,3 +3,4 @@ crawl/synthesis_data_generation.py
 script/venv
 script/__pycache__
 venv
+.DS_Store
