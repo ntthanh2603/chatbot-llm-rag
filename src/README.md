@@ -9,11 +9,16 @@ python3 -m venv venv
 ```bash
 source venv/bin/activate
 ```
+### Vào folder:
+
+```bash
+cd src
+```
 
 ### Cài đặt các thư viện cần thiết:
 
 ```bash
-pip install -r script/requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Đăng nhập hugkingface, chạy lệnh này trong cmd và dán token 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
@@ -26,5 +31,5 @@ huggingface-cli login
 ### Chạy file python
 
 ```
-python3 -m script.main
+python main.py
 ```
