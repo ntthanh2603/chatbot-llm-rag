@@ -1,0 +1,11 @@
+transformers
+protobuf
+sentencepiece
+chromadb
+sentence-transformers
+python-dotenv
+torch
+huggingface_hub
+bitsandbytes
+accelerate
+pinecone
